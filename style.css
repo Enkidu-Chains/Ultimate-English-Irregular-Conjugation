@@ -156,12 +156,12 @@ orientation_examples,
     color: rgb(209, 199, 158);
 }
 
-.note_en_word {
-    /* A English word used in the notes, e.g. 'me' */
+.note_non_en_word {
+    /* A non English word used in the notes, e.g. 'me' */
     font-style: italic;
 }
 
-.note_en_highlight {
+.note_highlight {
     /* Let's Go */
     font-style: italic;
     color: rgb(209, 199, 158);
@@ -199,16 +199,16 @@ orientation_examples,
     font-style: italic;
 }
 
-.dle_conj a:link,
-.dle_conj a:visited,
-.dle_conj a:active {
+.camb a:link,
+.camb a:visited,
+.camb a:active {
     color: rgb(209, 199, 158);
     border-bottom: 1px dashed rgb(88, 157, 246);
     text-decoration: none;
     font-style: italic;
 }
 
-.dle_conj a:hover {
+.camb a:hover {
     color: rgb(88, 157, 246);
     text-decoration: none;
     font-style: italic;
