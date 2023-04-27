@@ -96,8 +96,8 @@ orientation_examples,
     color: #999;
 }
 
-.en_prn {
-    /* the pronoun on the Spanish side. Since it's optional, it can be greyed out */
+.en_pronoun {
+    /* the pronoun on the English side. Since it's optional, it can be greyed out */
     color: #999;
 }
 
