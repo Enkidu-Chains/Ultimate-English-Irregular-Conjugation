@@ -60,149 +60,148 @@
 | dwell | оселитися, жити |
 | eat | поїсти |
 | fall | впасти |
-| feed |  |
-| feel |  |
-| fight |  |
-| find |  |
-| fit |  |
-| flee |  |
-| fling |  |
-| fly |  |
-| forbid |  |
-| forecast |  |
-| foretell |  |
-| forget |  |
-| forgive |  |
-| forsake |  |
-| freeze |  |
-| get |  |
-| give |  |
-| go |  |
-| grind |  |
-| grow |  |
-| hang |  |
-| have |  |
-| hear |  |
-| hide |  |
-| hit |  |
-| hold |  |
-| hurt |  |
-| interweave |  |
-| keep |  |
-| kneel |  |
-| know |  |
-| lay |  |
-| lead |  |
-| lean |  |
-| leap |  |
-| learn |  |
-| leave |  |
-| lend |  |
-| let |  |
-| lie |  |
-| light |  |
-| lose |  |
-| make |  |
-| may |  |
-| mean |  |
-| meet |  |
-| mislay |  |
-| mistake |  |
-| must |  |
-| overhear |  |
-| oversleep |  |
-| pay |  |
-| plead |  |
-| prove |  |
-| put |  |
-| quit |  |
-| read |  |
-| rend |  |
-| rid |  |
-| ride |  |
-| ring |  |
-| rise |  |
-| run |  |
-| saw |  |
-| say |  |
-| see |  |
-| seek |  |
-| sell |  |
-| send |  |
-| set |  |
-| sew |  |
-| shake |  |
-| shall |  |
-| shear |  |
-| shed |  |
-| shine |  |
-| shoe |  |
-| shoot |  |
-| show |  |
-| shred |  |
-| shrink |  |
-| shut |  |
-| sing |  |
-| sink |  |
-| sit |  |
-| sleep |  |
-| slide |  |
-| sling |  |
-| slink |  |
-| slit |  |
-| smell |  |
-| sneak |  |
-| sow |  |
-| speak |  |
-| speed |  |
-| spell |  |
-| spend |  |
-| spill |  |
-| spin |  |
-| spit |  |
-| split |  |
-| spoil |  |
-| spread |  |
-| spring |  |
-| stand |  |
-| steal |  |
-| stick |  |
-| sting |  |
-| stink |  |
-| stride |  |
-| strike |  |
-| string |  |
-| strive |  |
-| swear |  |
-| sweat |  |
-| sweep |  |
-| swell |  |
-| swim |  |
-| swing |  |
-| take |  |
-| teach |  |
-| tear |  |
-| tell |  |
-| think |  |
-| throw |  |
-| thrust |  |
-| tread |  |
-| understand |  |
-| undertake |  |
-| undo |  |
-| upset |  |
-| waeve |  |
-| wake |  |
-| wear |  |
-| weave |  |
-| wed |  |
-| weep |  |
-| wet |  |
-| will |  |
-| win |  |
-| wind |  |
-| withdraw |  |
-| withstand |  |
-| wring |  |
-| write |  |
-
+| feed | годувати |
+| feel | відчути |
+| fight | боротися, битися |
+| find | знайти |
+| fit | поміститися, відповідати, вписатися |
+| flee | тікати |
+| fling | кидатись, кидати |
+| fly | летіти |
+| forbid | забороняти |
+| forecast | прогнозувати |
+| foretell | пророкувати |
+| forget | забути |
+| forgive | прощати, пробачити |
+| forsake | покинути, відкинути |
+| freeze | застигнути, заморозити, замерзнути |
+| get | отримати, дістати, дістатись |
+| give | віддати, дати |
+| go | йти, піти |
+| grind | подрібнити, розмолоти |
+| grow | рости, зростати |
+| hang | повісити |
+| have | мати |
+| hear | почути |
+| hide | сховати, сховатися |
+| hit | вдарити |
+| hold | тримати, утримувати |
+| hurt | завдати болю, нашкодити |
+| interweave | переплітатися, переплести |
+| keep | зберегти, тримати |
+| kneel | стати на коліна |
+| know | знати |
+| lay | покласти, укласти |
+| lead | вести за собою, керувати |
+| lean | притулитися, нахилитися |
+| leap | стрибнути |
+| learn | вчитися, навчитися |
+| leave | піти, покинути |
+| lend | позичити, давати в борг. |
+| let | дозволити |
+| lie | брехати |
+| light | запалити, освітлити |
+| lose | втратити, втрачати |
+| make | зробити |
+| may | могти |
+| mean | означати. |
+| meet | зустрітися |
+| mislay | загубити, поклисти в неправильне місто |
+| mistake | помилитися |
+| must | мусіти |
+| overhear | підслухати |
+| oversleep | проспати. |
+| pay | платити, заплатити |
+| plead | визнати свою провину, просити пробачення. |
+| prove | довести |
+| put | покласти |
+| quit | звільнитися, кинути |
+| read | читати |
+| rend | знищити, розірвати |
+| rid | позбутися |
+| ride | їздити |
+| ring | дзвонити |
+| rise | піднятися |
+| run | бігти |
+| saw | пиляти |
+| say | сказати |
+| see | побачити |
+| seek | шукати |
+| sell | продати |
+| send | відправити |
+| set | встановити |
+| sew | шити |
+| shake | трясти, трястися |
+| shall | буду (чужа воля) |
+| shear | зрізати, відрізати |
+| shed | пролити |
+| shine | сяяти |
+| shoe | взути |
+| shoot | стріляти |
+| show | показати |
+| shred | розірвати на шматки |
+| shrink | зменшитися |
+| shut | закрити |
+| sing | співати |
+| sink | потонути |
+| sit | сидіти |
+| sleep | спати |
+| slide | ковзати |
+| sling | накинути на себе, накинути |
+| slink | прослизнути |
+| slit | розрізати |
+| smell | відчути запах |
+| sneak | прокрастися |
+| sow | посіяти |
+| speak | говорити |
+| speed | дуже швидко їхати |
+| spell | писати по буквах |
+| spend | витрачати |
+| spill | розлити, пролити |
+| spin | крутитися, обертатися |
+| spit | сплюнути, плюнути |
+| split | розколоти, розколотися |
+| spoil | зіпсувати |
+| spread | поширювати, розповсюджувати |
+| spring | пружинити |
+| stand | стояти |
+| steal | вкрасти |
+| stick | приклеїти, прикріпити |
+| sting | жалити |
+| stink | смердіти |
+| stride | крокувати |
+| strike | страйкувати, ударяти |
+| string | нанизувати, зв'язувати |
+| strive | прагнути, намагатися |
+| swear | поклястися, присягнути |
+| sweat | потіти |
+| sweep | підмітати |
+| swell | набрякнути, розбухати |
+| swim | плавати |
+| swing | розгойдуватися |
+| take | взяти |
+| teach | викладати, навчати |
+| tear | розірвати |
+| tell | розповісти |
+| think | подумати, думати |
+| throw | кинути, кидати |
+| thrust | штовхнути, штовхати |
+| tread | наступати |
+| understand | зрозуміти |
+| undertake | взяти на себе зобов'язання |
+| undo | відмінити, скасувати |
+| upset | засмутити |
+| waeve | махнути (рукою) |
+| wake | розбудити |
+| wear | носити (одяг) |
+| weave | сплести |
+| wed | одружитися. |
+| weep | плакати |
+| wet | намочити |
+| will | буду (своя воля) |
+| win | перемогти, виграти |
+| wind | намотувати, заводити, накручувати  |
+| withdraw | вивести кошти |
+| withstand | витримати, протистояти |
+| wring | вичавити, віджати |
+| write | писати |
