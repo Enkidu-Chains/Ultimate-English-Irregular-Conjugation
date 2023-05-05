@@ -1,0 +1,2683 @@
+{
+  "Sheet": [
+    {
+      "infinitive": "abide",
+      "present_tense": "abides",
+      "past_tense": [
+        "abode",
+        "abided"
+      ],
+      "past_participle": [
+        "abode",
+        "abided"
+      ],
+      "infinitive_reading": "əbɑ́jd",
+      "present_tense_reading": "əbɑ́jdz",
+      "past_tense_reading": [
+        "əbə́wd",
+        "əbɑ́jdɪd"
+      ],
+      "past_participle_reading": [
+        "əbə́wd",
+        "əbɑ́jdɪd"
+      ],
+      "context": "in the wildeness",
+      "translation": "залишатися"
+    },
+    {
+      "infinitive": "arise",
+      "present_tense": "arises",
+      "past_tense": "arose",
+      "past_participle": "arisen",
+      "infinitive_reading": "əɹɑ́jz",
+      "present_tense_reading": "əɹɑ́jzɪz",
+      "past_tense_reading": "əɹə́wz",
+      "past_participle_reading": "əɹɪ́zən",
+      "context": "early in the morning",
+      "translation": [
+        "виникати",
+        "з'явитись"
+      ]
+    },
+    {
+      "infinitive": "awake",
+      "present_tense": "awakes",
+      "past_tense": "awoke",
+      "past_participle": "awoken",
+      "infinitive_reading": "ə ɹ ɪ́ z ə n",
+      "present_tense_reading": "əwɛ́jks",
+      "past_tense_reading": "əwə́wk",
+      "past_participle_reading": "əwə́wkən",
+      "context": "at 9 am",
+      "translation": "прокинутись"
+    },
+    {
+      "infinitive": "be",
+      "present_tense": [
+        "am",
+        "is",
+        "are"
+      ],
+      "past_tense": [
+        "was",
+        "were"
+      ],
+      "past_participle": "been",
+      "infinitive_reading": "bɪ́j",
+      "present_tense_reading": [
+        "ám/əm",
+        "ɪz/ɪ́z",
+        "ɑ́ː/ɛ́ː/ə"
+      ],
+      "past_tense_reading": [
+        "wɔ́z/wəz",
+        "wə/wə́ː"
+      ],
+      "past_participle_reading": "bɪ́jn/bɪn",
+      "context": "in London",
+      "translation": "бути"
+    },
+    {
+      "infinitive": "bear",
+      "present_tense": "bears",
+      "past_tense": "bore",
+      "past_participle": "borne",
+      "infinitive_reading": "bɛ́ː",
+      "present_tense_reading": "bɛ́ːz",
+      "past_tense_reading": "bóː",
+      "past_participle_reading": "bóːn",
+      "context": "a bag",
+      "translation": [
+        "витримати",
+        "нести"
+      ]
+    },
+    {
+      "infinitive": "beat",
+      "present_tense": "beats",
+      "past_tense": "beat",
+      "past_participle": "beaten",
+      "infinitive_reading": "bɪ́jt",
+      "present_tense_reading": "bɪ́jts",
+      "past_tense_reading": "bɪ́jt",
+      "past_participle_reading": "bɪ́jtən",
+      "context": "the opponent",
+      "translation": [
+        "пробити",
+        "перемогти"
+      ]
+    },
+    {
+      "infinitive": "become",
+      "present_tense": "becomes",
+      "past_tense": "became",
+      "past_participle": "become",
+      "infinitive_reading": "bəkʰʌ́m",
+      "present_tense_reading": "bəkʰʌ́mz",
+      "past_tense_reading": "bəkʰɛ́jm",
+      "past_participle_reading": "bəkʰʌ́m",
+      "context": "a layer",
+      "translation": "стати"
+    },
+    {
+      "infinitive": "befall",
+      "present_tense": "befalls",
+      "past_tense": "befell",
+      "past_participle": "befallen",
+      "infinitive_reading": "bəfóːl",
+      "present_tense_reading": "bəfóːlz",
+      "past_tense_reading": "bəfɛ́l",
+      "past_participle_reading": "bəfóːlən",
+      "context": "my friends",
+      "translation": "спіткати"
+    },
+    {
+      "infinitive": "begin",
+      "present_tense": "begins",
+      "past_tense": "began",
+      "past_participle": "begun",
+      "infinitive_reading": "bəgɪ́n",
+      "present_tense_reading": "bəgɪ́nz",
+      "past_tense_reading": "bəgán",
+      "past_participle_reading": "bəgʌ́n",
+      "context": "solving the problem",
+      "translation": "почати"
+    },
+    {
+      "infinitive": "behold",
+      "present_tense": "beholds",
+      "past_tense": "beheld",
+      "past_participle": "beheld",
+      "infinitive_reading": "bəhə́wld",
+      "present_tense_reading": "bəhə́wldz",
+      "past_tense_reading": "bəhɛ́ld",
+      "past_participle_reading": "bəhɛ́ld",
+      "context": "at the miracle",
+      "translation": "побачити"
+    },
+    {
+      "infinitive": "bend",
+      "present_tense": "bends",
+      "past_tense": "bent",
+      "past_participle": "bent",
+      "infinitive_reading": "bɛ́nd",
+      "present_tense_reading": "bɛ́ndz",
+      "past_tense_reading": "bɛ́nt",
+      "past_participle_reading": "bɛ́nt",
+      "context": "to pick up something",
+      "translation": "зігнутись"
+    },
+    {
+      "infinitive": "bet",
+      "present_tense": "bets",
+      "past_tense": "bet",
+      "past_participle": "bet",
+      "infinitive_reading": "bɛ́t",
+      "present_tense_reading": "bɛ́ts",
+      "past_tense_reading": "bɛ́t",
+      "past_participle_reading": "bɛ́t",
+      "context": "£500 on the horse",
+      "translation": "посперечатися"
+    },
+    {
+      "infinitive": "bid",
+      "present_tense": "bids",
+      "past_tense": "bid",
+      "past_participle": "bid",
+      "infinitive_reading": "bɪ́d",
+      "present_tense_reading": "bɪ́d",
+      "past_tense_reading": "bɪ́d",
+      "past_participle_reading": "bɪ́d",
+      "context": "£200 for the portrait",
+      "translation": "зробити ставку"
+    },
+    {
+      "infinitive": "bind",
+      "present_tense": "binds",
+      "past_tense": "bound",
+      "past_participle": "bound",
+      "infinitive_reading": "bɑ́jnd",
+      "present_tense_reading": "bɑ́jndz",
+      "past_tense_reading": "báwnd",
+      "past_participle_reading": "báwnd",
+      "context": "the packages",
+      "translation": [
+        "зв'язати",
+        "пов'язати"
+      ]
+    },
+    {
+      "infinitive": "bite",
+      "present_tense": "bites",
+      "past_tense": "bit",
+      "past_participle": "bit",
+      "infinitive_reading": "bɑ́jt",
+      "present_tense_reading": "bɑ́jts",
+      "past_tense_reading": "bɪ́t",
+      "past_participle_reading": "bɪ́t",
+      "context": "into the apple",
+      "translation": [
+        "кусати",
+        "кусатись"
+      ]
+    },
+    {
+      "infinitive": "bleed",
+      "present_tense": "bleeds",
+      "past_tense": "bled",
+      "past_participle": "bled",
+      "infinitive_reading": "blɪ́jd",
+      "present_tense_reading": "blɪ́jdz",
+      "past_tense_reading": "blɛ́d",
+      "past_participle_reading": "blɛ́d",
+      "context": "because of the wound",
+      "translation": "кровоточити"
+    },
+    {
+      "infinitive": "blow",
+      "present_tense": "blows",
+      "past_tense": "blew",
+      "past_participle": "blown",
+      "infinitive_reading": "blə́w",
+      "present_tense_reading": "blə́wz",
+      "past_tense_reading": "blʉ́w",
+      "past_participle_reading": "blə́wn",
+      "context": "the dust off the books",
+      "translation": "підірвати"
+    },
+    {
+      "infinitive": "break",
+      "present_tense": "breaks",
+      "past_tense": "broke",
+      "past_participle": "broken",
+      "infinitive_reading": "bɹɛ́jk",
+      "present_tense_reading": "bɹɛ́jks",
+      "past_tense_reading": "bɹə́wk",
+      "past_participle_reading": "bɹə́wkən",
+      "context": "the arm",
+      "translation": [
+        "розбити",
+        "зламати"
+      ]
+    },
+    {
+      "infinitive": "breed",
+      "present_tense": "breeds",
+      "past_tense": "bred",
+      "past_participle": "bred",
+      "infinitive_reading": "bɹɪ́jd",
+      "present_tense_reading": "bɹɪ́jdz",
+      "past_tense_reading": "bɹɛ́d",
+      "past_participle_reading": "bɹɛ́d",
+      "context": "the dogs for sale",
+      "translation": [
+        "розмножувати",
+        "розмножуватися"
+      ]
+    },
+    {
+      "infinitive": "bring",
+      "present_tense": "brings",
+      "past_tense": "brought",
+      "past_participle": "brought",
+      "infinitive_reading": "bɹɪ́ŋ",
+      "present_tense_reading": "bɹɪ́ŋz",
+      "past_tense_reading": "bɹóːt",
+      "past_participle_reading": "bɹóːt",
+      "context": "a dish to the table",
+      "translation": [
+        "принести",
+        "привезти"
+      ]
+    },
+    {
+      "infinitive": "broadcast",
+      "present_tense": "broadcasts",
+      "past_tense": "broadcast",
+      "past_participle": "broadcast",
+      "infinitive_reading": "bɹóːdkʰɑːsd",
+      "present_tense_reading": "bɹóːdkʰɑːsdz",
+      "past_tense_reading": "bɹóːdkʰɑːsd",
+      "past_participle_reading": "bɹóːdkʰɑːsd",
+      "context": "on the TV",
+      "translation": "транслювати"
+    },
+    {
+      "infinitive": "build",
+      "present_tense": "builds",
+      "past_tense": "built",
+      "past_participle": "built",
+      "infinitive_reading": "bɪ́ld",
+      "present_tense_reading": "bɪ́ldz",
+      "past_tense_reading": "bɪ́lt",
+      "past_participle_reading": "bɪ́lt",
+      "context": "the skyscraper",
+      "translation": [
+        "побудувати",
+        "будувати"
+      ]
+    },
+    {
+      "infinitive": "burn",
+      "present_tense": "burns",
+      "past_tense": [
+        "burnt",
+        "burned"
+      ],
+      "past_participle": [
+        "burnt",
+        "burned"
+      ],
+      "infinitive_reading": "bə́ːn",
+      "present_tense_reading": "bə́ːnz",
+      "past_tense_reading": [
+        "bə́ːnt",
+        "bə́ːnd"
+      ],
+      "past_participle_reading": [
+        "bə́ːnt",
+        "bə́ːnd"
+      ],
+      "context": "the firewoods",
+      "translation": [
+        "згоріти",
+        "спалити"
+      ]
+    },
+    {
+      "infinitive": "burst",
+      "present_tense": "bursts",
+      "past_tense": "burst",
+      "past_participle": "burst",
+      "infinitive_reading": "bə́ːsd",
+      "present_tense_reading": "bə́ːsdz",
+      "past_tense_reading": "bə́ːsd",
+      "past_participle_reading": "bə́ːsd",
+      "context": "with curiosity",
+      "translation": [
+        "вибухнути",
+        "лопнути"
+      ]
+    },
+    {
+      "infinitive": "buy",
+      "present_tense": "buys",
+      "past_tense": "bought",
+      "past_participle": "bought",
+      "infinitive_reading": "bɑ́j",
+      "present_tense_reading": "bɑ́jz",
+      "past_tense_reading": "bóːt",
+      "past_participle_reading": "bóːt",
+      "context": "the house",
+      "translation": [
+        "купити",
+        "придбати"
+      ]
+    },
+    {
+      "infinitive": "cast",
+      "present_tense": "casts",
+      "past_tense": "cast",
+      "past_participle": "cast",
+      "infinitive_reading": "kʰɑ́ːsd",
+      "present_tense_reading": "kʰɑ́ːsdz",
+      "past_tense_reading": "kʰɑ́ːsd",
+      "past_participle_reading": "kʰɑ́ːsd",
+      "context": "actors for a movie",
+      "translation": [
+        "відбирати (на кастингу)",
+        "закинути"
+      ]
+    },
+    {
+      "infinitive": "catch",
+      "present_tense": "catches",
+      "past_tense": "caught",
+      "past_participle": "caught",
+      "infinitive_reading": "kʰáʧ",
+      "present_tense_reading": "kʰáʧɪz",
+      "past_tense_reading": "kʰóːt",
+      "past_participle_reading": "kʰóːt",
+      "context": "a fish in the river",
+      "translation": [
+        "зловити",
+        "ловити"
+      ]
+    },
+    {
+      "infinitive": "choose",
+      "present_tense": "chooses",
+      "past_tense": "chose",
+      "past_participle": "chosen",
+      "infinitive_reading": "ʧʉ́wz",
+      "present_tense_reading": "ʧʉ́wzɪz",
+      "past_tense_reading": "ʧə́wz",
+      "past_participle_reading": "ʧə́wzən",
+      "context": "the movie to watch",
+      "translation": [
+        "вибирати",
+        "вибрати"
+      ]
+    },
+    {
+      "infinitive": "cling",
+      "present_tense": "clings",
+      "past_tense": "clung",
+      "past_participle": "clung",
+      "infinitive_reading": "kʰlɪ́ŋ",
+      "present_tense_reading": "kʰlɪ́ŋz",
+      "past_tense_reading": "kʰlʌ́ŋ",
+      "past_participle_reading": "kʰlʌ́ŋ",
+      "context": "to the tree",
+      "translation": "чіплятися"
+    },
+    {
+      "infinitive": "come",
+      "present_tense": "comes",
+      "past_tense": "came",
+      "past_participle": "come",
+      "infinitive_reading": "kʰʌ́m",
+      "present_tense_reading": "kʰʌ́mz",
+      "past_tense_reading": "kʰɛ́jm",
+      "past_participle_reading": "kʰʌ́m",
+      "context": "to a party",
+      "translation": "прийти"
+    },
+    {
+      "infinitive": "cost",
+      "present_tense": "costs",
+      "past_tense": "cost",
+      "past_participle": "cost",
+      "infinitive_reading": "kʰɔ́sd",
+      "present_tense_reading": "kʰɔ́sdz",
+      "past_tense_reading": "kʰɔ́sd",
+      "past_participle_reading": "kʰɔ́sd",
+      "context": "£100 per hour",
+      "translation": "коштувати"
+    },
+    {
+      "infinitive": "creep",
+      "present_tense": "creeps",
+      "past_tense": "crept",
+      "past_participle": "crept",
+      "infinitive_reading": "kʰɹɪ́jp",
+      "present_tense_reading": "kʰɹɪ́jps",
+      "past_tense_reading": "kʰɹɛ́pt",
+      "past_participle_reading": "kʰɹɛ́pt",
+      "context": "to a girl at night",
+      "translation": [
+        "повзати",
+        "повзти",
+        "крастися"
+      ]
+    },
+    {
+      "infinitive": "cut",
+      "present_tense": "cuts",
+      "past_tense": "cut",
+      "past_participle": "cut",
+      "infinitive_reading": "kʰʌ́t",
+      "present_tense_reading": "kʰʌ́ts",
+      "past_tense_reading": "kʰʌ́t",
+      "past_participle_reading": "kʰʌ́t",
+      "context": "the red apple",
+      "translation": [
+        "вирізати",
+        "розрізати",
+        "різати"
+      ]
+    },
+    {
+      "infinitive": "deal",
+      "present_tense": "deals",
+      "past_tense": "dealt",
+      "past_participle": "dealt",
+      "infinitive_reading": "dɪ́jl",
+      "present_tense_reading": "dɪ́jlz",
+      "past_tense_reading": "dɛ́lt",
+      "past_participle_reading": "dɛ́lt",
+      "context": "with that company",
+      "translation": "розібратися"
+    },
+    {
+      "infinitive": "dig",
+      "present_tense": "digs",
+      "past_tense": "dug",
+      "past_participle": "dug",
+      "infinitive_reading": "dɪ́g",
+      "present_tense_reading": "dɪ́gz",
+      "past_tense_reading": "dʌ́g",
+      "past_participle_reading": "dʌ́g",
+      "context": "a hole in the ground",
+      "translation": "копати"
+    },
+    {
+      "infinitive": "dive",
+      "present_tense": "dives",
+      "past_tense": "dove",
+      "past_participle": "dived",
+      "infinitive_reading": "dɑ́jv",
+      "present_tense_reading": "dɑ́jvz",
+      "past_tense_reading": "dʌ́v",
+      "past_participle_reading": "dɑ́jvd",
+      "context": "into the ocean",
+      "translation": [
+        "пірнути",
+        "зануритися"
+      ]
+    },
+    {
+      "infinitive": "do",
+      "present_tense": "does",
+      "past_tense": "did",
+      "past_participle": "done",
+      "infinitive_reading": "dʉ́w/də/də́w",
+      "present_tense_reading": "dəz/də́wz/dʌ́z",
+      "past_tense_reading": "dɪ́d",
+      "past_participle_reading": "dʌ́n",
+      "context": "the work",
+      "translation": [
+        "зробити",
+        "робити"
+      ]
+    },
+    {
+      "infinitive": "draw",
+      "present_tense": "draws",
+      "past_tense": "drew",
+      "past_participle": "drawn",
+      "infinitive_reading": "dɹóː",
+      "present_tense_reading": "dɹóːz",
+      "past_tense_reading": "dɹʉ́w",
+      "past_participle_reading": "dɹóːn",
+      "context": "a line",
+      "translation": [
+        "намалювати",
+        "малювати"
+      ]
+    },
+    {
+      "infinitive": "dream",
+      "present_tense": "dreams",
+      "past_tense": [
+        "dreamt",
+        "dreamed"
+      ],
+      "past_participle": [
+        "dreamt",
+        "dreamed"
+      ],
+      "infinitive_reading": "dɹɪ́jm",
+      "present_tense_reading": "dɹɪ́jmz",
+      "past_tense_reading": [
+        "dɹɛ́mt",
+        "dɹɪ́jmd"
+      ],
+      "past_participle_reading": [
+        "dɹɛ́mt",
+        "dɹɪ́jmd"
+      ],
+      "context": "about a girlfriend",
+      "translation": "мріяти"
+    },
+    {
+      "infinitive": "drink",
+      "present_tense": "drinks",
+      "past_tense": "drank",
+      "past_participle": "drunk",
+      "infinitive_reading": "dɹɪ́ŋk",
+      "present_tense_reading": "dɹɪ́ŋks",
+      "past_tense_reading": "dɹáŋk",
+      "past_participle_reading": "dɹʌ́ŋk",
+      "context": "5 shots at the party",
+      "translation": "випити."
+    },
+    {
+      "infinitive": "drive",
+      "present_tense": "drives",
+      "past_tense": "drove",
+      "past_participle": "driven",
+      "infinitive_reading": "dɹɑ́jv",
+      "present_tense_reading": "dɹɑ́jvz",
+      "past_tense_reading": "dɹə́wv",
+      "past_participle_reading": "dɹɪ́vən",
+      "context": "a car",
+      "translation": [
+        "їздити",
+        "керувати"
+      ]
+    },
+    {
+      "infinitive": "dwell",
+      "present_tense": "dwells",
+      "past_tense": [
+        "dwelt",
+        "dwelled"
+      ],
+      "past_participle": [
+        "dwelt",
+        "dwelled"
+      ],
+      "infinitive_reading": "dwɛ́l",
+      "present_tense_reading": "dwɛ́lz",
+      "past_tense_reading": [
+        "dwɛ́lt",
+        "dwɛ́ld"
+      ],
+      "past_participle_reading": [
+        "dwɛ́lt",
+        "dwɛ́ld"
+      ],
+      "context": "in the forest",
+      "translation": [
+        "оселитися",
+        "жити"
+      ]
+    },
+    {
+      "infinitive": "eat",
+      "present_tense": "eats",
+      "past_tense": "ate",
+      "past_participle": "eaten",
+      "infinitive_reading": "ɪ́jt",
+      "present_tense_reading": "ɪ́jts",
+      "past_tense_reading": "ɛ́jt",
+      "past_participle_reading": "ɪ́jtən",
+      "context": "the lunch",
+      "translation": "поїсти"
+    },
+    {
+      "infinitive": "fall",
+      "present_tense": "falls",
+      "past_tense": "fell",
+      "past_participle": "fallen",
+      "infinitive_reading": "fóːl",
+      "present_tense_reading": "fóːlz",
+      "past_tense_reading": "fɛ́l",
+      "past_participle_reading": "fóːlən",
+      "context": "from a tree",
+      "translation": "впасти"
+    },
+    {
+      "infinitive": "feed",
+      "present_tense": "feeds",
+      "past_tense": "fed",
+      "past_participle": "fed",
+      "infinitive_reading": "fɪ́jd",
+      "present_tense_reading": "fɪ́jdz",
+      "past_tense_reading": "fɛ́d",
+      "past_participle_reading": "fɛ́d",
+      "context": "the child",
+      "translation": "годувати"
+    },
+    {
+      "infinitive": "feel",
+      "present_tense": "feels",
+      "past_tense": "felt",
+      "past_participle": "felt",
+      "infinitive_reading": "fɪ́jl",
+      "present_tense_reading": "fɪ́jlz",
+      "past_tense_reading": "fɛ́lt",
+      "past_participle_reading": "fɛ́lt",
+      "context": "something bad",
+      "translation": "відчути"
+    },
+    {
+      "infinitive": "fight",
+      "present_tense": "fights",
+      "past_tense": "fought",
+      "past_participle": "fought",
+      "infinitive_reading": "fɑ́jt",
+      "present_tense_reading": "fɑ́jts",
+      "past_tense_reading": "fóːt",
+      "past_participle_reading": "fóːt",
+      "context": "the wild cat",
+      "translation": [
+        "боротися",
+        "битися"
+      ]
+    },
+    {
+      "infinitive": "find",
+      "present_tense": "finds",
+      "past_tense": "found",
+      "past_participle": "found",
+      "infinitive_reading": "fɑ́jnd",
+      "present_tense_reading": "fɑ́jndz",
+      "past_tense_reading": "fáwnd",
+      "past_participle_reading": "fáwnd",
+      "context": "£10 on the street",
+      "translation": "знайти"
+    },
+    {
+      "infinitive": "fit",
+      "present_tense": "fits",
+      "past_tense": [
+        "fit",
+        "fitted"
+      ],
+      "past_participle": [
+        "fit",
+        "fitted"
+      ],
+      "infinitive_reading": "fɪ́t",
+      "present_tense_reading": "fɪ́ts",
+      "past_tense_reading": [
+        "fɪ́t",
+        "fɪ́tɪd"
+      ],
+      "past_participle_reading": [
+        "fɪ́t",
+        "fɪ́tɪd"
+      ],
+      "context": "in the suit",
+      "translation": [
+        "поміститися",
+        "відповідати",
+        "вписатися"
+      ]
+    },
+    {
+      "infinitive": "flee",
+      "present_tense": "flees",
+      "past_tense": "fled",
+      "past_participle": "fled",
+      "infinitive_reading": "flɪ́j",
+      "present_tense_reading": "flɪ́jz",
+      "past_tense_reading": "flɛ́d",
+      "past_participle_reading": "flɛ́d",
+      "context": "the country",
+      "translation": "тікати"
+    },
+    {
+      "infinitive": "fling",
+      "present_tense": "flings",
+      "past_tense": "flung",
+      "past_participle": "flung",
+      "infinitive_reading": "flɪ́ŋ",
+      "present_tense_reading": "flɑ́jz",
+      "past_tense_reading": "flʌ́ŋ",
+      "past_participle_reading": "flʌ́ŋ",
+      "context": "a firewood into the fire",
+      "translation": [
+        "кидатись",
+        "кидати"
+      ]
+    },
+    {
+      "infinitive": "fly",
+      "present_tense": "flies",
+      "past_tense": "flew",
+      "past_participle": "flown",
+      "infinitive_reading": "flɑ́j",
+      "present_tense_reading": "flɪ́ŋz",
+      "past_tense_reading": "flʉ́w",
+      "past_participle_reading": "flə́wn",
+      "context": "in the sky",
+      "translation": "летіти"
+    },
+    {
+      "infinitive": "forbid",
+      "present_tense": "forbids",
+      "past_tense": "forbade",
+      "past_participle": "forbidden",
+      "infinitive_reading": "fəbɪ́d",
+      "present_tense_reading": "fəbɪ́dz",
+      "past_tense_reading": "fəbɛ́jd",
+      "past_participle_reading": "fəbɪ́dən",
+      "context": "the sale of cigarettes",
+      "translation": "забороняти"
+    },
+    {
+      "infinitive": "forecast",
+      "present_tense": "forecasts",
+      "past_tense": "forecast",
+      "past_participle": "forecast",
+      "infinitive_reading": "fóːkʰɑːsd",
+      "present_tense_reading": "fóːkʰɑːsdz",
+      "past_tense_reading": "fóːkʰɑːsd",
+      "past_participle_reading": "fóːkʰɑːsd",
+      "context": "for tonight",
+      "translation": "прогнозувати"
+    },
+    {
+      "infinitive": "foretell",
+      "present_tense": "foretells",
+      "past_tense": "foretold",
+      "past_participle": "foretold",
+      "infinitive_reading": "foːtʰɛ́l",
+      "present_tense_reading": "foːtʰɛ́lz",
+      "past_tense_reading": "foːtʰə́wld",
+      "past_participle_reading": "foːtʰə́wld",
+      "context": "how the world will end",
+      "translation": "пророкувати"
+    },
+    {
+      "infinitive": "forget",
+      "present_tense": "forgets",
+      "past_tense": "forgot",
+      "past_participle": "forgotten",
+      "infinitive_reading": "fəgɛ́t",
+      "present_tense_reading": "fəgɛ́ts",
+      "past_tense_reading": "fəgɔ́t",
+      "past_participle_reading": "fəgɔ́tən",
+      "context": "about the arrangment",
+      "translation": "забути"
+    },
+    {
+      "infinitive": "forgive",
+      "present_tense": "forgives",
+      "past_tense": "forgave",
+      "past_participle": "forgiven",
+      "infinitive_reading": "fəgɪ́v",
+      "present_tense_reading": "fəgɪ́vz",
+      "past_tense_reading": "fəgɛ́jv",
+      "past_participle_reading": "fəgɪ́vən",
+      "context": "the crime",
+      "translation": [
+        "прощати",
+        "пробачити"
+      ]
+    },
+    {
+      "infinitive": "forsake",
+      "present_tense": "forsake",
+      "past_tense": "forsook",
+      "past_participle": "forsaken",
+      "infinitive_reading": "fəsɛ́jk",
+      "present_tense_reading": "fəsɛ́jk",
+      "past_tense_reading": "fəsʉ́k",
+      "past_participle_reading": "fəsɛ́jkən",
+      "context": "the family member",
+      "translation": [
+        "покинути",
+        "відкинути"
+      ]
+    },
+    {
+      "infinitive": "freeze",
+      "present_tense": "freezes",
+      "past_tense": "froze",
+      "past_participle": "frozen",
+      "infinitive_reading": "fɹɪ́jz",
+      "present_tense_reading": "fɹɪ́jzɪz",
+      "past_tense_reading": "fɹə́wz",
+      "past_participle_reading": "fɹə́wzən",
+      "context": "in the arctic ocean",
+      "translation": [
+        "застигнути",
+        "заморозити",
+        "замерзнути"
+      ]
+    },
+    {
+      "infinitive": "get",
+      "present_tense": "gets",
+      "past_tense": "got",
+      "past_participle": "got",
+      "infinitive_reading": "gɛ́t",
+      "present_tense_reading": "gɛ́ts",
+      "past_tense_reading": "gɔ́t",
+      "past_participle_reading": "gɔ́t",
+      "context": "sick after the rain",
+      "translation": [
+        "отримати",
+        "дістати",
+        "дістатись"
+      ]
+    },
+    {
+      "infinitive": "give",
+      "present_tense": "gives",
+      "past_tense": "gave",
+      "past_participle": "given",
+      "infinitive_reading": "gɪ́v",
+      "present_tense_reading": "gɪ́vz",
+      "past_tense_reading": "gɛ́jv",
+      "past_participle_reading": "gɪ́vən",
+      "context": "the gift",
+      "translation": [
+        "віддати",
+        "дати"
+      ]
+    },
+    {
+      "infinitive": "go",
+      "present_tense": "goes",
+      "past_tense": "went",
+      "past_participle": "gone",
+      "infinitive_reading": "gə́w",
+      "present_tense_reading": "gə́wz",
+      "past_tense_reading": "wɛ́nt",
+      "past_participle_reading": "gɔ́n",
+      "context": "to the sea",
+      "translation": [
+        "йти",
+        "піти"
+      ]
+    },
+    {
+      "infinitive": "grind",
+      "present_tense": "grind",
+      "past_tense": "ground",
+      "past_participle": "ground",
+      "infinitive_reading": "gɹɑ́jnd",
+      "present_tense_reading": "gɹɑ́jnd",
+      "past_tense_reading": "gɹáwnd",
+      "past_participle_reading": "gɹáwnd",
+      "context": "a stone to this dust",
+      "translation": [
+        "подрібнити",
+        "розмолоти"
+      ]
+    },
+    {
+      "infinitive": "grow",
+      "present_tense": "grow",
+      "past_tense": "grew",
+      "past_participle": "grown",
+      "infinitive_reading": "gɹə́w",
+      "present_tense_reading": "gɹə́w",
+      "past_tense_reading": "gɹʉ́w",
+      "past_participle_reading": "gɹə́wn",
+      "context": "so rapidly",
+      "translation": [
+        "рости",
+        "зростати"
+      ]
+    },
+    {
+      "infinitive": "hang",
+      "present_tense": "hang",
+      "past_tense": "hung",
+      "past_participle": "hung",
+      "infinitive_reading": "háŋ",
+      "present_tense_reading": "háŋ",
+      "past_tense_reading": "hʌ́ŋ",
+      "past_participle_reading": "hʌ́ŋ",
+      "context": "on a fance",
+      "translation": "повісити"
+    },
+    {
+      "infinitive": "have",
+      "present_tense": "has",
+      "past_tense": "had",
+      "past_participle": "had",
+      "infinitive_reading": "háv/háv",
+      "present_tense_reading": "həz/ház",
+      "past_tense_reading": [
+        "hád",
+        "həd"
+      ],
+      "past_participle_reading": [
+        "hád",
+        "həd"
+      ],
+      "context": "a cat",
+      "translation": "мати"
+    },
+    {
+      "infinitive": "hear",
+      "present_tense": "hears",
+      "past_tense": "heard",
+      "past_participle": "heard",
+      "infinitive_reading": "hɪ́ː",
+      "present_tense_reading": "hɪ́ːz",
+      "past_tense_reading": "hə́ːd",
+      "past_participle_reading": "hə́ːd",
+      "context": "a loud noice",
+      "translation": "почути"
+    },
+    {
+      "infinitive": "hide",
+      "present_tense": "hides",
+      "past_tense": "hid",
+      "past_participle": "hidden",
+      "infinitive_reading": "hɑ́jd",
+      "present_tense_reading": "hɑ́jdz",
+      "past_tense_reading": "hɪ́d",
+      "past_participle_reading": "hɪ́dən",
+      "context": "in the bushes",
+      "translation": [
+        "сховати",
+        "сховатися"
+      ]
+    },
+    {
+      "infinitive": "hit",
+      "present_tense": "hits",
+      "past_tense": "hit",
+      "past_participle": "hit",
+      "infinitive_reading": "hɪ́t",
+      "present_tense_reading": "hɪ́ts",
+      "past_tense_reading": "hɪ́t",
+      "past_participle_reading": "hɪ́t",
+      "context": "in the face",
+      "translation": "вдарити"
+    },
+    {
+      "infinitive": "hold",
+      "present_tense": "holds",
+      "past_tense": "held",
+      "past_participle": "held",
+      "infinitive_reading": "hə́wld",
+      "present_tense_reading": "hə́wldz",
+      "past_tense_reading": "hɛ́ld",
+      "past_participle_reading": "hɛ́ld",
+      "context": "the sword",
+      "translation": [
+        "тримати",
+        "утримувати"
+      ]
+    },
+    {
+      "infinitive": "hurt",
+      "present_tense": "hurts",
+      "past_tense": "hurt",
+      "past_participle": "hurt",
+      "infinitive_reading": "hə́ːt",
+      "present_tense_reading": "hə́ːts",
+      "past_tense_reading": "hə́ːt",
+      "past_participle_reading": "hə́ːt",
+      "context": "her feelings",
+      "translation": [
+        "завдати болю",
+        "нашкодити"
+      ]
+    },
+    {
+      "infinitive": "interweave",
+      "present_tense": "interweaves",
+      "past_tense": "interwove",
+      "past_participle": "interwoven",
+      "infinitive_reading": "ɪ́ntəwɪ́jv",
+      "present_tense_reading": "ɪ́ntəwɪ́jvz",
+      "past_tense_reading": "ɪ́ntəwə́wv",
+      "past_participle_reading": "ɪ́ntəwə́wv",
+      "context": "two strings",
+      "translation": [
+        "переплітатися",
+        "переплести"
+      ]
+    },
+    {
+      "infinitive": "keep",
+      "present_tense": "keeps",
+      "past_tense": "kept",
+      "past_participle": "kept",
+      "infinitive_reading": "kʰɪ́jp",
+      "present_tense_reading": "kʰɪ́jps",
+      "past_tense_reading": "kʰɛ́pt",
+      "past_participle_reading": "kʰɛ́pt",
+      "context": "in secret",
+      "translation": [
+        "зберегти",
+        "тримати"
+      ]
+    },
+    {
+      "infinitive": "kneel",
+      "present_tense": "kneels",
+      "past_tense": [
+        "knelt",
+        "kneeled"
+      ],
+      "past_participle": [
+        "knelt",
+        "kneeled"
+      ],
+      "infinitive_reading": "nɪ́jl",
+      "present_tense_reading": "nɪ́jlz",
+      "past_tense_reading": [
+        "nɛ́lt",
+        "nɪ́jld"
+      ],
+      "past_participle_reading": [
+        "nɛ́lt",
+        "nɪ́jld"
+      ],
+      "context": "before the king",
+      "translation": "стати на коліна"
+    },
+    {
+      "infinitive": "know",
+      "present_tense": "knows",
+      "past_tense": "knew",
+      "past_participle": "known",
+      "infinitive_reading": "nə́w",
+      "present_tense_reading": "nə́wz",
+      "past_tense_reading": "njʉ́w",
+      "past_participle_reading": "nə́wn",
+      "context": "a name of the teacher",
+      "translation": "знати"
+    },
+    {
+      "infinitive": "lay",
+      "present_tense": "lays",
+      "past_tense": "laid",
+      "past_participle": "laid",
+      "infinitive_reading": "lɛ́j",
+      "present_tense_reading": "lɛ́jz",
+      "past_tense_reading": "lɛ́jd",
+      "past_participle_reading": "lɛ́jd",
+      "context": "aside the book after reading",
+      "translation": [
+        "покласти",
+        "укласти"
+      ]
+    },
+    {
+      "infinitive": "lead",
+      "present_tense": "leads",
+      "past_tense": "led",
+      "past_participle": "led",
+      "infinitive_reading": "lɪ́jd",
+      "present_tense_reading": "lɪ́jdz",
+      "past_tense_reading": "lɛ́d",
+      "past_participle_reading": "lɛ́d",
+      "context": "to the paradise",
+      "translation": [
+        "вести за собою",
+        "керувати"
+      ]
+    },
+    {
+      "infinitive": "lean",
+      "present_tense": "leans",
+      "past_tense": [
+        "leant",
+        "leaned"
+      ],
+      "past_participle": [
+        "leant",
+        "leaned"
+      ],
+      "infinitive_reading": "lɪ́jn",
+      "present_tense_reading": "lɪ́jnz",
+      "past_tense_reading": [
+        "lɛ́nt",
+        "lɪ́jnd"
+      ],
+      "past_participle_reading": [
+        "lɛ́nt",
+        "lɪ́jnd"
+      ],
+      "context": "the head forward to her",
+      "translation": [
+        "притулитися",
+        "нахилитися"
+      ]
+    },
+    {
+      "infinitive": "leap",
+      "present_tense": "leaps",
+      "past_tense": [
+        "leapt",
+        "leaped"
+      ],
+      "past_participle": [
+        "leapt",
+        "leaped"
+      ],
+      "infinitive_reading": "lɪ́jp",
+      "present_tense_reading": "lɪ́jps",
+      "past_tense_reading": [
+        "lɛ́pt",
+        "lɪ́jpt"
+      ],
+      "past_participle_reading": [
+        "lɛ́pt",
+        "lɪ́jpt"
+      ],
+      "context": "over the abyss",
+      "translation": "стрибнути"
+    },
+    {
+      "infinitive": "learn",
+      "present_tense": "learns",
+      "past_tense": [
+        "learnt",
+        "learned"
+      ],
+      "past_participle": [
+        "learnt",
+        "learned"
+      ],
+      "infinitive_reading": "lə́ːn",
+      "present_tense_reading": "lə́ːnz",
+      "past_tense_reading": [
+        "lə́ːnt",
+        "lə́ːnd"
+      ],
+      "past_participle_reading": [
+        "lə́ːnt",
+        "lə́ːnd"
+      ],
+      "context": "for the tutor",
+      "translation": [
+        "вчитися",
+        "навчитися"
+      ]
+    },
+    {
+      "infinitive": "leave",
+      "present_tense": "leaves",
+      "past_tense": "left",
+      "past_participle": "left",
+      "infinitive_reading": "lɪ́jv",
+      "present_tense_reading": "lɪ́jvz",
+      "past_tense_reading": "lɛ́fd",
+      "past_participle_reading": "lɛ́fd",
+      "context": "a party",
+      "translation": [
+        "піти",
+        "покинути"
+      ]
+    },
+    {
+      "infinitive": "lend",
+      "present_tense": "lends",
+      "past_tense": "lent",
+      "past_participle": "lent",
+      "infinitive_reading": "lɛ́nd",
+      "present_tense_reading": "lɛ́ndz",
+      "past_tense_reading": "lɛ́nt",
+      "past_participle_reading": "lɛ́nt",
+      "context": "on the street",
+      "translation": [
+        "позичити",
+        "давати в борг."
+      ]
+    },
+    {
+      "infinitive": "let",
+      "present_tense": "lets",
+      "past_tense": "let",
+      "past_participle": "let",
+      "infinitive_reading": "lɛ́t",
+      "present_tense_reading": "lɛ́ts",
+      "past_tense_reading": "lɛ́t",
+      "past_participle_reading": "lɛ́t",
+      "context": "her cook a meal",
+      "translation": "дозволити"
+    },
+    {
+      "infinitive": "lie",
+      "present_tense": "lies",
+      "past_tense": "lay",
+      "past_participle": "lain",
+      "infinitive_reading": "lɑ́j",
+      "present_tense_reading": "lɑ́jz",
+      "past_tense_reading": "lɛ́j",
+      "past_participle_reading": "lɛ́jn",
+      "context": "about her state",
+      "translation": "брехати"
+    },
+    {
+      "infinitive": "light",
+      "present_tense": "lights",
+      "past_tense": [
+        "lit",
+        "lighted"
+      ],
+      "past_participle": [
+        "lit",
+        "lighted"
+      ],
+      "infinitive_reading": "lɑ́jt",
+      "present_tense_reading": "lɑ́jts",
+      "past_tense_reading": [
+        "lɪ́t",
+        "lɑ́jtɪd"
+      ],
+      "past_participle_reading": [
+        "lɪ́t",
+        "lɑ́jtɪd"
+      ],
+      "context": "a fire",
+      "translation": [
+        "запалити",
+        "освітлити"
+      ]
+    },
+    {
+      "infinitive": "lose",
+      "present_tense": "loses",
+      "past_tense": "lost",
+      "past_participle": "lost",
+      "infinitive_reading": "lʉ́wz",
+      "present_tense_reading": "lʉ́wzɪz",
+      "past_tense_reading": "lɔ́sd",
+      "past_participle_reading": "lɔ́sd",
+      "context": "the game",
+      "translation": [
+        "втратити",
+        "втрачати"
+      ]
+    },
+    {
+      "infinitive": "make",
+      "present_tense": "makes",
+      "past_tense": "made",
+      "past_participle": "made",
+      "infinitive_reading": "mɛ́jk",
+      "present_tense_reading": "mɛ́jks",
+      "past_tense_reading": "mɛ́jd",
+      "past_participle_reading": "mɛ́jd",
+      "context": "a dinner",
+      "translation": "зробити"
+    },
+    {
+      "infinitive": "mean",
+      "present_tense": "means",
+      "past_tense": "meant",
+      "past_participle": "meant",
+      "infinitive_reading": "mɪ́jn",
+      "present_tense_reading": "mɪ́jnz",
+      "past_tense_reading": "mɛ́nt",
+      "past_participle_reading": "mɛ́nt",
+      "context": "this is very dangerous",
+      "translation": "означати."
+    },
+    {
+      "infinitive": "meet",
+      "present_tense": "meets",
+      "past_tense": "met",
+      "past_participle": "met",
+      "infinitive_reading": "mɪ́jt",
+      "present_tense_reading": "mɪ́jts",
+      "past_tense_reading": "mɛ́t",
+      "past_participle_reading": "mɛ́t",
+      "context": "coworker at a cafe",
+      "translation": "зустрітися"
+    },
+    {
+      "infinitive": "mislay",
+      "present_tense": "mislays",
+      "past_tense": "mislaid",
+      "past_participle": "mislaid",
+      "infinitive_reading": "mɪ́slɛ́j",
+      "present_tense_reading": "mɪ́slɛ́jz",
+      "past_tense_reading": "mɪ́slɛ́jd",
+      "past_participle_reading": "mɪ́slɛ́jd",
+      "context": "a pen in the classroom",
+      "translation": [
+        "загубити",
+        "поклисти в неправильне місто"
+      ]
+    },
+    {
+      "infinitive": "mistake",
+      "present_tense": "mistakes",
+      "past_tense": "mistook",
+      "past_participle": "mistaken",
+      "infinitive_reading": "mɪsdɛ́jk",
+      "present_tense_reading": "mɪsdɛ́jks",
+      "past_tense_reading": "mɪsdɛ́jkən",
+      "past_participle_reading": "mɪsdɛ́jkən",
+      "context": "the signature on the latter",
+      "translation": "помилитися"
+    },
+    {
+      "infinitive": "overhear",
+      "present_tense": "overhears",
+      "past_tense": "overheard",
+      "past_participle": "overheard",
+      "infinitive_reading": "ə́wvəhɪ́ː",
+      "present_tense_reading": "ə́wvəhɪ́ːz",
+      "past_tense_reading": "ə́wvəhə́ːd",
+      "past_participle_reading": "ə́wvəhə́ːd",
+      "context": "their conversation",
+      "translation": "підслухати"
+    },
+    {
+      "infinitive": "oversleep",
+      "present_tense": "oversleeps",
+      "past_tense": "overslept",
+      "past_participle": "overslept",
+      "infinitive_reading": "ə́wvəslɪ́jp",
+      "present_tense_reading": "ə́wvəslɪ́jps",
+      "past_tense_reading": "ə́wvəslɛ́pt",
+      "past_participle_reading": "ə́wvəslɛ́pt",
+      "context": "the classes",
+      "translation": "проспати."
+    },
+    {
+      "infinitive": "pay",
+      "present_tense": "pays",
+      "past_tense": "paid",
+      "past_participle": "paid",
+      "infinitive_reading": "pʰɛ́j",
+      "present_tense_reading": "pʰɛ́jz",
+      "past_tense_reading": "pʰɛ́jd",
+      "past_participle_reading": "pʰɛ́jd",
+      "context": "for a flight",
+      "translation": [
+        "платити",
+        "заплатити"
+      ]
+    },
+    {
+      "infinitive": "plead",
+      "present_tense": "pleads",
+      "past_tense": [
+        "pled",
+        "pleaded"
+      ],
+      "past_participle": [
+        "pled",
+        "pleaded"
+      ],
+      "infinitive_reading": "pʰlɪ́jd",
+      "present_tense_reading": "pʰlɪ́jdz",
+      "past_tense_reading": [
+        "pʰlɛ́d",
+        "pʰlɪ́jdɪd"
+      ],
+      "past_participle_reading": [
+        "pʰlɛ́d",
+        "pʰlɪ́jdɪd"
+      ],
+      "context": "for mercy",
+      "translation": [
+        "визнати свою провину",
+        "просити пробачення."
+      ]
+    },
+    {
+      "infinitive": "prove",
+      "present_tense": "proves",
+      "past_tense": "proved",
+      "past_participle": [
+        "proven",
+        "proved"
+      ],
+      "infinitive_reading": "pʰɹʉ́wv",
+      "present_tense_reading": "pʰɹʉ́wvz",
+      "past_tense_reading": "pʰɹʉ́wvd",
+      "past_participle_reading": [
+        "pʰɹʉ́wvən",
+        "pʰɹʉ́wvd"
+      ],
+      "context": "the point",
+      "translation": "довести"
+    },
+    {
+      "infinitive": "put",
+      "present_tense": "puts",
+      "past_tense": "put",
+      "past_participle": "put",
+      "infinitive_reading": "pʰʉ́t",
+      "present_tense_reading": "pʰʉ́ts",
+      "past_tense_reading": "pʰʉ́t",
+      "past_participle_reading": "pʰʉ́t",
+      "context": "the dish in the dishwasher",
+      "translation": "покласти"
+    },
+    {
+      "infinitive": "quit",
+      "present_tense": "quits",
+      "past_tense": "quit",
+      "past_participle": "quit",
+      "infinitive_reading": "kʰwɪ́t",
+      "present_tense_reading": "kʰwɪ́ts",
+      "past_tense_reading": "kʰwɪ́t",
+      "past_participle_reading": "kʰwɪ́t",
+      "context": "the job",
+      "translation": [
+        "звільнитися",
+        "кинути"
+      ]
+    },
+    {
+      "infinitive": "read",
+      "present_tense": "reads",
+      "past_tense": "read",
+      "past_participle": "read",
+      "infinitive_reading": "ɹɪ́jd",
+      "present_tense_reading": "ɹɪ́jdz",
+      "past_tense_reading": "ɹɛ́d",
+      "past_participle_reading": "ɹɛ́d",
+      "context": "a book",
+      "translation": "читати"
+    },
+    {
+      "infinitive": "rend",
+      "present_tense": "rends",
+      "past_tense": "rent",
+      "past_participle": "rent",
+      "infinitive_reading": "ɹɛ́nd",
+      "present_tense_reading": "ɹɛ́ndz",
+      "past_tense_reading": "ɹɛ́nt",
+      "past_participle_reading": "ɹɛ́nt",
+      "context": "a flat",
+      "translation": [
+        "знищити",
+        "розірвати"
+      ]
+    },
+    {
+      "infinitive": "rid",
+      "present_tense": "rids",
+      "past_tense": "rid",
+      "past_participle": "rid",
+      "infinitive_reading": "ɹɪ́d",
+      "present_tense_reading": "ɹɑ́jdz",
+      "past_tense_reading": "ɹɪ́d",
+      "past_participle_reading": "ɹɪ́d",
+      "context": "the house of rubbish",
+      "translation": "позбутися"
+    },
+    {
+      "infinitive": "ride",
+      "present_tense": "rides",
+      "past_tense": "rode",
+      "past_participle": "ridden",
+      "infinitive_reading": "ɹɑ́jd",
+      "present_tense_reading": "ɹɪ́dz",
+      "past_tense_reading": "ɹə́wd",
+      "past_participle_reading": "ɹɪ́dən",
+      "context": "a horse",
+      "translation": "їздити"
+    },
+    {
+      "infinitive": "ring",
+      "present_tense": "rings",
+      "past_tense": "rang",
+      "past_participle": "rung",
+      "infinitive_reading": "ɹɪ́ŋ",
+      "present_tense_reading": "ɹɪ́ŋz",
+      "past_tense_reading": "ɹáŋ",
+      "past_participle_reading": "ɹʌ́ŋ",
+      "context": "to the classmate",
+      "translation": "дзвонити"
+    },
+    {
+      "infinitive": "rise",
+      "present_tense": "rises",
+      "past_tense": "rose",
+      "past_participle": "risen",
+      "infinitive_reading": "ɹɑ́jz",
+      "present_tense_reading": "ɹɑ́jzɪz",
+      "past_tense_reading": "ɹə́wz",
+      "past_participle_reading": "ɹɪ́zən",
+      "context": "a ball",
+      "translation": "піднятися"
+    },
+    {
+      "infinitive": "run",
+      "present_tense": "runs",
+      "past_tense": "ran",
+      "past_participle": "run",
+      "infinitive_reading": "ɹʌ́n",
+      "present_tense_reading": "ɹʌ́nz",
+      "past_tense_reading": "ɹán",
+      "past_participle_reading": "ɹʌ́n",
+      "context": "from the school",
+      "translation": "бігти"
+    },
+    {
+      "infinitive": "saw",
+      "present_tense": "saws",
+      "past_tense": "sawed",
+      "past_participle": [
+        "sawn",
+        "sawed"
+      ],
+      "infinitive_reading": "sóː",
+      "present_tense_reading": "sóːz",
+      "past_tense_reading": "sóːd",
+      "past_participle_reading": [
+        "sóːn",
+        "sóːd"
+      ],
+      "context": "the woods",
+      "translation": "пиляти"
+    },
+    {
+      "infinitive": "say",
+      "present_tense": "says",
+      "past_tense": "said",
+      "past_participle": "said",
+      "infinitive_reading": "sɛ́j",
+      "present_tense_reading": "sɛ́z",
+      "past_tense_reading": "sɛ́d",
+      "past_participle_reading": "sɛ́d",
+      "context": "something stupid",
+      "translation": "сказати"
+    },
+    {
+      "infinitive": "see",
+      "present_tense": "sees",
+      "past_tense": "saw",
+      "past_participle": "seen",
+      "infinitive_reading": "sɪ́j",
+      "present_tense_reading": "sɪ́jks",
+      "past_tense_reading": "sóː",
+      "past_participle_reading": "sɪ́jn",
+      "context": "a tree",
+      "translation": "побачити"
+    },
+    {
+      "infinitive": "seek",
+      "present_tense": "seeks",
+      "past_tense": "sought",
+      "past_participle": "sought",
+      "infinitive_reading": "sɪ́jk",
+      "present_tense_reading": "sɪ́jz",
+      "past_tense_reading": "sóːt",
+      "past_participle_reading": "sóːt",
+      "context": "for shelter",
+      "translation": "шукати"
+    },
+    {
+      "infinitive": "sell",
+      "present_tense": "sells",
+      "past_tense": "sold",
+      "past_participle": "sold",
+      "infinitive_reading": "sɛ́l",
+      "present_tense_reading": "sɛ́lz",
+      "past_tense_reading": "sə́wld",
+      "past_participle_reading": "sə́wld",
+      "context": "her a car",
+      "translation": "продати"
+    },
+    {
+      "infinitive": "send",
+      "present_tense": "sends",
+      "past_tense": "sent",
+      "past_participle": "sent",
+      "infinitive_reading": "sɛ́nd",
+      "present_tense_reading": "sɛ́ndz",
+      "past_tense_reading": "sɛ́nt",
+      "past_participle_reading": "sɛ́nt",
+      "context": "some money",
+      "translation": "відправити"
+    },
+    {
+      "infinitive": "set",
+      "present_tense": "sets",
+      "past_tense": "set",
+      "past_participle": "set",
+      "infinitive_reading": "sɛ́t",
+      "present_tense_reading": "sɛ́ts",
+      "past_tense_reading": "sɛ́t",
+      "past_participle_reading": "sɛ́t",
+      "context": "a fire",
+      "translation": "встановити"
+    },
+    {
+      "infinitive": "sew",
+      "present_tense": "sews",
+      "past_tense": "sewed",
+      "past_participle": "sewn",
+      "infinitive_reading": "sə́w",
+      "present_tense_reading": "sə́wz",
+      "past_tense_reading": "sə́wd",
+      "past_participle_reading": "sə́wn",
+      "context": "two pieces of material together",
+      "translation": "шити"
+    },
+    {
+      "infinitive": "shake",
+      "present_tense": "shakes",
+      "past_tense": "shook",
+      "past_participle": "shaken",
+      "infinitive_reading": "ʃɛ́jk",
+      "present_tense_reading": "ʃɛ́jks",
+      "past_tense_reading": "ʃʉ́k",
+      "past_participle_reading": "ʃɛ́jkən",
+      "context": "hand with the employer",
+      "translation": [
+        "трясти",
+        "трястися"
+      ]
+    },
+    {
+      "infinitive": "shear",
+      "present_tense": "shears",
+      "past_tense": "sheared",
+      "past_participle": "shorn",
+      "infinitive_reading": "ʃɪ́ː",
+      "present_tense_reading": "ʃɪ́ːz",
+      "past_tense_reading": "ʃɪ́ːd",
+      "past_participle_reading": "ʃóːn",
+      "context": "sheep",
+      "translation": [
+        "зрізати",
+        "відрізати"
+      ]
+    },
+    {
+      "infinitive": "shed",
+      "present_tense": "sheds",
+      "past_tense": "shed",
+      "past_participle": "shed",
+      "infinitive_reading": "ʃɛ́d",
+      "present_tense_reading": "ʃɛ́dz",
+      "past_tense_reading": "ʃɛ́d",
+      "past_participle_reading": "ʃɛ́d",
+      "context": "after sunbathing",
+      "translation": "пролити"
+    },
+    {
+      "infinitive": "shine",
+      "present_tense": "shines",
+      "past_tense": [
+        "shone",
+        "shined"
+      ],
+      "past_participle": [
+        "shone",
+        "shined"
+      ],
+      "infinitive_reading": "ʃɑ́jn",
+      "present_tense_reading": "ʃɑ́jnz",
+      "past_tense_reading": [
+        "ʃɔ́n",
+        "ʃɑ́jnd"
+      ],
+      "past_participle_reading": [
+        "ʃɔ́n",
+        "ʃɑ́jnd"
+      ],
+      "context": "in her eyes",
+      "translation": "сяяти"
+    },
+    {
+      "infinitive": "shoe",
+      "present_tense": "shoes",
+      "past_tense": "shod",
+      "past_participle": "shod",
+      "infinitive_reading": "ʃʉ́w",
+      "present_tense_reading": "ʃʉ́wz",
+      "past_tense_reading": "ʃɔ́d",
+      "past_participle_reading": "ʃɔ́d",
+      "context": "a horse",
+      "translation": "взути"
+    },
+    {
+      "infinitive": "shoot",
+      "present_tense": "shoots",
+      "past_tense": "shot",
+      "past_participle": "shot",
+      "infinitive_reading": "ʃʉ́wt",
+      "present_tense_reading": "ʃʉ́wts",
+      "past_tense_reading": "ʃɔ́t",
+      "past_participle_reading": "ʃɔ́t",
+      "context": "at a target",
+      "translation": "стріляти"
+    },
+    {
+      "infinitive": "show",
+      "present_tense": "shows",
+      "past_tense": "showed",
+      "past_participle": [
+        "shown",
+        "showed"
+      ],
+      "infinitive_reading": "ʃə́w",
+      "present_tense_reading": "ʃə́wz",
+      "past_tense_reading": "ʃə́wd",
+      "past_participle_reading": [
+        "ʃə́wn",
+        "ʃə́wd"
+      ],
+      "context": "a film",
+      "translation": "показати"
+    },
+    {
+      "infinitive": "shrink",
+      "present_tense": "shrinks",
+      "past_tense": "shrank",
+      "past_participle": "shrunk",
+      "infinitive_reading": "ʃɹɪ́ŋk",
+      "present_tense_reading": "ʃɹɪ́ŋks",
+      "past_tense_reading": "ʃɹáŋk",
+      "past_participle_reading": "ʃɹʌ́ŋk",
+      "context": "form 6ft to 5ft",
+      "translation": "зменшитися"
+    },
+    {
+      "infinitive": "shut",
+      "present_tense": "shuts",
+      "past_tense": "shut",
+      "past_participle": "shut",
+      "infinitive_reading": "ʃʌ́t",
+      "present_tense_reading": "ʃʌ́ts",
+      "past_tense_reading": "ʃʌ́t",
+      "past_participle_reading": "ʃʌ́t",
+      "context": "down a laptop",
+      "translation": "закрити"
+    },
+    {
+      "infinitive": "sing",
+      "present_tense": "sings",
+      "past_tense": "sang",
+      "past_participle": "sung",
+      "infinitive_reading": "sɪ́ŋ",
+      "present_tense_reading": "sɪ́ŋz",
+      "past_tense_reading": "sáŋ",
+      "past_participle_reading": "sʌ́ŋ",
+      "context": "a song",
+      "translation": "співати"
+    },
+    {
+      "infinitive": "sink",
+      "present_tense": "sinks",
+      "past_tense": "sank",
+      "past_participle": "sunk",
+      "infinitive_reading": "sɪ́ŋk",
+      "present_tense_reading": "sɪ́ŋks",
+      "past_tense_reading": "sáŋk",
+      "past_participle_reading": "sʌ́ŋk",
+      "context": "a ship",
+      "translation": "потонути"
+    },
+    {
+      "infinitive": "sit",
+      "present_tense": "sits",
+      "past_tense": "sat",
+      "past_participle": "sat",
+      "infinitive_reading": "sɪ́t",
+      "present_tense_reading": "sɪ́ts",
+      "past_tense_reading": "sát",
+      "past_participle_reading": "sát",
+      "context": "on a chair",
+      "translation": "сидіти"
+    },
+    {
+      "infinitive": "sleep",
+      "present_tense": "sleeps",
+      "past_tense": "slept",
+      "past_participle": "slept",
+      "infinitive_reading": "slɪ́jp",
+      "present_tense_reading": "slɪ́jps",
+      "past_tense_reading": "slɛ́pt",
+      "past_participle_reading": "slɛ́pt",
+      "context": "all night",
+      "translation": "спати"
+    },
+    {
+      "infinitive": "slide",
+      "present_tense": "slides",
+      "past_tense": "slid",
+      "past_participle": "slid",
+      "infinitive_reading": "slɑ́jd",
+      "present_tense_reading": "slɑ́jdz",
+      "past_tense_reading": "slɪ́d",
+      "past_participle_reading": "slɪ́d",
+      "context": "from the bed",
+      "translation": "ковзати"
+    },
+    {
+      "infinitive": "sling",
+      "present_tense": "slings",
+      "past_tense": "slung",
+      "past_participle": "slung",
+      "infinitive_reading": "slɪ́ŋ",
+      "present_tense_reading": "slɪ́ŋz",
+      "past_tense_reading": "slʌ́ŋ",
+      "past_participle_reading": "slʌ́ŋ",
+      "context": "a pen to a frined",
+      "translation": [
+        "накинути на себе",
+        "накинути"
+      ]
+    },
+    {
+      "infinitive": "slink",
+      "present_tense": "slinks",
+      "past_tense": "slunk",
+      "past_participle": "slunk",
+      "infinitive_reading": "slɪ́ŋk",
+      "present_tense_reading": "slɪ́ŋks",
+      "past_tense_reading": "slʌ́ŋk",
+      "past_participle_reading": "slʌ́ŋk",
+      "context": "out of the room",
+      "translation": "прослизнути"
+    },
+    {
+      "infinitive": "slit",
+      "present_tense": "slits",
+      "past_tense": "slit",
+      "past_participle": "slit",
+      "infinitive_reading": "slɪ́t",
+      "present_tense_reading": "slɪ́ts",
+      "past_tense_reading": "slɪ́t",
+      "past_participle_reading": "slɪ́t",
+      "context": "open the envelope with a knife",
+      "translation": "розрізати"
+    },
+    {
+      "infinitive": "smell",
+      "present_tense": "smells",
+      "past_tense": [
+        "smelt",
+        "smelled"
+      ],
+      "past_participle": [
+        "smelt",
+        "smelled"
+      ],
+      "infinitive_reading": "smɛ́l",
+      "present_tense_reading": "smɛ́lz",
+      "past_tense_reading": [
+        "smɛ́lt",
+        "smɛ́ld"
+      ],
+      "past_participle_reading": [
+        "smɛ́lt",
+        "smɛ́ld"
+      ],
+      "context": "something tasty",
+      "translation": "відчути запах"
+    },
+    {
+      "infinitive": "sneak",
+      "present_tense": "sneaks",
+      "past_tense": [
+        "snuck",
+        "sneaked"
+      ],
+      "past_participle": [
+        "snuck",
+        "sneaked"
+      ],
+      "infinitive_reading": "snɪ́jk",
+      "present_tense_reading": "snɪ́jks",
+      "past_tense_reading": [
+        "snʌ́k",
+        "snɪ́jkt"
+      ],
+      "past_participle_reading": [
+        "snʌ́k",
+        "snɪ́jkt"
+      ],
+      "context": "in through the back door",
+      "translation": "прокрастися"
+    },
+    {
+      "infinitive": "sow",
+      "present_tense": "sows",
+      "past_tense": "sowed",
+      "past_participle": "sown",
+      "infinitive_reading": "slɪ́t",
+      "present_tense_reading": "sə́wz",
+      "past_tense_reading": "sə́wd",
+      "past_participle_reading": "sə́wn",
+      "context": "the seeds in pots",
+      "translation": "посіяти"
+    },
+    {
+      "infinitive": "speak",
+      "present_tense": "speaks",
+      "past_tense": "spoke",
+      "past_participle": "spoken",
+      "infinitive_reading": "smɛ́l",
+      "present_tense_reading": "sbɪ́jks",
+      "past_tense_reading": "sbə́wk",
+      "past_participle_reading": "sbə́wkən",
+      "context": "about climate changes",
+      "translation": "говорити"
+    },
+    {
+      "infinitive": "speed",
+      "present_tense": "speeds",
+      "past_tense": [
+        "sped",
+        "speeded"
+      ],
+      "past_participle": [
+        "sped",
+        "speeded"
+      ],
+      "infinitive_reading": "snɪ́jk",
+      "present_tense_reading": "sbɪ́jdz",
+      "past_tense_reading": [
+        "sbɛ́d",
+        "sbɪ́jdɪd"
+      ],
+      "past_participle_reading": [
+        "sbɛ́d",
+        "sbɪ́jdɪd"
+      ],
+      "context": "on the street",
+      "translation": "дуже швидко їхати"
+    },
+    {
+      "infinitive": "spell",
+      "present_tense": "spells",
+      "past_tense": [
+        "spelt",
+        "spelled"
+      ],
+      "past_participle": [
+        "spelt",
+        "spelled"
+      ],
+      "infinitive_reading": "sbɛ́l",
+      "present_tense_reading": "sbɛ́lz",
+      "past_tense_reading": [
+        "sbɛ́lt",
+        "sbɛ́ld"
+      ],
+      "past_participle_reading": [
+        "sbɛ́lt",
+        "sbɛ́ld"
+      ],
+      "context": "the unfamiliar word to me",
+      "translation": "писати по буквах"
+    },
+    {
+      "infinitive": "spend",
+      "present_tense": "spends",
+      "past_tense": "spent",
+      "past_participle": "spent",
+      "infinitive_reading": "sbɛ́nd",
+      "present_tense_reading": "sbɛ́ndz",
+      "past_tense_reading": "sbɛ́nt",
+      "past_participle_reading": "sbɛ́nt",
+      "context": "all money on a game",
+      "translation": "витрачати"
+    },
+    {
+      "infinitive": "spill",
+      "present_tense": "spills",
+      "past_tense": "spilt",
+      "past_participle": "spilt",
+      "infinitive_reading": "sbɪ́l",
+      "present_tense_reading": "sbɪ́lz",
+      "past_tense_reading": "sbɪ́lt",
+      "past_participle_reading": "sbɪ́lt",
+      "context": "coffee on my shirt",
+      "translation": [
+        "розлити",
+        "пролити"
+      ]
+    },
+    {
+      "infinitive": "spin",
+      "present_tense": "spins",
+      "past_tense": "span",
+      "past_participle": "spun",
+      "infinitive_reading": "sbɪ́n",
+      "present_tense_reading": "sbɪ́nz",
+      "past_tense_reading": "sbán",
+      "past_participle_reading": "sbʌ́n",
+      "context": "around the point",
+      "translation": [
+        "крутитися",
+        "обертатися"
+      ]
+    },
+    {
+      "infinitive": "spit",
+      "present_tense": "spits",
+      "past_tense": "spit",
+      "past_participle": "spit",
+      "infinitive_reading": "sbɪ́t",
+      "present_tense_reading": "sbɪ́ts",
+      "past_tense_reading": "sbɪ́t",
+      "past_participle_reading": "sbɪ́t",
+      "context": "the meat out in disgust",
+      "translation": [
+        "сплюнути",
+        "плюнути"
+      ]
+    },
+    {
+      "infinitive": "split",
+      "present_tense": "splits",
+      "past_tense": "split",
+      "past_participle": "split",
+      "infinitive_reading": "sblɪ́t",
+      "present_tense_reading": "sblɪ́ts",
+      "past_tense_reading": "sblɪ́t",
+      "past_participle_reading": "sblɪ́t",
+      "context": "the croissant with her",
+      "translation": [
+        "розколоти",
+        "розколотися"
+      ]
+    },
+    {
+      "infinitive": "spoil",
+      "present_tense": "spoils",
+      "past_tense": "spoilt",
+      "past_participle": "spoilt",
+      "infinitive_reading": "sbójl",
+      "present_tense_reading": "sbójlz",
+      "past_tense_reading": "sbójlt",
+      "past_participle_reading": "sbójlt",
+      "context": "the appetite for dinner",
+      "translation": "зіпсувати"
+    },
+    {
+      "infinitive": "spread",
+      "present_tense": "spreads",
+      "past_tense": "spread",
+      "past_participle": "spread",
+      "infinitive_reading": "sbɹɛ́d",
+      "present_tense_reading": "sbɹɛ́dz",
+      "past_tense_reading": "sbɹɛ́d",
+      "past_participle_reading": "sbɹɛ́d",
+      "context": "the jam on the piece of bread",
+      "translation": [
+        "поширювати",
+        "розповсюджувати"
+      ]
+    },
+    {
+      "infinitive": "spring",
+      "present_tense": "springs",
+      "past_tense": "sprang",
+      "past_participle": "sprung",
+      "infinitive_reading": "sbɹɪ́ŋ",
+      "present_tense_reading": "sbɹɪ́ŋz",
+      "past_tense_reading": "sbɹáŋ",
+      "past_participle_reading": "sbɹʌ́ŋ",
+      "context": "into action",
+      "translation": "пружинити"
+    },
+    {
+      "infinitive": "stand",
+      "present_tense": "stands",
+      "past_tense": "stood",
+      "past_participle": "stood",
+      "infinitive_reading": "sdánd",
+      "present_tense_reading": "sdándz",
+      "past_tense_reading": "sdʉ́d",
+      "past_participle_reading": "sdʉ́d",
+      "context": "up on the stage",
+      "translation": "стояти"
+    },
+    {
+      "infinitive": "steal",
+      "present_tense": "steals",
+      "past_tense": "stole",
+      "past_participle": "stolen",
+      "infinitive_reading": "sdɪ́jl",
+      "present_tense_reading": "sdɪ́jlz",
+      "past_tense_reading": "sdə́wl",
+      "past_participle_reading": "sdə́wlən",
+      "context": "the wallet",
+      "translation": "вкрасти"
+    },
+    {
+      "infinitive": "stick",
+      "present_tense": "sticks",
+      "past_tense": "stuck",
+      "past_participle": "stuck",
+      "infinitive_reading": "sdɪ́k",
+      "present_tense_reading": "sdɪ́ks",
+      "past_tense_reading": "sdʌ́k",
+      "past_participle_reading": "sdʌ́k",
+      "context": "a tag to the board",
+      "translation": [
+        "приклеїти",
+        "прикріпити"
+      ]
+    },
+    {
+      "infinitive": "sting",
+      "present_tense": "stings",
+      "past_tense": "stung",
+      "past_participle": "stung",
+      "infinitive_reading": "sdɪ́ŋ",
+      "present_tense_reading": "sdɪ́ŋz",
+      "past_tense_reading": "sdʌ́ŋ",
+      "past_participle_reading": "sdʌ́ŋ",
+      "context": "with a needle",
+      "translation": "жалити"
+    },
+    {
+      "infinitive": "stink",
+      "present_tense": "stinks",
+      "past_tense": "stank",
+      "past_participle": "stunk",
+      "infinitive_reading": "sdɪ́ŋk",
+      "present_tense_reading": "sdɪ́ŋks",
+      "past_tense_reading": "sdáŋk",
+      "past_participle_reading": "sdʌ́ŋk",
+      "context": "to high heaven",
+      "translation": "смердіти"
+    },
+    {
+      "infinitive": "stride",
+      "present_tense": "strides",
+      "past_tense": "strode",
+      "past_participle": "stridden",
+      "infinitive_reading": "sdɹɑ́jd",
+      "present_tense_reading": "sdɹɑ́jdz",
+      "past_tense_reading": "sdɹə́wd",
+      "past_participle_reading": "sdɹɪ́dən",
+      "context": "purposfuly up to the desk",
+      "translation": "крокувати"
+    },
+    {
+      "infinitive": "strike",
+      "present_tense": "strikes",
+      "past_tense": "struck",
+      "past_participle": "struck",
+      "infinitive_reading": "sdɹɑ́jk",
+      "present_tense_reading": "sdɹɑ́jks",
+      "past_tense_reading": "sdɹʌ́k",
+      "past_participle_reading": "sdɹʌ́k",
+      "context": "the opponent",
+      "translation": [
+        "страйкувати",
+        "ударяти"
+      ]
+    },
+    {
+      "infinitive": "string",
+      "present_tense": "strings",
+      "past_tense": "strung",
+      "past_participle": "strung",
+      "infinitive_reading": "sdɹɪ́ŋ",
+      "present_tense_reading": "sdɹɪ́ŋz",
+      "past_tense_reading": "sdɹʌ́ŋ",
+      "past_participle_reading": "sdɹʌ́ŋ",
+      "context": "the guitar",
+      "translation": [
+        "нанизувати",
+        "зв'язувати"
+      ]
+    },
+    {
+      "infinitive": "strive",
+      "present_tense": "strives",
+      "past_tense": "strove",
+      "past_participle": "striven",
+      "infinitive_reading": "sdɹɑ́jv",
+      "present_tense_reading": "sdɹɑ́jvz",
+      "past_tense_reading": "sdɹə́wv",
+      "past_participle_reading": "sdɹɪ́vən",
+      "context": "for a dream",
+      "translation": [
+        "прагнути",
+        "намагатися"
+      ]
+    },
+    {
+      "infinitive": "swear",
+      "present_tense": "swears",
+      "past_tense": "swore",
+      "past_participle": "sworn",
+      "infinitive_reading": "swɛ́ː",
+      "present_tense_reading": "swɛ́ːz",
+      "past_tense_reading": "swóː",
+      "past_participle_reading": "swóːn",
+      "context": "on the Bible",
+      "translation": [
+        "поклястися",
+        "присягнути"
+      ]
+    },
+    {
+      "infinitive": "sweep",
+      "present_tense": "sweeps",
+      "past_tense": "swept",
+      "past_participle": "swept",
+      "infinitive_reading": "swɪ́jp",
+      "present_tense_reading": "swɪ́jps",
+      "past_tense_reading": "swɛ́pt",
+      "past_participle_reading": "swɛ́pt",
+      "context": "the floor",
+      "translation": "підмітати"
+    },
+    {
+      "infinitive": "swell",
+      "present_tense": "swells",
+      "past_tense": "swelled",
+      "past_participle": "swollen",
+      "infinitive_reading": "swɛ́l",
+      "present_tense_reading": "swɛ́lz",
+      "past_tense_reading": "swɛ́ld",
+      "past_participle_reading": "swə́wlən",
+      "context": "up after such a big dish",
+      "translation": [
+        "набрякнути",
+        "розбухати"
+      ]
+    },
+    {
+      "infinitive": "swim",
+      "present_tense": "swims",
+      "past_tense": "swam",
+      "past_participle": "swum",
+      "infinitive_reading": "swɪ́m",
+      "present_tense_reading": "swɪ́mz",
+      "past_tense_reading": "swám",
+      "past_participle_reading": "swʌ́m",
+      "context": "in a pool",
+      "translation": "плавати"
+    },
+    {
+      "infinitive": "swing",
+      "present_tense": "swings",
+      "past_tense": "swung",
+      "past_participle": "swung",
+      "infinitive_reading": "swɪ́ŋ",
+      "present_tense_reading": "swɪ́ŋz",
+      "past_tense_reading": "swʌ́ŋ",
+      "past_participle_reading": "swʌ́ŋ",
+      "context": "a rolled-up umbrella",
+      "translation": "розгойдуватися"
+    },
+    {
+      "infinitive": "take",
+      "present_tense": "takes",
+      "past_tense": "took",
+      "past_participle": "taken",
+      "infinitive_reading": "tʰɛ́jk",
+      "present_tense_reading": "tʰɛ́jks",
+      "past_tense_reading": "tʰʉ́k",
+      "past_participle_reading": "tʰɛ́jkən",
+      "context": "the food out of store",
+      "translation": "взяти"
+    },
+    {
+      "infinitive": "teach",
+      "present_tense": "teaches",
+      "past_tense": "taught",
+      "past_participle": "taught",
+      "infinitive_reading": "tʰɪ́jʧ",
+      "present_tense_reading": "tʰɪ́jʧɪz",
+      "past_tense_reading": "tʰóːt",
+      "past_participle_reading": "tʰóːt",
+      "context": "a student math",
+      "translation": [
+        "викладати",
+        "навчати"
+      ]
+    },
+    {
+      "infinitive": "tear",
+      "present_tense": "tears",
+      "past_tense": "tore",
+      "past_participle": "torn",
+      "infinitive_reading": "tʰɛ́ː",
+      "present_tense_reading": "tʰɛ́ːz",
+      "past_tense_reading": "tʰóː",
+      "past_participle_reading": "tʰóːn",
+      "context": "a piece of paper",
+      "translation": "розірвати"
+    },
+    {
+      "infinitive": "tell",
+      "present_tense": "tells",
+      "past_tense": "told",
+      "past_participle": "told",
+      "infinitive_reading": "tʰɛ́l",
+      "present_tense_reading": "tʰɛ́lz",
+      "past_tense_reading": "tʰə́wld",
+      "past_participle_reading": "tʰə́wld",
+      "context": "anything to me",
+      "translation": "розповісти"
+    },
+    {
+      "infinitive": "think",
+      "present_tense": "thinks",
+      "past_tense": "thought",
+      "past_participle": "thought",
+      "infinitive_reading": "θɪ́ŋk",
+      "present_tense_reading": "θɪ́ŋks",
+      "past_tense_reading": "θóːt",
+      "past_participle_reading": "θóːt",
+      "context": "about nothing at all",
+      "translation": [
+        "подумати",
+        "думати"
+      ]
+    },
+    {
+      "infinitive": "throw",
+      "present_tense": "throws",
+      "past_tense": "threw",
+      "past_participle": "thrown",
+      "infinitive_reading": "θɹə́w",
+      "present_tense_reading": "θɹə́wz",
+      "past_tense_reading": "θɹʉ́w",
+      "past_participle_reading": "θɹə́wn",
+      "context": "the ball back over the fence",
+      "translation": [
+        "кинути",
+        "кидати"
+      ]
+    },
+    {
+      "infinitive": "thrust",
+      "present_tense": "thrusts",
+      "past_tense": "thrust",
+      "past_participle": "thrust",
+      "infinitive_reading": "θɹʌ́sd",
+      "present_tense_reading": "θɹʌ́sdz",
+      "past_tense_reading": "θɹʌ́sd",
+      "past_participle_reading": "θɹʌ́sd",
+      "context": "the money into her hand",
+      "translation": [
+        "штовхнути",
+        "штовхати"
+      ]
+    },
+    {
+      "infinitive": "tread",
+      "present_tense": "treads",
+      "past_tense": "trod",
+      "past_participle": "trodden",
+      "infinitive_reading": "tʰɹɛ́d",
+      "present_tense_reading": "tʰɹɛ́dz",
+      "past_tense_reading": "tʰɹɔ́d",
+      "past_participle_reading": "tʰɹɔ́dən",
+      "context": "on the foot",
+      "translation": "наступати"
+    },
+    {
+      "infinitive": "understand",
+      "present_tense": "understands",
+      "past_tense": "understood",
+      "past_participle": "understood",
+      "infinitive_reading": "ʌ́ndəsdánd",
+      "present_tense_reading": "ʌ́ndəsdándz",
+      "past_tense_reading": "ʌ́ndəsdʉ́d",
+      "past_participle_reading": "ʌ́ndəsdʉ́d",
+      "context": "the topic",
+      "translation": "зрозуміти"
+    },
+    {
+      "infinitive": "undertake",
+      "present_tense": "undertakes",
+      "past_tense": "undertook",
+      "past_participle": "undertaken",
+      "infinitive_reading": "ʌ́ndətʰɛ́jk",
+      "present_tense_reading": "ʌ́ndətʰɛ́jks",
+      "past_tense_reading": "ʌ́ndətʰʉ́k",
+      "past_participle_reading": "ʌ́ndətʰɛ́jkən",
+      "context": "simple experiments",
+      "translation": "взяти на себе зобов'язання"
+    },
+    {
+      "infinitive": "undo",
+      "present_tense": "undoes",
+      "past_tense": "undid",
+      "past_participle": "undone",
+      "infinitive_reading": "ʌ́ndʉ́w",
+      "present_tense_reading": "ʌ́ndʌ́z",
+      "past_tense_reading": "ʌ́ndɪ́d",
+      "past_participle_reading": "ʌ́ndʌ́n",
+      "context": "the action",
+      "translation": [
+        "відмінити",
+        "скасувати"
+      ]
+    },
+    {
+      "infinitive": "upset",
+      "present_tense": "upsets",
+      "past_tense": "upset",
+      "past_participle": "upset",
+      "infinitive_reading": "ʌ́psɛ́t",
+      "present_tense_reading": "ʌ́psɛ́ts",
+      "past_tense_reading": "ʌ́psɛ́t",
+      "past_participle_reading": "ʌ́psɛ́t",
+      "context": "a friend",
+      "translation": "засмутити"
+    },
+    {
+      "infinitive": "wake",
+      "present_tense": "wakes",
+      "past_tense": [
+        "woke",
+        "waked"
+      ],
+      "past_participle": [
+        "woken",
+        "waked"
+      ],
+      "infinitive_reading": "wɛ́jk",
+      "present_tense_reading": "wɛ́jks",
+      "past_tense_reading": [
+        "wə́wk",
+        "wɛ́jkt"
+      ],
+      "past_participle_reading": [
+        "wə́wkən",
+        "wɛ́jkt"
+      ],
+      "context": "me up out of a bad dream",
+      "translation": "розбудити"
+    },
+    {
+      "infinitive": "wear",
+      "present_tense": "wears",
+      "past_tense": "wore",
+      "past_participle": "worn",
+      "infinitive_reading": "wɛ́ː",
+      "present_tense_reading": "wɛ́ːz",
+      "past_tense_reading": "wóː",
+      "past_participle_reading": "wóːn",
+      "context": "a new suit",
+      "translation": "носити (одяг)"
+    },
+    {
+      "infinitive": "weave",
+      "present_tense": "weaves",
+      "past_tense": "wove",
+      "past_participle": "woven",
+      "infinitive_reading": "wɪ́jv",
+      "present_tense_reading": "wɪ́jvz",
+      "past_tense_reading": "wə́wv",
+      "past_participle_reading": "wə́wvən",
+      "context": "some wool into fabric",
+      "translation": "сплести"
+    },
+    {
+      "infinitive": "wed",
+      "present_tense": "weds",
+      "past_tense": [
+        "wed",
+        "wedded"
+      ],
+      "past_participle": [
+        "wed",
+        "wedded"
+      ],
+      "infinitive_reading": "wɛ́d",
+      "present_tense_reading": "wɛ́dz",
+      "past_tense_reading": [
+        "wɛ́d",
+        "wɛ́dɪd"
+      ],
+      "past_participle_reading": [
+        "wɛ́d",
+        "wɛ́dɪd"
+      ],
+      "context": "my sister",
+      "translation": "одружитися."
+    },
+    {
+      "infinitive": "weep",
+      "present_tense": "weeps",
+      "past_tense": "wept",
+      "past_participle": "wept",
+      "infinitive_reading": "wɪ́jp",
+      "present_tense_reading": "wɪ́jps",
+      "past_tense_reading": "wɛ́pt",
+      "past_participle_reading": "wɛ́pt",
+      "context": "tears of joy",
+      "translation": "плакати"
+    },
+    {
+      "infinitive": "wet",
+      "present_tense": "wets",
+      "past_tense": [
+        "wet",
+        "wetted"
+      ],
+      "past_participle": [
+        "wet",
+        "wetted"
+      ],
+      "infinitive_reading": "wɛ́t",
+      "present_tense_reading": "wɛ́ts",
+      "past_tense_reading": [
+        "wɛ́t",
+        "wɛ́tɪd"
+      ],
+      "past_participle_reading": [
+        "wɛ́t",
+        "wɛ́tɪd"
+      ],
+      "context": "the powder",
+      "translation": "намочити"
+    },
+    {
+      "infinitive": "win",
+      "present_tense": "wins",
+      "past_tense": "won",
+      "past_participle": "won",
+      "infinitive_reading": "wɪ́n",
+      "present_tense_reading": "wɑ́jndz",
+      "past_tense_reading": "wʌ́n",
+      "past_participle_reading": "wʌ́n",
+      "context": "a match",
+      "translation": [
+        "перемогти",
+        "виграти"
+      ]
+    },
+    {
+      "infinitive": "wind",
+      "present_tense": "winds",
+      "past_tense": "wound",
+      "past_participle": "wound",
+      "infinitive_reading": "wɑ́jnd",
+      "present_tense_reading": "wɪ́nz",
+      "past_tense_reading": "wáwnd",
+      "past_participle_reading": "wáwnd",
+      "context": "the handle",
+      "translation": [
+        "намотувати",
+        "заводити",
+        "накручувати"
+      ]
+    },
+    {
+      "infinitive": "withdraw",
+      "present_tense": "withdraws",
+      "past_tense": "withdrew",
+      "past_participle": "withdrawn",
+      "infinitive_reading": "wɪðdɹóː",
+      "present_tense_reading": "wɪðdɹóːz",
+      "past_tense_reading": "wɪðdɹʉ́w",
+      "past_participle_reading": "wɪðdɹóːn",
+      "context": "some money out of the back account",
+      "translation": "вивести кошти"
+    },
+    {
+      "infinitive": "withstand",
+      "present_tense": "withstands",
+      "past_tense": "withstood",
+      "past_participle": "withstood",
+      "infinitive_reading": "wɪðsdánd",
+      "present_tense_reading": "wɪðsdándz",
+      "past_tense_reading": "wɪðsdʉ́d",
+      "past_participle_reading": "wɪðsdʉ́d",
+      "context": "a strike from the back",
+      "translation": [
+        "витримати",
+        "протистояти"
+      ]
+    },
+    {
+      "infinitive": "wring",
+      "present_tense": "wrings",
+      "past_tense": "wrung",
+      "past_participle": "wrung",
+      "infinitive_reading": "ɹɪ́ŋ",
+      "present_tense_reading": "ɹɪ́ŋz",
+      "past_tense_reading": "ɹʌ́ŋ",
+      "past_participle_reading": "ɹʌ́ŋ",
+      "context": "out the shirt",
+      "translation": [
+        "вичавити",
+        "віджати"
+      ]
+    },
+    {
+      "infinitive": "write",
+      "present_tense": "writes",
+      "past_tense": "wrote",
+      "past_participle": "written",
+      "infinitive_reading": "ɹɑ́jt",
+      "present_tense_reading": "ɹɑ́jts",
+      "past_tense_reading": "ɹə́wt",
+      "past_participle_reading": "ɹɪ́tən",
+      "context": "a letter",
+      "translation": "писати"
+    }
+  ]
+
+}
