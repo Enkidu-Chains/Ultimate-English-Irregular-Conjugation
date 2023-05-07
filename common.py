@@ -1,8 +1,8 @@
 import genanki
 
 UEICDeck = genanki.Deck(
-    1935041321,
-    "Ultimate Enlish Irregular Conjugation"
+    1514828717,
+    "Ultimate English Irregular Conjugation"
 )
 
 
@@ -11,7 +11,7 @@ back_card = open("back.html", "r")
 styles = open("style.css", "r")
 
 UEICModel = genanki.Model(
-    1486615372,
+    1311474809,
     "Ultimate English Irregular Conjugation",
     fields = [
         { "name": "UUID" },
@@ -27,7 +27,8 @@ UEICModel = genanki.Model(
         }
     ],
     css = styles.read(),
-    sort_field_index = 2
+    model_type = genanki.Model.CLOZE,
+    sort_field_index = 1
 )
 
 front_card.close()

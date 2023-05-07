@@ -92,7 +92,8 @@ orientation_examples,
 
 .en_hint {
     /* on the back card, additional text with the answer, e.g. */
-    /* (consciente, en Cadiz)*/ text-align: left;
+    /* (consciente, en Cadiz)*/
+    text-align: left;
     color: #999;
 }
 
@@ -157,7 +158,7 @@ orientation_examples,
 }
 
 .note_non_en_word {
-    /* A non English word used in the notes, e.g. 'me' */
+    /* A English word used in the notes, e.g. 'me' */
     font-style: italic;
 }
 
