@@ -12,7 +12,7 @@ styles = open("style.css", "r")
 
 UEICModel = genanki.Model(
     1486615372,
-    "Ultimate Enlish Irregular Conjugation",
+    "Ultimate English Irregular Conjugation",
     fields = [
         { "name": "UUID" },
         { "name": "Prompt" },
