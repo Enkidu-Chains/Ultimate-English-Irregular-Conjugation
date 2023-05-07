@@ -1,3 +1,4 @@
+from enum import Enum
 import genanki
 
 from common import UEICModel
@@ -26,3 +27,9 @@ class Verb:
 
     def __init__(self, values: dict) -> None:
         self.__dict__ = values
+
+
+class TypeOfCard(Enum):
+    INFINITIVE = 1
+    PAST_TENSE = 2
+    PAST_PARTICIPLE = 3

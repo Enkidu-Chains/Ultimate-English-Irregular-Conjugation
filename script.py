@@ -15,8 +15,8 @@ def get_verbs() -> list[Verb]:
     return [Verb(verb) for verb in verbs]
 
 
-def create_uuid(infinitive: str, conjugation: str) -> UUID:
-    return uuid5(NAMESPACE_DNS, infinitive+conjugation)
+def create_uuid(infinitive: str, conjugation: str, type_of_card: TypeOfCard) -> UUID:
+    return uuid5(NAMESPACE_DNS, infinitive + conjugation + str(type_of_card))
 
 
 def create_note(uuid: UUID, prompt: str, notes: list[str], similar: list[str] | None = None) -> Note:
@@ -31,7 +31,7 @@ def create_conjugation_note(
     infinitive: str, infinitive_reading: str,
     conjugation: str | list[str], conjugation_reading: str | list [str],
     context: str, translation: str | list[str],
-    prompt: Callable[[str, str, str], str]
+    type_of_card: TypeOfCard, prompt: Callable[[str, str, str], str]
 ) -> Note:
     regular_conjugation: str | None = None
     regular_conjugation_reading: str | None = None
@@ -42,7 +42,7 @@ def create_conjugation_note(
         regular_conjugation: str = conjugation[1]
         regular_conjugation_reading: str = conjugation_reading[1]
     
-    uuid: UUID = create_uuid(infinitive, conjugation)
+    uuid: UUID = create_uuid(infinitive, conjugation, type_of_card)
     prompt: str = prompt(infinitive, conjugation, context)
     notes: list[str] = []
 
@@ -63,7 +63,7 @@ def create_infinitive_note(verb: Verb) -> Note:
         verb.infinitive, verb.infinitive_reading,
         verb.present_tense, verb.present_tense_reading,
         verb.context, verb.translation,
-        PromptTemplates.infinitive
+        TypeOfCard.INFINITIVE, PromptTemplates.infinitive
     )
 
 
@@ -72,7 +72,7 @@ def create_past_tense_note(verb: Verb) -> Note:
         verb.infinitive, verb.infinitive_reading,
         verb.past_tense, verb.past_tense_reading,
         verb.context, verb.translation,
-        PromptTemplates.past_tense
+        TypeOfCard.PAST_TENSE, PromptTemplates.past_tense
     )
 
 
@@ -81,7 +81,7 @@ def create_past_participle_note(verb: Verb) -> Note:
         verb.infinitive, verb.infinitive_reading,
         verb.past_participle, verb.past_participle_reading,
         verb.context, verb.translation,
-        PromptTemplates.past_participle
+        TypeOfCard.PAST_PARTICIPLE, PromptTemplates.past_participle
     )
 
 
@@ -102,37 +102,37 @@ def create_full_set_of_notes_for_tobe(verb: Verb) -> list[Note]:
             verb.infinitive, verb.infinitive_reading,
             verb.present_tense[0], verb.present_tense_reading[0],
             verb.context, verb.translation,
-            ToBePromptTemplates.infinitive_am
+            TypeOfCard.INFINITIVE, ToBePromptTemplates.infinitive_am
         ),
         create_conjugation_note(
             verb.infinitive, verb.infinitive_reading,
             verb.present_tense[1], verb.present_tense_reading[1],
             verb.context, verb.translation,
-            ToBePromptTemplates.infinitive_is
+            TypeOfCard.INFINITIVE, ToBePromptTemplates.infinitive_is
         ),
         create_conjugation_note(
             verb.infinitive, verb.infinitive_reading,
             verb.present_tense[2], verb.present_tense_reading[2],
             verb.context, verb.translation,
-            ToBePromptTemplates.infinitive_are
+            TypeOfCard.INFINITIVE, ToBePromptTemplates.infinitive_are
         ),
         create_conjugation_note(
             verb.infinitive, verb.infinitive_reading,
             verb.past_tense[0], verb.past_tense_reading[0],
             verb.context, verb.translation,
-            ToBePromptTemplates.past_tense_was
+            TypeOfCard.PAST_TENSE, ToBePromptTemplates.past_tense_was
         ),
         create_conjugation_note(
             verb.infinitive, verb.infinitive_reading,
             verb.past_tense[1], verb.past_tense_reading[1],
             verb.context, verb.translation,
-            ToBePromptTemplates.past_tense_were
+            TypeOfCard.PAST_TENSE, ToBePromptTemplates.past_tense_were
         ),
         create_conjugation_note(
             verb.infinitive, verb.infinitive_reading,
             verb.past_participle, verb.past_participle_reading,
             verb.context, verb.translation,
-            ToBePromptTemplates.past_participle
+            TypeOfCard.PAST_PARTICIPLE, ToBePromptTemplates.past_participle
         )
     ]
 
