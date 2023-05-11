@@ -1,5 +1,5 @@
 {
-  "Sheet": [
+  "Verbs": [
     {
       "infinitive": "abide",
       "present_tense": "abides",
@@ -22,7 +22,14 @@
         "əbɑ́jdɪd"
       ],
       "context": "in the wildeness",
-      "translation": "залишатися"
+      "translation": "залишатися",
+      "similar": [
+        "shine",
+        ""
+      ],
+      "infinitive_uuid": "42cbe09a-75c1-424c-ad4e-255e3724f18e",
+      "past_tense_uuid": "4a2fd5e7-8229-4244-b71f-e251fddb7a80",
+      "past_participle_uuid": "8d21b448-2f74-48e9-a379-448a389c25ba"
     },
     {
       "infinitive": "arise",
@@ -37,19 +44,40 @@
       "translation": [
         "виникати",
         "з'явитись"
-      ]
+      ],
+      "similar": [
+        "dive",
+        "drive",
+        "rise",
+        "strive"
+      ],
+      "infinitive_uuid": "cfcc1338-4496-4392-8eb4-71c41ba74cab",
+      "past_tense_uuid": "05a08ac7-bc9d-4cc8-8ed9-3c193b5d3fd6",
+      "past_participle_uuid": "614e27a7-94d4-4a4c-a2c9-b4bd1419291d"
     },
     {
       "infinitive": "awake",
       "present_tense": "awakes",
       "past_tense": "awoke",
       "past_participle": "awoken",
-      "infinitive_reading": "ə ɹ ɪ́ z ə n",
+      "infinitive_reading": "əwɛ́jk",
       "present_tense_reading": "əwɛ́jks",
       "past_tense_reading": "əwə́wk",
       "past_participle_reading": "əwə́wkən",
       "context": "at 9 am",
-      "translation": "прокинутись"
+      "translation": "прокинутись",
+      "similar": [
+        "break",
+        "choose",
+        "freeze",
+        "interweave",
+        "speak",
+        "steal",
+        "weave"
+      ],
+      "infinitive_uuid": "4ac1a25f-f768-462a-be89-5fcb35608ce7",
+      "past_tense_uuid": "15e2ba58-e7a7-4655-b8d1-bf59f6a46971",
+      "past_participle_uuid": "fe2c40f6-b8a7-4323-9c07-38c8bfdfd3fa"
     },
     {
       "infinitive": "be",
@@ -75,7 +103,18 @@
       ],
       "past_participle_reading": "bɪ́jn/bɪn",
       "context": "in London",
-      "translation": "бути"
+      "translation": "бути",
+      "similar": null,
+      "infinitive_uuid": [
+        "87b5fb78-b4a1-495f-a085-82064d0e1ac5",
+        "dcfd825e-88f1-4589-b360-bfcdfcc9f2a5",
+        "af21293e-3b97-41a1-a327-6c365ec15c52"
+      ],
+      "past_tense_uuid": [
+        "cd6cd09a-0b27-4b51-ab5c-524a175bd5d8",
+        "3388aa75-65a2-47ce-baaf-b8c0178d06d5"
+      ],
+      "past_participle_uuid": "9bab9afc-fbed-41f1-a28e-e4ce6d1a9578"
     },
     {
       "infinitive": "bear",
@@ -90,7 +129,14 @@
       "translation": [
         "витримати",
         "нести"
-      ]
+      ],
+      "similar": [
+        "wear",
+        ""
+      ],
+      "infinitive_uuid": "78ab0fc5-2ff2-4bc2-bc12-7660898c99dd",
+      "past_tense_uuid": "43eb7349-9fee-4a92-97ee-252217612c4e",
+      "past_participle_uuid": "6a44d4ee-4eb8-48b3-ad61-135c4ebbb93c"
     },
     {
       "infinitive": "beat",
@@ -105,7 +151,11 @@
       "translation": [
         "пробити",
         "перемогти"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "655ab168-385c-4cf8-b700-4e21bf91a0fd",
+      "past_tense_uuid": "c94be8f6-4ac2-40e9-aace-b207fdf0de45",
+      "past_participle_uuid": "4e964667-7f92-46eb-ba35-5c24a53b1748"
     },
     {
       "infinitive": "become",
@@ -117,7 +167,11 @@
       "past_tense_reading": "bəkʰɛ́jm",
       "past_participle_reading": "bəkʰʌ́m",
       "context": "a layer",
-      "translation": "стати"
+      "translation": "стати",
+      "similar": null,
+      "infinitive_uuid": "d5d99cb3-e9ec-4744-a873-9c28b4514ad1",
+      "past_tense_uuid": "d54af923-79bd-4c76-bd21-e28861529bb2",
+      "past_participle_uuid": "0ea5376a-a37d-4c60-b7dc-54110785e20f"
     },
     {
       "infinitive": "befall",
@@ -129,7 +183,11 @@
       "past_tense_reading": "bəfɛ́l",
       "past_participle_reading": "bəfóːlən",
       "context": "my friends",
-      "translation": "спіткати"
+      "translation": "спіткати",
+      "similar": null,
+      "infinitive_uuid": "d01f4a9e-c13d-4f6f-899f-46b76de6d077",
+      "past_tense_uuid": "3ab5b0b4-c41a-464a-ab37-92d431438a2f",
+      "past_participle_uuid": "cca2cd98-97db-453d-bce5-d0cdabfa1a0b"
     },
     {
       "infinitive": "begin",
@@ -141,7 +199,11 @@
       "past_tense_reading": "bəgán",
       "past_participle_reading": "bəgʌ́n",
       "context": "solving the problem",
-      "translation": "почати"
+      "translation": "почати",
+      "similar": null,
+      "infinitive_uuid": "f8064310-dc24-4047-88cf-20e8a495a979",
+      "past_tense_uuid": "28b8cc24-aa47-482e-9aa6-7a552c911880",
+      "past_participle_uuid": "886752d3-b9de-480e-afc4-0ddeac1ab8a7"
     },
     {
       "infinitive": "behold",
@@ -153,7 +215,11 @@
       "past_tense_reading": "bəhɛ́ld",
       "past_participle_reading": "bəhɛ́ld",
       "context": "at the miracle",
-      "translation": "побачити"
+      "translation": "побачити",
+      "similar": null,
+      "infinitive_uuid": "830bac33-4bd6-4cea-8862-590d00c9e839",
+      "past_tense_uuid": "7e64ab1e-3636-446c-8e73-ef4f4c33fbd9",
+      "past_participle_uuid": "63ab26de-5a81-4d8b-895b-f65f572e95c7"
     },
     {
       "infinitive": "bend",
@@ -165,7 +231,11 @@
       "past_tense_reading": "bɛ́nt",
       "past_participle_reading": "bɛ́nt",
       "context": "to pick up something",
-      "translation": "зігнутись"
+      "translation": "зігнутись",
+      "similar": null,
+      "infinitive_uuid": "61c1c4a8-46f9-4a72-b6eb-f24bbf5eac40",
+      "past_tense_uuid": "e0bb8505-08e7-48dd-b200-d66ae7326af1",
+      "past_participle_uuid": "08b30a5b-812c-4269-9783-ea1129c7026e"
     },
     {
       "infinitive": "bet",
@@ -177,7 +247,11 @@
       "past_tense_reading": "bɛ́t",
       "past_participle_reading": "bɛ́t",
       "context": "£500 on the horse",
-      "translation": "посперечатися"
+      "translation": "посперечатися",
+      "similar": null,
+      "infinitive_uuid": "62ea36e8-0246-4572-8258-7e41132d1247",
+      "past_tense_uuid": "48dadc43-c1d6-4043-a9b9-82d72dab61fb",
+      "past_participle_uuid": "59d8f87a-b7b4-4e59-a367-4f96014ef3c4"
     },
     {
       "infinitive": "bid",
@@ -189,7 +263,11 @@
       "past_tense_reading": "bɪ́d",
       "past_participle_reading": "bɪ́d",
       "context": "£200 for the portrait",
-      "translation": "зробити ставку"
+      "translation": "зробити ставку",
+      "similar": null,
+      "infinitive_uuid": "f3506a50-ecb0-4b0c-aa4b-7c2e9b3d94fc",
+      "past_tense_uuid": "f0eb48b6-af48-490f-a566-ac4f89d1472a",
+      "past_participle_uuid": "b2cc86b1-d5b6-4c15-8388-98884ac46e6d"
     },
     {
       "infinitive": "bind",
@@ -204,22 +282,30 @@
       "translation": [
         "зв'язати",
         "пов'язати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "6419e64e-4a10-4767-8e40-7613e36fd70b",
+      "past_tense_uuid": "e8832fd2-5b91-4c14-8eed-8258860be863",
+      "past_participle_uuid": "21a822c9-b853-45c8-b6df-83cb9a02449a"
     },
     {
       "infinitive": "bite",
       "present_tense": "bites",
       "past_tense": "bit",
-      "past_participle": "bit",
+      "past_participle": "bitten",
       "infinitive_reading": "bɑ́jt",
       "present_tense_reading": "bɑ́jts",
       "past_tense_reading": "bɪ́t",
-      "past_participle_reading": "bɪ́t",
+      "past_participle_reading": "bɪ́tən",
       "context": "into the apple",
       "translation": [
         "кусати",
         "кусатись"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "8586730c-b941-4a87-9e9e-e755da644be8",
+      "past_tense_uuid": "366a330e-f830-4048-b923-a0ff60834ed8",
+      "past_participle_uuid": "8233740d-ca70-4cb5-8bab-4be1521fc1da"
     },
     {
       "infinitive": "bleed",
@@ -231,7 +317,11 @@
       "past_tense_reading": "blɛ́d",
       "past_participle_reading": "blɛ́d",
       "context": "because of the wound",
-      "translation": "кровоточити"
+      "translation": "кровоточити",
+      "similar": null,
+      "infinitive_uuid": "f8dcc247-0754-4ece-9743-1f6a69d7ed6f",
+      "past_tense_uuid": "528097f4-ab75-4d9d-afe6-db52b56e10f0",
+      "past_participle_uuid": "2eae3b0e-a21b-4800-8697-287dcd9a7be6"
     },
     {
       "infinitive": "blow",
@@ -243,7 +333,11 @@
       "past_tense_reading": "blʉ́w",
       "past_participle_reading": "blə́wn",
       "context": "the dust off the books",
-      "translation": "підірвати"
+      "translation": "підірвати",
+      "similar": null,
+      "infinitive_uuid": "16779ceb-986c-432d-85c4-b1a2d3db5939",
+      "past_tense_uuid": "35ea1df3-d921-4a1e-9515-a546630bc662",
+      "past_participle_uuid": "7d4d587a-a091-40b1-a179-e830f4278fe2"
     },
     {
       "infinitive": "break",
@@ -258,7 +352,11 @@
       "translation": [
         "розбити",
         "зламати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "18ea6b8c-276c-43c3-9801-6f6214e266ec",
+      "past_tense_uuid": "422f6ae4-45d3-4382-af66-8b16086c1c45",
+      "past_participle_uuid": "b6e4cf4a-1ea0-4028-9911-a53b2b86793d"
     },
     {
       "infinitive": "breed",
@@ -273,7 +371,11 @@
       "translation": [
         "розмножувати",
         "розмножуватися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "ac5245a4-c3a9-49b5-a771-8c375b5acc63",
+      "past_tense_uuid": "0033323c-2ea2-4632-a095-6ef0516c6bd8",
+      "past_participle_uuid": "1e28d7c2-4688-4e0e-93c5-70cbda3b88ec"
     },
     {
       "infinitive": "bring",
@@ -288,7 +390,11 @@
       "translation": [
         "принести",
         "привезти"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "fcf55d5f-cbb2-472c-a259-b3378c1bbf57",
+      "past_tense_uuid": "35a39491-981f-4461-aef4-4557360fa862",
+      "past_participle_uuid": "8f0a7270-d6ae-4e8d-8eb3-8ef8250d2972"
     },
     {
       "infinitive": "broadcast",
@@ -300,7 +406,11 @@
       "past_tense_reading": "bɹóːdkʰɑːsd",
       "past_participle_reading": "bɹóːdkʰɑːsd",
       "context": "on the TV",
-      "translation": "транслювати"
+      "translation": "транслювати",
+      "similar": null,
+      "infinitive_uuid": "ac7599a1-b8f2-4df5-be37-71230eeb92e8",
+      "past_tense_uuid": "066f8a33-f6c3-467f-b942-c1d63e27e790",
+      "past_participle_uuid": "a7738283-5940-45cc-881f-664568096884"
     },
     {
       "infinitive": "build",
@@ -315,7 +425,11 @@
       "translation": [
         "побудувати",
         "будувати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "e1c978f0-a0f2-4550-93ef-2c06b052aeec",
+      "past_tense_uuid": "47b9c3a1-7d68-45a8-a286-e6fe0b8895a1",
+      "past_participle_uuid": "ef148b22-3b0a-469c-ba93-c47e90cfcbef"
     },
     {
       "infinitive": "burn",
@@ -342,7 +456,11 @@
       "translation": [
         "згоріти",
         "спалити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "d45062dc-0063-42ad-a361-d69634731baa",
+      "past_tense_uuid": "d1f9405b-12d8-4358-b695-ee6cffcc3046",
+      "past_participle_uuid": "487bbf1c-3268-4897-a869-bde786c8146a"
     },
     {
       "infinitive": "burst",
@@ -357,7 +475,11 @@
       "translation": [
         "вибухнути",
         "лопнути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "d7ed3455-0a44-4758-9c22-de3b83bf066c",
+      "past_tense_uuid": "4df95f69-7e1f-49fd-b08c-076688d22c7b",
+      "past_participle_uuid": "53d66ed6-511b-481b-a7db-b6011803bf31"
     },
     {
       "infinitive": "buy",
@@ -372,7 +494,11 @@
       "translation": [
         "купити",
         "придбати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "836bf7f7-3b60-49f1-86d8-df85dc71d642",
+      "past_tense_uuid": "3e838238-29c0-454c-a073-5539b09c6629",
+      "past_participle_uuid": "18a6679c-b53b-4ce3-aa74-5cdcd390ff69"
     },
     {
       "infinitive": "cast",
@@ -387,7 +513,11 @@
       "translation": [
         "відбирати (на кастингу)",
         "закинути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "cedb0640-7bd2-4dca-8a23-ff9ebec26b41",
+      "past_tense_uuid": "1ec573dc-87cf-43d2-b913-555810b2adda",
+      "past_participle_uuid": "d2a1511b-dcaa-45ff-b493-6ff0385cf584"
     },
     {
       "infinitive": "catch",
@@ -402,7 +532,11 @@
       "translation": [
         "зловити",
         "ловити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "c03fe27b-64f1-42bf-8879-31d025c3ced2",
+      "past_tense_uuid": "df0e5e87-74c1-4ab8-aa4c-7a391e8ba8c4",
+      "past_participle_uuid": "5999dec3-7048-4920-905b-07962e3e5710"
     },
     {
       "infinitive": "choose",
@@ -417,7 +551,11 @@
       "translation": [
         "вибирати",
         "вибрати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "e1e417ef-2fb5-4348-867e-b8e9fb40c913",
+      "past_tense_uuid": "214d4650-c216-43c8-ae84-6da763b4343a",
+      "past_participle_uuid": "a2973055-fa1e-4758-857d-d780a553d3d0"
     },
     {
       "infinitive": "cling",
@@ -429,7 +567,11 @@
       "past_tense_reading": "kʰlʌ́ŋ",
       "past_participle_reading": "kʰlʌ́ŋ",
       "context": "to the tree",
-      "translation": "чіплятися"
+      "translation": "чіплятися",
+      "similar": null,
+      "infinitive_uuid": "1eda9913-06b4-454f-8323-55bc45998023",
+      "past_tense_uuid": "ab263ed7-b2de-4f76-95d2-3d69b4b885a3",
+      "past_participle_uuid": "c42a568f-c581-4a15-8243-efc611905e9a"
     },
     {
       "infinitive": "come",
@@ -441,7 +583,11 @@
       "past_tense_reading": "kʰɛ́jm",
       "past_participle_reading": "kʰʌ́m",
       "context": "to a party",
-      "translation": "прийти"
+      "translation": "прийти",
+      "similar": null,
+      "infinitive_uuid": "d9ad7477-1682-4754-9cd4-da69cd24f536",
+      "past_tense_uuid": "84102bee-22a0-4518-94a6-b4ca0bb51d9b",
+      "past_participle_uuid": "7d4cb03f-8ce1-442e-833a-0cf15c9c5ec8"
     },
     {
       "infinitive": "cost",
@@ -453,7 +599,11 @@
       "past_tense_reading": "kʰɔ́sd",
       "past_participle_reading": "kʰɔ́sd",
       "context": "£100 per hour",
-      "translation": "коштувати"
+      "translation": "коштувати",
+      "similar": null,
+      "infinitive_uuid": "5c265c08-4916-4aee-82a5-c9cdf0e8d25b",
+      "past_tense_uuid": "8f1a99aa-fca3-4888-be06-6b0dcbca1676",
+      "past_participle_uuid": "ee3ddcd5-056f-4f67-ba0f-629bddc5bc61"
     },
     {
       "infinitive": "creep",
@@ -469,7 +619,11 @@
         "повзати",
         "повзти",
         "крастися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "bf2ab8dd-ae2e-43fc-8603-6a6978ed6728",
+      "past_tense_uuid": "15ddddc9-adfd-47f3-b1f0-061f7bfcc53b",
+      "past_participle_uuid": "b0549cb2-51aa-4990-9b45-b2d60b9bf21f"
     },
     {
       "infinitive": "cut",
@@ -485,7 +639,11 @@
         "вирізати",
         "розрізати",
         "різати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "964b49d8-6476-4569-9165-0d82e86c2262",
+      "past_tense_uuid": "ef276944-f486-4bd9-908a-bed6d0441858",
+      "past_participle_uuid": "8027b493-c1a2-436b-8675-6eb371e6c9eb"
     },
     {
       "infinitive": "deal",
@@ -497,7 +655,11 @@
       "past_tense_reading": "dɛ́lt",
       "past_participle_reading": "dɛ́lt",
       "context": "with that company",
-      "translation": "розібратися"
+      "translation": "розібратися",
+      "similar": null,
+      "infinitive_uuid": "a01c67b5-b8b0-41c6-84ec-8931076d3b3a",
+      "past_tense_uuid": "84806499-2fcb-4b84-9351-f4f0fe8cdf6d",
+      "past_participle_uuid": "f7acf3a9-dd81-437a-972a-5f8fede19eb8"
     },
     {
       "infinitive": "dig",
@@ -509,7 +671,11 @@
       "past_tense_reading": "dʌ́g",
       "past_participle_reading": "dʌ́g",
       "context": "a hole in the ground",
-      "translation": "копати"
+      "translation": "копати",
+      "similar": null,
+      "infinitive_uuid": "2a142286-bcc0-43bd-ae11-004ab4abb02b",
+      "past_tense_uuid": "f0a706d3-2af6-40f1-a450-14e42c2dcaa6",
+      "past_participle_uuid": "9aafd2c2-4c19-4213-a60e-c393213c9e4b"
     },
     {
       "infinitive": "dive",
@@ -524,7 +690,11 @@
       "translation": [
         "пірнути",
         "зануритися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "590b7d6b-dc2d-4fde-bf46-4083cf65ba14",
+      "past_tense_uuid": "7f59220c-0620-43ac-b1b8-f8a7f9ba7492",
+      "past_participle_uuid": "d9f0ce7b-71b9-424d-821b-4f94a39ff139"
     },
     {
       "infinitive": "do",
@@ -539,7 +709,11 @@
       "translation": [
         "зробити",
         "робити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "ee860b5a-4542-4aa2-9666-4bf9cfb586d2",
+      "past_tense_uuid": "4feeb840-a5d9-4a83-adfd-40d8f5691e0c",
+      "past_participle_uuid": "44d1f8e4-2f92-47f1-bf7a-a2776549f6da"
     },
     {
       "infinitive": "draw",
@@ -554,7 +728,11 @@
       "translation": [
         "намалювати",
         "малювати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "a55d729b-baac-417d-94fd-b001d0abe0dd",
+      "past_tense_uuid": "4580f097-3f86-4a2d-bc13-c97ae431ddeb",
+      "past_participle_uuid": "0f4bb0b8-9a0a-4c91-bd63-866cea526e17"
     },
     {
       "infinitive": "dream",
@@ -578,7 +756,11 @@
         "dɹɪ́jmd"
       ],
       "context": "about a girlfriend",
-      "translation": "мріяти"
+      "translation": "мріяти",
+      "similar": null,
+      "infinitive_uuid": "04e94ee0-72ba-43bc-a454-acd3348804d1",
+      "past_tense_uuid": "ebe26b6c-5ca0-4820-9a7e-146c62447226",
+      "past_participle_uuid": "ff2a2359-d902-45e0-9caa-09904cdeb478"
     },
     {
       "infinitive": "drink",
@@ -590,7 +772,11 @@
       "past_tense_reading": "dɹáŋk",
       "past_participle_reading": "dɹʌ́ŋk",
       "context": "5 shots at the party",
-      "translation": "випити."
+      "translation": "випити.",
+      "similar": null,
+      "infinitive_uuid": "e492516e-4dda-49d1-8f60-42dd180c8a1c",
+      "past_tense_uuid": "67af4cca-25f1-48b7-8595-cd86cc4e9a92",
+      "past_participle_uuid": "40f5cf5b-29e0-497c-961d-4e7fd9333376"
     },
     {
       "infinitive": "drive",
@@ -605,7 +791,11 @@
       "translation": [
         "їздити",
         "керувати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "13a960bd-1a08-48dd-89b2-5822bcf8a1c9",
+      "past_tense_uuid": "fcb2df2e-e14d-4f67-8bb9-0a5249fa9391",
+      "past_participle_uuid": "0d7d83dc-8197-4362-92ad-e15cd1800009"
     },
     {
       "infinitive": "dwell",
@@ -632,7 +822,11 @@
       "translation": [
         "оселитися",
         "жити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "109ff963-78b2-45f1-9b4e-7efd4f651322",
+      "past_tense_uuid": "b21ff5c2-15b1-4e35-823e-9c3348219236",
+      "past_participle_uuid": "0b695ec4-e4c3-4eab-afbf-0c744d87d2f2"
     },
     {
       "infinitive": "eat",
@@ -644,7 +838,11 @@
       "past_tense_reading": "ɛ́jt",
       "past_participle_reading": "ɪ́jtən",
       "context": "the lunch",
-      "translation": "поїсти"
+      "translation": "поїсти",
+      "similar": null,
+      "infinitive_uuid": "17819ff6-4aa0-4e09-8b59-ddf3d6ae9eb5",
+      "past_tense_uuid": "6379f5a9-84cf-41f5-96f0-0c379264eadb",
+      "past_participle_uuid": "c843f761-abf4-446d-a8d8-2ccaafdc2b33"
     },
     {
       "infinitive": "fall",
@@ -656,7 +854,11 @@
       "past_tense_reading": "fɛ́l",
       "past_participle_reading": "fóːlən",
       "context": "from a tree",
-      "translation": "впасти"
+      "translation": "впасти",
+      "similar": null,
+      "infinitive_uuid": "afcfc7a8-8088-422b-9b3c-8cdc95089b43",
+      "past_tense_uuid": "129259cc-0260-458c-8f4d-85dab201f78f",
+      "past_participle_uuid": "9fd0f590-f782-443e-9b98-85904bbf9595"
     },
     {
       "infinitive": "feed",
@@ -668,7 +870,11 @@
       "past_tense_reading": "fɛ́d",
       "past_participle_reading": "fɛ́d",
       "context": "the child",
-      "translation": "годувати"
+      "translation": "годувати",
+      "similar": null,
+      "infinitive_uuid": "f6121091-ad01-433d-a21a-9fab521d2cd9",
+      "past_tense_uuid": "8e0bd089-e13d-4c07-8931-40400de1b296",
+      "past_participle_uuid": "4edbdce8-f110-4df4-ad27-60d6e079902f"
     },
     {
       "infinitive": "feel",
@@ -680,7 +886,11 @@
       "past_tense_reading": "fɛ́lt",
       "past_participle_reading": "fɛ́lt",
       "context": "something bad",
-      "translation": "відчути"
+      "translation": "відчути",
+      "similar": null,
+      "infinitive_uuid": "c2f892d5-3732-419f-b853-8ccac46ee311",
+      "past_tense_uuid": "f6453587-376a-4012-a54a-a6a8478e6cee",
+      "past_participle_uuid": "5208326b-d4e5-4df1-bd33-c412ffb1c12c"
     },
     {
       "infinitive": "fight",
@@ -695,7 +905,11 @@
       "translation": [
         "боротися",
         "битися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "70324dc6-73af-4565-84ed-b3495c420de4",
+      "past_tense_uuid": "9c67e939-5057-4029-9cc7-c30c14455598",
+      "past_participle_uuid": "1f0fbba8-3b12-487c-8c79-53c6472ff730"
     },
     {
       "infinitive": "find",
@@ -707,7 +921,11 @@
       "past_tense_reading": "fáwnd",
       "past_participle_reading": "fáwnd",
       "context": "£10 on the street",
-      "translation": "знайти"
+      "translation": "знайти",
+      "similar": null,
+      "infinitive_uuid": "874fc283-6c63-4ccc-9916-4ddfae56b4e1",
+      "past_tense_uuid": "dc5c9cea-e188-416b-9a37-5fb461b5411e",
+      "past_participle_uuid": "84e82a4a-1687-43a7-ad61-1604151310b6"
     },
     {
       "infinitive": "fit",
@@ -735,7 +953,11 @@
         "поміститися",
         "відповідати",
         "вписатися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "80f37be9-b8c3-45d5-bb05-e691cdf094b3",
+      "past_tense_uuid": "0a42b4fa-78bf-42d3-b5a9-b4402092856f",
+      "past_participle_uuid": "118b3b59-543d-4667-8a25-e698ab0d886e"
     },
     {
       "infinitive": "flee",
@@ -747,7 +969,11 @@
       "past_tense_reading": "flɛ́d",
       "past_participle_reading": "flɛ́d",
       "context": "the country",
-      "translation": "тікати"
+      "translation": "тікати",
+      "similar": null,
+      "infinitive_uuid": "a4f229c2-7648-4b7a-9b4a-9af09fbd8737",
+      "past_tense_uuid": "f586bcfa-eec2-45c2-968b-91864fc08995",
+      "past_participle_uuid": "1568a592-55ab-4e26-bf42-cde6ac071b1a"
     },
     {
       "infinitive": "fling",
@@ -762,7 +988,11 @@
       "translation": [
         "кидатись",
         "кидати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "4e02a09a-be63-447a-963e-ba327471eb27",
+      "past_tense_uuid": "c54e1ff6-a2e3-4662-8bf2-7aa181947fa8",
+      "past_participle_uuid": "1b3c358a-3aab-4ed1-95d8-36d62befec89"
     },
     {
       "infinitive": "fly",
@@ -774,7 +1004,11 @@
       "past_tense_reading": "flʉ́w",
       "past_participle_reading": "flə́wn",
       "context": "in the sky",
-      "translation": "летіти"
+      "translation": "летіти",
+      "similar": null,
+      "infinitive_uuid": "e32b2591-97d8-4ba9-8b87-710ca0f182a0",
+      "past_tense_uuid": "d5a29065-1e37-43df-83ed-f95b403dfb49",
+      "past_participle_uuid": "2878ff91-159c-4dff-832e-e14970245523"
     },
     {
       "infinitive": "forbid",
@@ -786,7 +1020,11 @@
       "past_tense_reading": "fəbɛ́jd",
       "past_participle_reading": "fəbɪ́dən",
       "context": "the sale of cigarettes",
-      "translation": "забороняти"
+      "translation": "забороняти",
+      "similar": null,
+      "infinitive_uuid": "c42e88fb-030a-4df1-8b33-fababb9b3ace",
+      "past_tense_uuid": "6f975556-6a30-436a-a613-3b80d3a87e0c",
+      "past_participle_uuid": "e6fbac64-02ff-47bf-9daa-1a12228fae31"
     },
     {
       "infinitive": "forecast",
@@ -798,7 +1036,11 @@
       "past_tense_reading": "fóːkʰɑːsd",
       "past_participle_reading": "fóːkʰɑːsd",
       "context": "for tonight",
-      "translation": "прогнозувати"
+      "translation": "прогнозувати",
+      "similar": null,
+      "infinitive_uuid": "6dd669b9-01fb-4913-8ac7-5e7e819db8b4",
+      "past_tense_uuid": "be939060-73f2-4c2f-b51d-bd01faf2dd52",
+      "past_participle_uuid": "7826cc1d-583d-468f-ac94-d252af7d0601"
     },
     {
       "infinitive": "foretell",
@@ -810,7 +1052,11 @@
       "past_tense_reading": "foːtʰə́wld",
       "past_participle_reading": "foːtʰə́wld",
       "context": "how the world will end",
-      "translation": "пророкувати"
+      "translation": "пророкувати",
+      "similar": null,
+      "infinitive_uuid": "33330049-8a50-4073-98da-5c2601a85291",
+      "past_tense_uuid": "c90914a8-ea98-4969-996f-488d4bf5e29e",
+      "past_participle_uuid": "e704ea85-f9d1-4e89-8f81-a52fa5c37654"
     },
     {
       "infinitive": "forget",
@@ -822,7 +1068,11 @@
       "past_tense_reading": "fəgɔ́t",
       "past_participle_reading": "fəgɔ́tən",
       "context": "about the arrangment",
-      "translation": "забути"
+      "translation": "забути",
+      "similar": null,
+      "infinitive_uuid": "077c9725-8f2b-4b36-aabd-27f95a086e13",
+      "past_tense_uuid": "df24710f-e431-4618-85f8-fb01297d1ca4",
+      "past_participle_uuid": "240c3d05-2f06-4cb1-97f8-f4d899611449"
     },
     {
       "infinitive": "forgive",
@@ -837,7 +1087,11 @@
       "translation": [
         "прощати",
         "пробачити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "e2ee4ef6-9cc5-4964-8d66-d83ec2bc8bdf",
+      "past_tense_uuid": "edae771b-eb06-43c9-83a1-a29b0b6fc1fe",
+      "past_participle_uuid": "47800ed3-798f-4b05-a608-fc78fe0cca4c"
     },
     {
       "infinitive": "forsake",
@@ -852,7 +1106,11 @@
       "translation": [
         "покинути",
         "відкинути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "92d0eb26-95d2-4389-a33d-79543fa83af0",
+      "past_tense_uuid": "00459465-c33f-4b8a-8a8e-b6150444329c",
+      "past_participle_uuid": "893aef1b-0b08-4f89-9460-a26fd9d5e730"
     },
     {
       "infinitive": "freeze",
@@ -868,7 +1126,11 @@
         "застигнути",
         "заморозити",
         "замерзнути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "bb0d7aaa-08ee-4849-aac5-175f768b3384",
+      "past_tense_uuid": "258058e5-a95b-43a6-b4e2-acd4216dc2d3",
+      "past_participle_uuid": "f9b933a3-6709-48bb-8bd8-10dfc4cf76b2"
     },
     {
       "infinitive": "get",
@@ -884,7 +1146,11 @@
         "отримати",
         "дістати",
         "дістатись"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "c5112a42-22b0-4363-b0fd-bdd91576a189",
+      "past_tense_uuid": "a600f6a1-7190-478d-83fa-1d6118b2feb9",
+      "past_participle_uuid": "e1dcb0f9-d503-495a-9d4f-9c85356884fa"
     },
     {
       "infinitive": "give",
@@ -899,7 +1165,11 @@
       "translation": [
         "віддати",
         "дати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "580059b8-b4f0-4d4a-9bf5-884348ee5b93",
+      "past_tense_uuid": "d568daba-07ce-4770-b3ba-8ebde9494e74",
+      "past_participle_uuid": "0e351f1e-f2a4-4ad5-8388-6d8592e40e9e"
     },
     {
       "infinitive": "go",
@@ -914,7 +1184,11 @@
       "translation": [
         "йти",
         "піти"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "6822791b-100d-4031-9a5d-6c8836eb2f01",
+      "past_tense_uuid": "443e44da-7c8a-4045-b221-9b227ae777b1",
+      "past_participle_uuid": "d44b1e90-e4ba-4692-834b-49cfecd5c273"
     },
     {
       "infinitive": "grind",
@@ -929,7 +1203,11 @@
       "translation": [
         "подрібнити",
         "розмолоти"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "ecd6f829-994a-41f4-9ccd-e8e942c1f85b",
+      "past_tense_uuid": "49ea0d39-20e0-4634-99f9-4e38329dc324",
+      "past_participle_uuid": "7680952c-c189-4194-b2d2-fc12823c9bc5"
     },
     {
       "infinitive": "grow",
@@ -944,7 +1222,11 @@
       "translation": [
         "рости",
         "зростати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "729b2162-8a44-4597-b3ac-89b66f54a0d9",
+      "past_tense_uuid": "af77ecff-7692-4817-8fa1-30d17655dd4e",
+      "past_participle_uuid": "67f657ab-45ce-445f-a7e0-d8fa05957ccb"
     },
     {
       "infinitive": "hang",
@@ -956,7 +1238,11 @@
       "past_tense_reading": "hʌ́ŋ",
       "past_participle_reading": "hʌ́ŋ",
       "context": "on a fance",
-      "translation": "повісити"
+      "translation": "повісити",
+      "similar": null,
+      "infinitive_uuid": "93333288-8f49-489c-b363-bdb43723475c",
+      "past_tense_uuid": "7e0df239-2532-4f3a-a885-6ca1fb31b088",
+      "past_participle_uuid": "021f8886-3f04-42a5-a138-082b54c61df1"
     },
     {
       "infinitive": "have",
@@ -974,7 +1260,11 @@
         "həd"
       ],
       "context": "a cat",
-      "translation": "мати"
+      "translation": "мати",
+      "similar": null,
+      "infinitive_uuid": "e803047e-39a0-4f99-8a70-5b67ba322d13",
+      "past_tense_uuid": "11e97182-0c6a-4149-bb1b-6d722cc9770b",
+      "past_participle_uuid": "50dc5d7a-2340-4d78-8be9-4d148440c206"
     },
     {
       "infinitive": "hear",
@@ -986,7 +1276,11 @@
       "past_tense_reading": "hə́ːd",
       "past_participle_reading": "hə́ːd",
       "context": "a loud noice",
-      "translation": "почути"
+      "translation": "почути",
+      "similar": null,
+      "infinitive_uuid": "6c9cf034-8197-4c55-bb8c-058542a0abaa",
+      "past_tense_uuid": "62357823-f4c0-40e5-8827-9ad9cd3146f8",
+      "past_participle_uuid": "1cea0aa6-c3d3-4748-885f-b08a3c274faf"
     },
     {
       "infinitive": "hide",
@@ -1001,7 +1295,11 @@
       "translation": [
         "сховати",
         "сховатися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "c339e97f-1e3e-4283-a5c4-c5399227e1c1",
+      "past_tense_uuid": "25a3ac7e-e2c3-4fd9-9c23-ec61d08ca322",
+      "past_participle_uuid": "109cd506-eb0b-4e51-83b8-1510815f3fe9"
     },
     {
       "infinitive": "hit",
@@ -1013,7 +1311,11 @@
       "past_tense_reading": "hɪ́t",
       "past_participle_reading": "hɪ́t",
       "context": "in the face",
-      "translation": "вдарити"
+      "translation": "вдарити",
+      "similar": null,
+      "infinitive_uuid": "0fe55680-5140-4aa8-8a93-d527f4bf04ec",
+      "past_tense_uuid": "6eb56a30-aa47-4e20-9768-6d0dc016dc72",
+      "past_participle_uuid": "69767570-8ca6-4bf6-aa9a-032e33f50f02"
     },
     {
       "infinitive": "hold",
@@ -1028,7 +1330,11 @@
       "translation": [
         "тримати",
         "утримувати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "2ed5d9d5-36e4-4eaf-879a-24b7d15392a6",
+      "past_tense_uuid": "3aacd27d-65a1-4838-bf29-2bc749ffc723",
+      "past_participle_uuid": "482b52fc-4fef-4a38-ac8a-76f6bb3056d7"
     },
     {
       "infinitive": "hurt",
@@ -1043,7 +1349,11 @@
       "translation": [
         "завдати болю",
         "нашкодити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "768e7fc7-1df4-4425-9a85-8bf2e6741de2",
+      "past_tense_uuid": "74ad48bd-fc97-4fdd-aa4c-b4b36545ebd8",
+      "past_participle_uuid": "5c97f084-6f26-4383-85e7-5d3fa8555d33"
     },
     {
       "infinitive": "interweave",
@@ -1058,7 +1368,11 @@
       "translation": [
         "переплітатися",
         "переплести"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "9448caa4-f58b-4ef0-89d8-4d8ec09f3f5e",
+      "past_tense_uuid": "bc64c490-a99e-4791-b17e-12640c537741",
+      "past_participle_uuid": "9584bf76-7654-41d3-9bc9-0449dbf841ea"
     },
     {
       "infinitive": "keep",
@@ -1073,7 +1387,11 @@
       "translation": [
         "зберегти",
         "тримати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "5de8f0f0-98ff-4b20-a295-00c38fb0cc7e",
+      "past_tense_uuid": "648563d2-08b0-4ed8-8b13-872c7481f270",
+      "past_participle_uuid": "c1d97a5c-48b3-4395-9b9d-e7351722c0d4"
     },
     {
       "infinitive": "kneel",
@@ -1097,7 +1415,11 @@
         "nɪ́jld"
       ],
       "context": "before the king",
-      "translation": "стати на коліна"
+      "translation": "стати на коліна",
+      "similar": null,
+      "infinitive_uuid": "a3876b88-2776-4505-9a67-f4458076a755",
+      "past_tense_uuid": "63f378a6-e5d2-497a-98f3-6b7b0c2da8cc",
+      "past_participle_uuid": "d1c614d3-7229-461b-9588-d0f33e98808a"
     },
     {
       "infinitive": "know",
@@ -1109,7 +1431,11 @@
       "past_tense_reading": "njʉ́w",
       "past_participle_reading": "nə́wn",
       "context": "a name of the teacher",
-      "translation": "знати"
+      "translation": "знати",
+      "similar": null,
+      "infinitive_uuid": "dd6c3262-1664-42cc-bfc6-23daddcdd3a4",
+      "past_tense_uuid": "529c6b06-8d5a-473e-a83d-16c8b3ff619e",
+      "past_participle_uuid": "d8f87f8b-2dad-489f-ba63-1770f77b883a"
     },
     {
       "infinitive": "lay",
@@ -1124,7 +1450,11 @@
       "translation": [
         "покласти",
         "укласти"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "e72f2cdf-7c4b-4b18-9583-3256b9281f82",
+      "past_tense_uuid": "48b138b5-88f6-48f1-92db-5eebc6dc837d",
+      "past_participle_uuid": "8b7645f6-57ee-4026-adc2-efee50383739"
     },
     {
       "infinitive": "lead",
@@ -1139,7 +1469,11 @@
       "translation": [
         "вести за собою",
         "керувати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "2f4fd449-8f34-4635-b1e4-87f47e6c6067",
+      "past_tense_uuid": "f2aaaf4b-4a27-4ff6-8dc8-70b9a95573aa",
+      "past_participle_uuid": "9505f0ce-b2a5-4f4b-8ae2-83a2c8421641"
     },
     {
       "infinitive": "lean",
@@ -1166,7 +1500,11 @@
       "translation": [
         "притулитися",
         "нахилитися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "aa363966-9153-45f1-a5f4-b20dae2aa248",
+      "past_tense_uuid": "82d58d9f-3a9c-4e64-8ee2-3e07f17705c2",
+      "past_participle_uuid": "1e2ccbcf-6f03-4be8-90cb-2561011c6b08"
     },
     {
       "infinitive": "leap",
@@ -1190,7 +1528,11 @@
         "lɪ́jpt"
       ],
       "context": "over the abyss",
-      "translation": "стрибнути"
+      "translation": "стрибнути",
+      "similar": null,
+      "infinitive_uuid": "72951c35-28e1-45de-91db-6865b8fc187d",
+      "past_tense_uuid": "e180c6e3-9d45-440d-9cd3-d7f7670568f7",
+      "past_participle_uuid": "e3037bb9-a60a-4779-beac-242779c89876"
     },
     {
       "infinitive": "learn",
@@ -1217,7 +1559,11 @@
       "translation": [
         "вчитися",
         "навчитися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "8141dcd9-e37e-4fd7-9155-629f5c57bb8f",
+      "past_tense_uuid": "39d24bfd-f92e-4854-9015-608fdc9023b2",
+      "past_participle_uuid": "a9e257d9-719b-4eda-855a-2f329822eb50"
     },
     {
       "infinitive": "leave",
@@ -1232,7 +1578,11 @@
       "translation": [
         "піти",
         "покинути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "7af874d5-2b53-4d44-bb91-8a5527017fc6",
+      "past_tense_uuid": "19955c5c-e927-4d8e-8cb1-a790cd4ade41",
+      "past_participle_uuid": "bf0ea57a-2e96-4ff1-b0b4-2d9b3ca0d480"
     },
     {
       "infinitive": "lend",
@@ -1247,7 +1597,11 @@
       "translation": [
         "позичити",
         "давати в борг."
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "5dfbddea-4c7f-471d-a7d5-76d5f2d99e4d",
+      "past_tense_uuid": "b6c172bb-3571-4a26-9d14-c7432f56eaa1",
+      "past_participle_uuid": "e056652e-984b-4dfa-bef0-fca51735d9f2"
     },
     {
       "infinitive": "let",
@@ -1259,7 +1613,11 @@
       "past_tense_reading": "lɛ́t",
       "past_participle_reading": "lɛ́t",
       "context": "her cook a meal",
-      "translation": "дозволити"
+      "translation": "дозволити",
+      "similar": null,
+      "infinitive_uuid": "3727dff6-9a61-4ce0-ba11-e04e32a5b528",
+      "past_tense_uuid": "bd4a455e-ebb3-4a87-983b-fb77aafa963b",
+      "past_participle_uuid": "63e5087a-be3f-47fd-890c-a224fa230bf3"
     },
     {
       "infinitive": "lie",
@@ -1271,7 +1629,11 @@
       "past_tense_reading": "lɛ́j",
       "past_participle_reading": "lɛ́jn",
       "context": "about her state",
-      "translation": "брехати"
+      "translation": "брехати",
+      "similar": null,
+      "infinitive_uuid": "4dc8bfee-3986-43ca-bfab-8dbfe41ec08b",
+      "past_tense_uuid": "46c47243-98da-445c-84d5-c8ab183712c1",
+      "past_participle_uuid": "368b4d02-a3d3-4791-8717-2c187fe258da"
     },
     {
       "infinitive": "light",
@@ -1298,7 +1660,11 @@
       "translation": [
         "запалити",
         "освітлити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "791d8233-a675-4654-9431-799deaefe64a",
+      "past_tense_uuid": "4f5bc688-a116-4fcb-826f-27eedba482a9",
+      "past_participle_uuid": "e66e2969-3f2c-418c-ae19-138e92524edb"
     },
     {
       "infinitive": "lose",
@@ -1313,7 +1679,11 @@
       "translation": [
         "втратити",
         "втрачати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "9d07c3fb-2b37-4cd5-ba12-a56630110deb",
+      "past_tense_uuid": "e8d9eeb6-4298-455a-9ca3-6e77d1202ab1",
+      "past_participle_uuid": "e0581b26-6018-4e59-a103-7a1be4f01974"
     },
     {
       "infinitive": "make",
@@ -1325,7 +1695,11 @@
       "past_tense_reading": "mɛ́jd",
       "past_participle_reading": "mɛ́jd",
       "context": "a dinner",
-      "translation": "зробити"
+      "translation": "зробити",
+      "similar": null,
+      "infinitive_uuid": "b6a7b17a-070d-4d7a-9f79-8c29d5df584c",
+      "past_tense_uuid": "0e1b254a-6917-4537-8b41-199b62db6073",
+      "past_participle_uuid": "2b83c6b4-a7a8-4896-acac-640a4ec564ff"
     },
     {
       "infinitive": "mean",
@@ -1337,7 +1711,11 @@
       "past_tense_reading": "mɛ́nt",
       "past_participle_reading": "mɛ́nt",
       "context": "this is very dangerous",
-      "translation": "означати."
+      "translation": "означати.",
+      "similar": null,
+      "infinitive_uuid": "0b0e5b36-32d7-41af-bc39-9e8e690e7220",
+      "past_tense_uuid": "bfb6914f-d95d-4b05-97d9-fdb483429812",
+      "past_participle_uuid": "0489a561-2be4-4415-be41-a79195496935"
     },
     {
       "infinitive": "meet",
@@ -1349,7 +1727,11 @@
       "past_tense_reading": "mɛ́t",
       "past_participle_reading": "mɛ́t",
       "context": "coworker at a cafe",
-      "translation": "зустрітися"
+      "translation": "зустрітися",
+      "similar": null,
+      "infinitive_uuid": "2c2e9fe8-3d3a-472f-93eb-daf94b274e81",
+      "past_tense_uuid": "55125272-4d9d-4bbd-b536-ce2b63c604a5",
+      "past_participle_uuid": "7c73d8f8-b608-42be-9823-86a170f522a4"
     },
     {
       "infinitive": "mislay",
@@ -1364,7 +1746,11 @@
       "translation": [
         "загубити",
         "поклисти в неправильне місто"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "48e9d0da-9c71-4201-aaff-d60f9e6803b9",
+      "past_tense_uuid": "478fef78-832c-42b9-9a31-c2c671393364",
+      "past_participle_uuid": "5e0e6f04-0f58-4b48-9159-4c8e2b727ae9"
     },
     {
       "infinitive": "mistake",
@@ -1376,7 +1762,11 @@
       "past_tense_reading": "mɪsdɛ́jkən",
       "past_participle_reading": "mɪsdɛ́jkən",
       "context": "the signature on the latter",
-      "translation": "помилитися"
+      "translation": "помилитися",
+      "similar": null,
+      "infinitive_uuid": "f1ecaea2-4fd0-43a7-a027-6a9333332d23",
+      "past_tense_uuid": "f9afc06f-bd86-4d7e-9464-6ae145185be6",
+      "past_participle_uuid": "eac07609-1b33-4a6e-9ef6-b9761a9ba187"
     },
     {
       "infinitive": "overhear",
@@ -1388,7 +1778,11 @@
       "past_tense_reading": "ə́wvəhə́ːd",
       "past_participle_reading": "ə́wvəhə́ːd",
       "context": "their conversation",
-      "translation": "підслухати"
+      "translation": "підслухати",
+      "similar": null,
+      "infinitive_uuid": "c32d43cb-b54a-425a-b5dd-46c5b6bfd64f",
+      "past_tense_uuid": "5415e4ed-2e73-4692-9fff-6b326a02dae8",
+      "past_participle_uuid": "608c14b8-aae9-4535-ae14-fac1705b7cf3"
     },
     {
       "infinitive": "oversleep",
@@ -1400,7 +1794,11 @@
       "past_tense_reading": "ə́wvəslɛ́pt",
       "past_participle_reading": "ə́wvəslɛ́pt",
       "context": "the classes",
-      "translation": "проспати."
+      "translation": "проспати.",
+      "similar": null,
+      "infinitive_uuid": "ef58a446-bfba-415b-bc9e-b60e9abcf93b",
+      "past_tense_uuid": "c9fa5840-0dcd-400a-93d4-d7b7c2eec4a7",
+      "past_participle_uuid": "5caa3d0a-5043-40e9-9268-a5fe74f44c6f"
     },
     {
       "infinitive": "pay",
@@ -1415,7 +1813,11 @@
       "translation": [
         "платити",
         "заплатити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "c762a5df-332e-4c0c-8c2b-16099853a04c",
+      "past_tense_uuid": "15d97082-71c4-4599-921a-562db313c4df",
+      "past_participle_uuid": "dec0af3d-f76f-4141-8480-92baa7e3bb23"
     },
     {
       "infinitive": "plead",
@@ -1442,7 +1844,11 @@
       "translation": [
         "визнати свою провину",
         "просити пробачення."
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "8fc8258d-4585-4048-a709-25cc458d20b3",
+      "past_tense_uuid": "0f9a4c99-051b-49bf-baa7-e8350b63b12e",
+      "past_participle_uuid": "52562547-6121-4c0f-91d1-bd508c15ad7b"
     },
     {
       "infinitive": "prove",
@@ -1460,7 +1866,11 @@
         "pʰɹʉ́wvd"
       ],
       "context": "the point",
-      "translation": "довести"
+      "translation": "довести",
+      "similar": null,
+      "infinitive_uuid": "9e02606c-a2f3-4152-963f-71900b84f539",
+      "past_tense_uuid": "b7305696-d6e5-43e8-ac9b-37b6a424c71c",
+      "past_participle_uuid": "bb06a9f2-81c0-492c-90af-c8ab73e8df8c"
     },
     {
       "infinitive": "put",
@@ -1472,7 +1882,11 @@
       "past_tense_reading": "pʰʉ́t",
       "past_participle_reading": "pʰʉ́t",
       "context": "the dish in the dishwasher",
-      "translation": "покласти"
+      "translation": "покласти",
+      "similar": null,
+      "infinitive_uuid": "69d6205e-a3ca-4839-a991-eeb126bf32d4",
+      "past_tense_uuid": "fc8224e3-f4b0-4d80-976e-9ce59ff9c743",
+      "past_participle_uuid": "3823392a-475a-498e-b677-e494ef2698ce"
     },
     {
       "infinitive": "quit",
@@ -1487,7 +1901,11 @@
       "translation": [
         "звільнитися",
         "кинути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "4390cc77-3e2d-4f73-ab5b-3b694a61fbf2",
+      "past_tense_uuid": "98ca7c09-4a97-46db-b0c5-ead94ed1ea41",
+      "past_participle_uuid": "a8f2937d-3ba7-44ad-82b8-82b2c0e79fc3"
     },
     {
       "infinitive": "read",
@@ -1499,7 +1917,11 @@
       "past_tense_reading": "ɹɛ́d",
       "past_participle_reading": "ɹɛ́d",
       "context": "a book",
-      "translation": "читати"
+      "translation": "читати",
+      "similar": null,
+      "infinitive_uuid": "4e5aa925-2ca9-4cc6-8766-a217deabd42b",
+      "past_tense_uuid": "7b81ed0e-6f8e-41d2-b9a3-4b212979c5e0",
+      "past_participle_uuid": "5661343b-5971-4c04-a83c-a3b654693433"
     },
     {
       "infinitive": "rend",
@@ -1514,7 +1936,11 @@
       "translation": [
         "знищити",
         "розірвати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "6b80b54b-823c-44cb-a07a-3ce06f0cca1b",
+      "past_tense_uuid": "7f61ca5a-cee5-44aa-970e-4758bea0563c",
+      "past_participle_uuid": "13a4f1f8-2a7f-4256-b4eb-171963ed7a2d"
     },
     {
       "infinitive": "rid",
@@ -1526,7 +1952,11 @@
       "past_tense_reading": "ɹɪ́d",
       "past_participle_reading": "ɹɪ́d",
       "context": "the house of rubbish",
-      "translation": "позбутися"
+      "translation": "позбутися",
+      "similar": null,
+      "infinitive_uuid": "4426b91c-ad22-481b-aa93-dcadb236fbf0",
+      "past_tense_uuid": "18aec13b-1ded-44fd-b101-7f1e00d5dead",
+      "past_participle_uuid": "c82ceb09-135b-4d8b-8233-b99acba1e8a1"
     },
     {
       "infinitive": "ride",
@@ -1538,7 +1968,15 @@
       "past_tense_reading": "ɹə́wd",
       "past_participle_reading": "ɹɪ́dən",
       "context": "a horse",
-      "translation": "їздити"
+      "translation": "їздити",
+      "similar": [
+        "ride",
+        "stride",
+        "write"
+      ],
+      "infinitive_uuid": "2a5df8ef-7772-4a9d-a93d-9c98e1855ca5",
+      "past_tense_uuid": "b1191774-b306-4b6c-b427-036689bf416c",
+      "past_participle_uuid": "5fa5ada4-17ca-4c12-92da-4c6fe4075ff2"
     },
     {
       "infinitive": "ring",
@@ -1550,7 +1988,11 @@
       "past_tense_reading": "ɹáŋ",
       "past_participle_reading": "ɹʌ́ŋ",
       "context": "to the classmate",
-      "translation": "дзвонити"
+      "translation": "дзвонити",
+      "similar": null,
+      "infinitive_uuid": "975715a6-f2d1-4651-9a9d-da35bd18d840",
+      "past_tense_uuid": "e1989bab-c881-42a9-9eed-236167c0d16d",
+      "past_participle_uuid": "f61f1ef2-8236-4c67-a9f0-0b67a3a1be7b"
     },
     {
       "infinitive": "rise",
@@ -1562,7 +2004,11 @@
       "past_tense_reading": "ɹə́wz",
       "past_participle_reading": "ɹɪ́zən",
       "context": "a ball",
-      "translation": "піднятися"
+      "translation": "піднятися",
+      "similar": null,
+      "infinitive_uuid": "7127b1ff-02fe-45e2-bb83-f9724280ac2a",
+      "past_tense_uuid": "912c6cf9-f891-4639-817e-d08c484fc08b",
+      "past_participle_uuid": "8767ba67-4615-40e6-9345-977c15791dbe"
     },
     {
       "infinitive": "run",
@@ -1574,7 +2020,11 @@
       "past_tense_reading": "ɹán",
       "past_participle_reading": "ɹʌ́n",
       "context": "from the school",
-      "translation": "бігти"
+      "translation": "бігти",
+      "similar": null,
+      "infinitive_uuid": "11c666df-879e-4dbb-9ea3-f49abd86ccec",
+      "past_tense_uuid": "34fb5d67-f9a0-4b37-92ea-3729b248b06f",
+      "past_participle_uuid": "8e46695d-9d75-4e68-abfd-2d89cc8e4978"
     },
     {
       "infinitive": "saw",
@@ -1592,7 +2042,11 @@
         "sóːd"
       ],
       "context": "the woods",
-      "translation": "пиляти"
+      "translation": "пиляти",
+      "similar": null,
+      "infinitive_uuid": "80a4be17-a6cc-4c50-8b23-a68778cae089",
+      "past_tense_uuid": "8cc6f4e2-7ed6-42be-a111-feb523acd302",
+      "past_participle_uuid": "bd4d9d33-15af-4358-a818-21b1583fb3eb"
     },
     {
       "infinitive": "say",
@@ -1604,7 +2058,11 @@
       "past_tense_reading": "sɛ́d",
       "past_participle_reading": "sɛ́d",
       "context": "something stupid",
-      "translation": "сказати"
+      "translation": "сказати",
+      "similar": null,
+      "infinitive_uuid": "bbf446fd-98a9-45f0-98d7-c9159d362738",
+      "past_tense_uuid": "0ddc345b-7f5e-458f-b413-6d376dd790b2",
+      "past_participle_uuid": "a3932f11-1497-4713-a9a2-1376cbba7610"
     },
     {
       "infinitive": "see",
@@ -1616,7 +2074,11 @@
       "past_tense_reading": "sóː",
       "past_participle_reading": "sɪ́jn",
       "context": "a tree",
-      "translation": "побачити"
+      "translation": "побачити",
+      "similar": null,
+      "infinitive_uuid": "33d935ce-ceae-4827-b103-efe07fdf38fc",
+      "past_tense_uuid": "1ed45626-8bd7-467f-8ccc-2cc710fdc7b8",
+      "past_participle_uuid": "087dc3a0-117b-4193-ba25-d2a4fb1c750a"
     },
     {
       "infinitive": "seek",
@@ -1628,7 +2090,11 @@
       "past_tense_reading": "sóːt",
       "past_participle_reading": "sóːt",
       "context": "for shelter",
-      "translation": "шукати"
+      "translation": "шукати",
+      "similar": null,
+      "infinitive_uuid": "aa354b51-1ad9-4884-a891-52d1732dd2e9",
+      "past_tense_uuid": "19adeea4-bc96-4efb-b2e9-18ce15782788",
+      "past_participle_uuid": "cf180ff0-aae9-4bbb-8899-5c7d52db2a7f"
     },
     {
       "infinitive": "sell",
@@ -1640,7 +2106,11 @@
       "past_tense_reading": "sə́wld",
       "past_participle_reading": "sə́wld",
       "context": "her a car",
-      "translation": "продати"
+      "translation": "продати",
+      "similar": null,
+      "infinitive_uuid": "26f327ab-9b24-4da7-a02d-25c6f00d3367",
+      "past_tense_uuid": "43955c30-2b31-475e-b7ca-595e6413647b",
+      "past_participle_uuid": "f97db827-0611-4e9d-b1cb-807660ad601b"
     },
     {
       "infinitive": "send",
@@ -1652,7 +2122,11 @@
       "past_tense_reading": "sɛ́nt",
       "past_participle_reading": "sɛ́nt",
       "context": "some money",
-      "translation": "відправити"
+      "translation": "відправити",
+      "similar": null,
+      "infinitive_uuid": "8f0d5d59-c817-49de-960a-6ea26ffc761a",
+      "past_tense_uuid": "c9499c90-4237-4935-a083-e4c668af057a",
+      "past_participle_uuid": "98075d16-2d74-46c8-a657-58f8d132e627"
     },
     {
       "infinitive": "set",
@@ -1664,7 +2138,11 @@
       "past_tense_reading": "sɛ́t",
       "past_participle_reading": "sɛ́t",
       "context": "a fire",
-      "translation": "встановити"
+      "translation": "встановити",
+      "similar": null,
+      "infinitive_uuid": "cfcf818a-05f2-426c-a679-08d1d90ed05c",
+      "past_tense_uuid": "91c33cad-9802-4c49-b1bc-dbea2ff17154",
+      "past_participle_uuid": "3b773025-7333-4da3-8e20-88c54058a084"
     },
     {
       "infinitive": "sew",
@@ -1676,7 +2154,11 @@
       "past_tense_reading": "sə́wd",
       "past_participle_reading": "sə́wn",
       "context": "two pieces of material together",
-      "translation": "шити"
+      "translation": "шити",
+      "similar": null,
+      "infinitive_uuid": "3fd81d34-a32c-4df0-9159-f8ccc3c8adf0",
+      "past_tense_uuid": "173f244c-5f51-4998-9d89-cef6c674bd0b",
+      "past_participle_uuid": "e814f8bf-4c51-419c-b176-1f3e8edce1f8"
     },
     {
       "infinitive": "shake",
@@ -1691,7 +2173,11 @@
       "translation": [
         "трясти",
         "трястися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "5e56ecec-7e15-4abf-9584-045d7ce8f9ee",
+      "past_tense_uuid": "fec421e2-1921-47da-be82-7762c5ae029e",
+      "past_participle_uuid": "894f4195-94fb-453d-a34a-682d430916ed"
     },
     {
       "infinitive": "shear",
@@ -1706,7 +2192,11 @@
       "translation": [
         "зрізати",
         "відрізати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "69146562-b86d-4d40-80c0-9a93a5ea5d38",
+      "past_tense_uuid": "6ad2ba30-3e9c-4362-b19e-73604a42cf79",
+      "past_participle_uuid": "ce9879b6-4e5e-495d-bd03-f6d42e1ab2c3"
     },
     {
       "infinitive": "shed",
@@ -1718,7 +2208,11 @@
       "past_tense_reading": "ʃɛ́d",
       "past_participle_reading": "ʃɛ́d",
       "context": "after sunbathing",
-      "translation": "пролити"
+      "translation": "пролити",
+      "similar": null,
+      "infinitive_uuid": "f87dbe5e-6dfd-429c-9a08-acd8dfddaef8",
+      "past_tense_uuid": "3f6d5c06-5994-4ccb-ba9e-cb06ea027c36",
+      "past_participle_uuid": "7ec4761b-a8f4-47c9-a48c-b19bf21b5e66"
     },
     {
       "infinitive": "shine",
@@ -1742,7 +2236,14 @@
         "ʃɑ́jnd"
       ],
       "context": "in her eyes",
-      "translation": "сяяти"
+      "translation": "сяяти",
+      "similar": [
+        "abide",
+        ""
+      ],
+      "infinitive_uuid": "d7f4f6d6-89d7-4576-b6f3-bc8bb8e3ad6b",
+      "past_tense_uuid": "58aa3d32-cebd-4b66-aedf-5bd762c18f1f",
+      "past_participle_uuid": "4a883c0d-6aea-4adf-88de-ef0f7827ccf8"
     },
     {
       "infinitive": "shoe",
@@ -1754,7 +2255,11 @@
       "past_tense_reading": "ʃɔ́d",
       "past_participle_reading": "ʃɔ́d",
       "context": "a horse",
-      "translation": "взути"
+      "translation": "взути",
+      "similar": null,
+      "infinitive_uuid": "d8ba2736-1f6c-44f5-8289-c3e9e8160840",
+      "past_tense_uuid": "59e0c49e-609a-4bd9-bc7c-34b0a0ee3112",
+      "past_participle_uuid": "5f306aec-3a41-40d8-82fe-985d605b4aee"
     },
     {
       "infinitive": "shoot",
@@ -1766,7 +2271,11 @@
       "past_tense_reading": "ʃɔ́t",
       "past_participle_reading": "ʃɔ́t",
       "context": "at a target",
-      "translation": "стріляти"
+      "translation": "стріляти",
+      "similar": null,
+      "infinitive_uuid": "6b319c8c-9041-4a7a-950b-d0f392ad4828",
+      "past_tense_uuid": "d400b76b-0980-402d-8a4f-9f96697e1843",
+      "past_participle_uuid": "c70a7af8-1ff7-4563-891d-5b2c61d3f5dd"
     },
     {
       "infinitive": "show",
@@ -1784,7 +2293,11 @@
         "ʃə́wd"
       ],
       "context": "a film",
-      "translation": "показати"
+      "translation": "показати",
+      "similar": null,
+      "infinitive_uuid": "5ff5954d-0d67-41aa-a5a9-6df69a71b4ea",
+      "past_tense_uuid": "6cd85540-b6f4-4543-be2b-864b5ec23781",
+      "past_participle_uuid": "fcc9c1e6-c32f-4416-be52-ee13431b441c"
     },
     {
       "infinitive": "shrink",
@@ -1796,7 +2309,11 @@
       "past_tense_reading": "ʃɹáŋk",
       "past_participle_reading": "ʃɹʌ́ŋk",
       "context": "form 6ft to 5ft",
-      "translation": "зменшитися"
+      "translation": "зменшитися",
+      "similar": null,
+      "infinitive_uuid": "087ab79e-139a-461d-beef-77d60028c419",
+      "past_tense_uuid": "6076f643-04af-4d90-9119-697415b7c6f2",
+      "past_participle_uuid": "628c8603-315b-4575-98cd-4b4f849ad3ee"
     },
     {
       "infinitive": "shut",
@@ -1808,7 +2325,11 @@
       "past_tense_reading": "ʃʌ́t",
       "past_participle_reading": "ʃʌ́t",
       "context": "down a laptop",
-      "translation": "закрити"
+      "translation": "закрити",
+      "similar": null,
+      "infinitive_uuid": "b137ffb8-d76f-4a59-b9a0-5d966dff4c62",
+      "past_tense_uuid": "275480d6-ab2a-45c5-b397-7c19f6674ec1",
+      "past_participle_uuid": "b7fd9b98-0b50-41e9-92cf-cb77292e4413"
     },
     {
       "infinitive": "sing",
@@ -1820,7 +2341,11 @@
       "past_tense_reading": "sáŋ",
       "past_participle_reading": "sʌ́ŋ",
       "context": "a song",
-      "translation": "співати"
+      "translation": "співати",
+      "similar": null,
+      "infinitive_uuid": "68de48da-2218-4dfe-8024-e09a7ee453ee",
+      "past_tense_uuid": "fa1a0f6b-17cd-4928-b81d-4764bb0acbab",
+      "past_participle_uuid": "caa5ff3f-d305-468d-ba41-e3bfd87d03fd"
     },
     {
       "infinitive": "sink",
@@ -1832,7 +2357,11 @@
       "past_tense_reading": "sáŋk",
       "past_participle_reading": "sʌ́ŋk",
       "context": "a ship",
-      "translation": "потонути"
+      "translation": "потонути",
+      "similar": null,
+      "infinitive_uuid": "b0e4c16b-0ea9-4f39-a779-4626b0b1f978",
+      "past_tense_uuid": "506eafe8-e1a2-4c01-864a-175120e97bcd",
+      "past_participle_uuid": "44230678-1f4e-44c9-bc78-07a3ff5762fa"
     },
     {
       "infinitive": "sit",
@@ -1844,7 +2373,11 @@
       "past_tense_reading": "sát",
       "past_participle_reading": "sát",
       "context": "on a chair",
-      "translation": "сидіти"
+      "translation": "сидіти",
+      "similar": null,
+      "infinitive_uuid": "19c8e484-4079-4148-ab90-00229b020cbd",
+      "past_tense_uuid": "a43d1f8f-47f7-4ee7-afc9-540450c7626b",
+      "past_participle_uuid": "e73027e3-2c6a-4947-816e-10507d2ceadd"
     },
     {
       "infinitive": "sleep",
@@ -1856,7 +2389,11 @@
       "past_tense_reading": "slɛ́pt",
       "past_participle_reading": "slɛ́pt",
       "context": "all night",
-      "translation": "спати"
+      "translation": "спати",
+      "similar": null,
+      "infinitive_uuid": "fa850439-8e7b-4343-acdc-1512756e81f4",
+      "past_tense_uuid": "b195e2e0-c056-44ae-a16d-95e28261233c",
+      "past_participle_uuid": "5ad2da23-c8a0-4611-a404-ff731c49be2d"
     },
     {
       "infinitive": "slide",
@@ -1868,7 +2405,11 @@
       "past_tense_reading": "slɪ́d",
       "past_participle_reading": "slɪ́d",
       "context": "from the bed",
-      "translation": "ковзати"
+      "translation": "ковзати",
+      "similar": null,
+      "infinitive_uuid": "0c137ecc-d5e5-4b97-9ac7-22ff2fbbbe18",
+      "past_tense_uuid": "52d09516-6931-4877-a536-01c942c74e01",
+      "past_participle_uuid": "048b2b71-0c7b-406e-ac66-e7e7696069a7"
     },
     {
       "infinitive": "sling",
@@ -1883,7 +2424,11 @@
       "translation": [
         "накинути на себе",
         "накинути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "7c1ffd6e-2c01-4b32-b7d5-c1e312397bc9",
+      "past_tense_uuid": "ff23156b-5eab-4c09-b89b-7e770f3143ec",
+      "past_participle_uuid": "b08b853c-81a6-4482-8686-5f6520732d11"
     },
     {
       "infinitive": "slink",
@@ -1895,7 +2440,11 @@
       "past_tense_reading": "slʌ́ŋk",
       "past_participle_reading": "slʌ́ŋk",
       "context": "out of the room",
-      "translation": "прослизнути"
+      "translation": "прослизнути",
+      "similar": null,
+      "infinitive_uuid": "b8491729-693c-4173-85c9-054b20ab464e",
+      "past_tense_uuid": "77fed7e4-39c8-40a9-ba6d-b0939d516674",
+      "past_participle_uuid": "f29ebc29-0da2-4827-a373-73a9d3306d96"
     },
     {
       "infinitive": "slit",
@@ -1907,7 +2456,11 @@
       "past_tense_reading": "slɪ́t",
       "past_participle_reading": "slɪ́t",
       "context": "open the envelope with a knife",
-      "translation": "розрізати"
+      "translation": "розрізати",
+      "similar": null,
+      "infinitive_uuid": "ac8975a2-49fa-41fd-a2de-16c559bfc9d2",
+      "past_tense_uuid": "f3828f04-cb55-4c06-923b-24b25b9ee0f1",
+      "past_participle_uuid": "8d9977b5-97ea-4924-9927-246caada35f1"
     },
     {
       "infinitive": "smell",
@@ -1931,7 +2484,11 @@
         "smɛ́ld"
       ],
       "context": "something tasty",
-      "translation": "відчути запах"
+      "translation": "відчути запах",
+      "similar": null,
+      "infinitive_uuid": "1bbd33ca-2806-4dc3-a586-eda8bed315c0",
+      "past_tense_uuid": "a1c25fc8-eba4-438a-979e-180798fb37ce",
+      "past_participle_uuid": "47de5445-8fde-4405-b803-142087757860"
     },
     {
       "infinitive": "sneak",
@@ -1955,7 +2512,11 @@
         "snɪ́jkt"
       ],
       "context": "in through the back door",
-      "translation": "прокрастися"
+      "translation": "прокрастися",
+      "similar": null,
+      "infinitive_uuid": "280cbc75-28e4-4bbc-bbd6-d3b033963534",
+      "past_tense_uuid": "7fb8ea60-3f2d-4dfd-98cb-8c456495df16",
+      "past_participle_uuid": "64077d14-2d52-4129-9313-c0f3efd496c7"
     },
     {
       "infinitive": "sow",
@@ -1967,7 +2528,11 @@
       "past_tense_reading": "sə́wd",
       "past_participle_reading": "sə́wn",
       "context": "the seeds in pots",
-      "translation": "посіяти"
+      "translation": "посіяти",
+      "similar": null,
+      "infinitive_uuid": "af13bab6-f206-49c5-adea-86b7a21f3c89",
+      "past_tense_uuid": "c9a68745-57ba-4afa-a770-8efef2fe5884",
+      "past_participle_uuid": "8bbf0784-196d-48af-a5c0-1a4274f4bcfb"
     },
     {
       "infinitive": "speak",
@@ -1979,7 +2544,11 @@
       "past_tense_reading": "sbə́wk",
       "past_participle_reading": "sbə́wkən",
       "context": "about climate changes",
-      "translation": "говорити"
+      "translation": "говорити",
+      "similar": null,
+      "infinitive_uuid": "592df76e-16d7-4cf5-93f4-5f4cd729ec82",
+      "past_tense_uuid": "4fd7d322-edc6-46d6-9f33-d8b8fc6290d8",
+      "past_participle_uuid": "71902884-a34b-49f4-a386-bbce53efda03"
     },
     {
       "infinitive": "speed",
@@ -2003,7 +2572,11 @@
         "sbɪ́jdɪd"
       ],
       "context": "on the street",
-      "translation": "дуже швидко їхати"
+      "translation": "дуже швидко їхати",
+      "similar": null,
+      "infinitive_uuid": "27e302e5-b2ba-4839-93df-42c46c96b13a",
+      "past_tense_uuid": "773d208c-ee28-4bc7-8ab1-2bc9c03ba1c2",
+      "past_participle_uuid": "af74b7ba-ccfb-470c-8657-65d5024f59a1"
     },
     {
       "infinitive": "spell",
@@ -2027,7 +2600,11 @@
         "sbɛ́ld"
       ],
       "context": "the unfamiliar word to me",
-      "translation": "писати по буквах"
+      "translation": "писати по буквах",
+      "similar": null,
+      "infinitive_uuid": "34bf657e-f9ed-463b-825b-56de2c163b7d",
+      "past_tense_uuid": "5f17c0f0-d5cb-44d3-9d82-f9e0c416f5a5",
+      "past_participle_uuid": "e120d69b-5a7c-4850-9f46-492d98a23829"
     },
     {
       "infinitive": "spend",
@@ -2039,7 +2616,11 @@
       "past_tense_reading": "sbɛ́nt",
       "past_participle_reading": "sbɛ́nt",
       "context": "all money on a game",
-      "translation": "витрачати"
+      "translation": "витрачати",
+      "similar": null,
+      "infinitive_uuid": "edc1da1b-582d-463c-8b15-0c3ef2826cd0",
+      "past_tense_uuid": "9c85e378-ee3e-44a9-8975-e43c2074ad90",
+      "past_participle_uuid": "19f7ca1e-3e05-4918-96d9-25c0b287abe3"
     },
     {
       "infinitive": "spill",
@@ -2054,7 +2635,11 @@
       "translation": [
         "розлити",
         "пролити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "c1cc525a-96db-4426-8e1f-d7be44fcf68f",
+      "past_tense_uuid": "7eda0025-1777-4d37-bb67-3fc878f751cd",
+      "past_participle_uuid": "98a6a57b-6128-4db7-8f35-d27c329f40aa"
     },
     {
       "infinitive": "spin",
@@ -2069,7 +2654,11 @@
       "translation": [
         "крутитися",
         "обертатися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "6541bdb3-63ca-470c-a3a7-03cb5324a322",
+      "past_tense_uuid": "703495dd-1421-4494-b3aa-2164c351d4d2",
+      "past_participle_uuid": "c7562be8-4f4b-4936-94fc-a79933a0fb01"
     },
     {
       "infinitive": "spit",
@@ -2084,7 +2673,11 @@
       "translation": [
         "сплюнути",
         "плюнути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "c796ff0e-8530-47fe-88c0-3bcd7d76bf1d",
+      "past_tense_uuid": "4c99d6ac-d28a-427c-b0d9-ef54b98358f0",
+      "past_participle_uuid": "956c6a91-cc59-4383-b9e4-75821809b5c5"
     },
     {
       "infinitive": "split",
@@ -2099,7 +2692,11 @@
       "translation": [
         "розколоти",
         "розколотися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "8be483dc-11b4-4285-a438-25166e925308",
+      "past_tense_uuid": "96d08a3d-e4b1-41f7-960e-5194a274486c",
+      "past_participle_uuid": "33b615e4-e4f5-4994-92f6-a64a507b1426"
     },
     {
       "infinitive": "spoil",
@@ -2111,7 +2708,11 @@
       "past_tense_reading": "sbójlt",
       "past_participle_reading": "sbójlt",
       "context": "the appetite for dinner",
-      "translation": "зіпсувати"
+      "translation": "зіпсувати",
+      "similar": null,
+      "infinitive_uuid": "5887287e-77c0-4eb8-a60c-ac8835dcdc3e",
+      "past_tense_uuid": "9848b1bb-b949-4dd0-8318-2acbd7afdda6",
+      "past_participle_uuid": "b62efa00-9761-41e2-ab88-b1759e56325d"
     },
     {
       "infinitive": "spread",
@@ -2126,7 +2727,11 @@
       "translation": [
         "поширювати",
         "розповсюджувати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "a945d417-3779-49a7-91f0-92e62f88939a",
+      "past_tense_uuid": "2ab0d6f8-71c0-426d-adab-7908d1a99294",
+      "past_participle_uuid": "3502e046-1172-4edb-88ea-be7c417097ad"
     },
     {
       "infinitive": "spring",
@@ -2138,7 +2743,11 @@
       "past_tense_reading": "sbɹáŋ",
       "past_participle_reading": "sbɹʌ́ŋ",
       "context": "into action",
-      "translation": "пружинити"
+      "translation": "пружинити",
+      "similar": null,
+      "infinitive_uuid": "505cca27-c451-48ed-a8db-96065f2eba26",
+      "past_tense_uuid": "b0ebe0e3-18b1-4719-b3f3-81333af70d2f",
+      "past_participle_uuid": "6856006d-7bbb-4e9b-85aa-a8bf1f96f6e0"
     },
     {
       "infinitive": "stand",
@@ -2150,7 +2759,11 @@
       "past_tense_reading": "sdʉ́d",
       "past_participle_reading": "sdʉ́d",
       "context": "up on the stage",
-      "translation": "стояти"
+      "translation": "стояти",
+      "similar": null,
+      "infinitive_uuid": "ded486a4-c28c-41dc-8d40-d8af6b43e9a3",
+      "past_tense_uuid": "5818de2a-7284-4a2d-bfd4-a746bf2dba52",
+      "past_participle_uuid": "6b85468d-ac98-44a9-ac3d-dab29a8c9ea4"
     },
     {
       "infinitive": "steal",
@@ -2162,7 +2775,11 @@
       "past_tense_reading": "sdə́wl",
       "past_participle_reading": "sdə́wlən",
       "context": "the wallet",
-      "translation": "вкрасти"
+      "translation": "вкрасти",
+      "similar": null,
+      "infinitive_uuid": "0a679415-e336-45dd-a7ef-ebf0304fd487",
+      "past_tense_uuid": "1fbc3b55-f584-4cff-8b91-bfba7654d8e9",
+      "past_participle_uuid": "163e5758-79d9-4d09-9e93-9fc70f7ebce6"
     },
     {
       "infinitive": "stick",
@@ -2177,7 +2794,11 @@
       "translation": [
         "приклеїти",
         "прикріпити"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "e89577bc-2c50-4acb-a2e7-36a8b2866efc",
+      "past_tense_uuid": "de5e1b4f-3b76-42d7-9128-0e1ec6b89a78",
+      "past_participle_uuid": "6476eada-431a-493e-afbe-e6946ad72c58"
     },
     {
       "infinitive": "sting",
@@ -2189,7 +2810,11 @@
       "past_tense_reading": "sdʌ́ŋ",
       "past_participle_reading": "sdʌ́ŋ",
       "context": "with a needle",
-      "translation": "жалити"
+      "translation": "жалити",
+      "similar": null,
+      "infinitive_uuid": "0d46bfe2-97a4-4c79-84cf-e82cd125b975",
+      "past_tense_uuid": "1f735383-a5f9-4af6-bf8b-95a81ff06137",
+      "past_participle_uuid": "a0eac85d-df4c-4e61-aca8-9858d09b1926"
     },
     {
       "infinitive": "stink",
@@ -2201,7 +2826,11 @@
       "past_tense_reading": "sdáŋk",
       "past_participle_reading": "sdʌ́ŋk",
       "context": "to high heaven",
-      "translation": "смердіти"
+      "translation": "смердіти",
+      "similar": null,
+      "infinitive_uuid": "d938c88c-ee66-4f85-a176-7465597a093b",
+      "past_tense_uuid": "7e10f9aa-431a-4ff4-9913-e1f666e01c53",
+      "past_participle_uuid": "54da649e-7082-467b-aa24-bd5264558117"
     },
     {
       "infinitive": "stride",
@@ -2213,7 +2842,15 @@
       "past_tense_reading": "sdɹə́wd",
       "past_participle_reading": "sdɹɪ́dən",
       "context": "purposfuly up to the desk",
-      "translation": "крокувати"
+      "translation": "крокувати",
+      "similar": [
+        "ride",
+        "stride",
+        "write"
+      ],
+      "infinitive_uuid": "3b34d28d-b0ed-4590-acb9-09736ccafe62",
+      "past_tense_uuid": "aaa77234-ef08-42c5-9136-c7eb60a7f22a",
+      "past_participle_uuid": "fa0d1d55-4522-4f9b-b414-18ac65a6765b"
     },
     {
       "infinitive": "strike",
@@ -2228,7 +2865,11 @@
       "translation": [
         "страйкувати",
         "ударяти"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "8eff96d3-e1c8-47a7-9159-23511e6fedee",
+      "past_tense_uuid": "69add227-ceea-4b04-9b68-2067ad0780c7",
+      "past_participle_uuid": "6cdf93a6-b432-4377-bb7f-bbb421ab8d12"
     },
     {
       "infinitive": "string",
@@ -2243,7 +2884,11 @@
       "translation": [
         "нанизувати",
         "зв'язувати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "ab17bd03-c9bd-4925-b93d-912ad7158dff",
+      "past_tense_uuid": "7003b217-a8fb-47a6-840f-e52462d6de35",
+      "past_participle_uuid": "4885a5c1-3857-4150-8e75-d61a466b5c8b"
     },
     {
       "infinitive": "strive",
@@ -2258,7 +2903,11 @@
       "translation": [
         "прагнути",
         "намагатися"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "8ca6127e-4ba7-4fd7-aa1f-5bc62e45c2e4",
+      "past_tense_uuid": "13f40693-2170-493f-9a08-6fe64b3b68cc",
+      "past_participle_uuid": "4290a5c7-a6fd-45c8-8c9f-75ba4d0e2eb5"
     },
     {
       "infinitive": "swear",
@@ -2273,7 +2922,11 @@
       "translation": [
         "поклястися",
         "присягнути"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "009ac183-2077-4620-96d1-9ba4be2e791c",
+      "past_tense_uuid": "25eb0ec8-b099-4df2-b450-46c8b128f115",
+      "past_participle_uuid": "73c680c6-b5ae-4d9c-aed0-f4eab0cb8c76"
     },
     {
       "infinitive": "sweep",
@@ -2285,7 +2938,11 @@
       "past_tense_reading": "swɛ́pt",
       "past_participle_reading": "swɛ́pt",
       "context": "the floor",
-      "translation": "підмітати"
+      "translation": "підмітати",
+      "similar": null,
+      "infinitive_uuid": "d024a4ae-d77d-435c-baf8-0bce4379afef",
+      "past_tense_uuid": "f59fb6ee-d8a4-4cd2-83a8-9a649c1f0f41",
+      "past_participle_uuid": "a5e785ab-357d-461a-be29-822e209ba6f5"
     },
     {
       "infinitive": "swell",
@@ -2300,7 +2957,11 @@
       "translation": [
         "набрякнути",
         "розбухати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "9d5aaf86-4f5a-4190-af39-c6d52491b92d",
+      "past_tense_uuid": "cb04d27a-a3fa-4b54-9b60-f1e63fd263b5",
+      "past_participle_uuid": "f4665cb3-3cd2-47ce-b12e-6ddd27e2c371"
     },
     {
       "infinitive": "swim",
@@ -2312,7 +2973,11 @@
       "past_tense_reading": "swám",
       "past_participle_reading": "swʌ́m",
       "context": "in a pool",
-      "translation": "плавати"
+      "translation": "плавати",
+      "similar": null,
+      "infinitive_uuid": "fc693803-0443-4259-b17e-92155e7cfb91",
+      "past_tense_uuid": "3cdb6bcc-5791-4190-8253-4eda02b79455",
+      "past_participle_uuid": "4b2f42ca-83c1-4868-b144-e43ba12bd583"
     },
     {
       "infinitive": "swing",
@@ -2324,7 +2989,11 @@
       "past_tense_reading": "swʌ́ŋ",
       "past_participle_reading": "swʌ́ŋ",
       "context": "a rolled-up umbrella",
-      "translation": "розгойдуватися"
+      "translation": "розгойдуватися",
+      "similar": null,
+      "infinitive_uuid": "b74ea53a-21aa-405f-ace2-48164ccc72a4",
+      "past_tense_uuid": "81881d2d-2b7d-496a-8d7f-e26c0ba30c21",
+      "past_participle_uuid": "c8680ae1-8684-4db6-9245-16d52bc5af45"
     },
     {
       "infinitive": "take",
@@ -2336,7 +3005,11 @@
       "past_tense_reading": "tʰʉ́k",
       "past_participle_reading": "tʰɛ́jkən",
       "context": "the food out of store",
-      "translation": "взяти"
+      "translation": "взяти",
+      "similar": null,
+      "infinitive_uuid": "6f59202e-7403-4b00-8a10-e0966cbcf7ba",
+      "past_tense_uuid": "83b4b18e-3411-4ae4-8a8b-4842128581fd",
+      "past_participle_uuid": "bc5e0fc7-d881-451a-abcc-d8500f9eec9f"
     },
     {
       "infinitive": "teach",
@@ -2351,7 +3024,11 @@
       "translation": [
         "викладати",
         "навчати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "92b6232a-0a93-4324-9a69-a13cd3317363",
+      "past_tense_uuid": "1675e110-3864-451b-8e0a-85d9244714bb",
+      "past_participle_uuid": "7b1e8f9f-f0eb-4560-b023-bfc1e33f74f1"
     },
     {
       "infinitive": "tear",
@@ -2363,7 +3040,11 @@
       "past_tense_reading": "tʰóː",
       "past_participle_reading": "tʰóːn",
       "context": "a piece of paper",
-      "translation": "розірвати"
+      "translation": "розірвати",
+      "similar": null,
+      "infinitive_uuid": "755a56ae-9595-45e8-ac75-13e60668a13b",
+      "past_tense_uuid": "e5606542-34d2-493b-8bb3-f0d96384f109",
+      "past_participle_uuid": "47b70e5a-db1d-4567-994a-c64d8f2193e5"
     },
     {
       "infinitive": "tell",
@@ -2375,7 +3056,11 @@
       "past_tense_reading": "tʰə́wld",
       "past_participle_reading": "tʰə́wld",
       "context": "anything to me",
-      "translation": "розповісти"
+      "translation": "розповісти",
+      "similar": null,
+      "infinitive_uuid": "7e80e921-fe55-4a66-bcd7-2abb3f2c5a94",
+      "past_tense_uuid": "b0dc0648-1d9e-4444-a1c7-3f7b8dcc479a",
+      "past_participle_uuid": "2654ed58-4c46-4606-99d9-353fdc5c1613"
     },
     {
       "infinitive": "think",
@@ -2390,7 +3075,11 @@
       "translation": [
         "подумати",
         "думати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "62d683da-b8d4-4a71-92b0-cc1a5f55fe3d",
+      "past_tense_uuid": "bcbe4102-0a39-4ea1-b9ef-5b47223d602b",
+      "past_participle_uuid": "0e78b7c2-7b50-4177-8dce-11325dae6c91"
     },
     {
       "infinitive": "throw",
@@ -2405,7 +3094,11 @@
       "translation": [
         "кинути",
         "кидати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "833aca31-dfce-43c2-9994-1e591372035e",
+      "past_tense_uuid": "d967a7d3-2b67-4ac3-bdf3-311630fbdde4",
+      "past_participle_uuid": "214337a4-08a1-4013-9931-481e81a045bf"
     },
     {
       "infinitive": "thrust",
@@ -2420,7 +3113,11 @@
       "translation": [
         "штовхнути",
         "штовхати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "41f2921a-071c-47f5-91ef-3defef0e2157",
+      "past_tense_uuid": "54a0a69a-bb7c-4e05-bcb0-cfdc0d284086",
+      "past_participle_uuid": "e6fc30d7-d5e0-43fb-8362-215b3804efae"
     },
     {
       "infinitive": "tread",
@@ -2432,7 +3129,11 @@
       "past_tense_reading": "tʰɹɔ́d",
       "past_participle_reading": "tʰɹɔ́dən",
       "context": "on the foot",
-      "translation": "наступати"
+      "translation": "наступати",
+      "similar": null,
+      "infinitive_uuid": "51fe83cf-afd2-44ae-808e-eae7c5c9ef62",
+      "past_tense_uuid": "cc134107-3390-4994-9abc-b07561edec72",
+      "past_participle_uuid": "b5d08e44-e74f-4ec9-a534-90c2bc8cfa97"
     },
     {
       "infinitive": "understand",
@@ -2444,7 +3145,11 @@
       "past_tense_reading": "ʌ́ndəsdʉ́d",
       "past_participle_reading": "ʌ́ndəsdʉ́d",
       "context": "the topic",
-      "translation": "зрозуміти"
+      "translation": "зрозуміти",
+      "similar": null,
+      "infinitive_uuid": "89844df6-cf4f-4ab8-bd58-bc7457613985",
+      "past_tense_uuid": "d1f2e206-cbab-4c31-b1af-94c1965cd8bc",
+      "past_participle_uuid": "ae30d439-6a74-410b-a0b8-e9c3659d6fdf"
     },
     {
       "infinitive": "undertake",
@@ -2456,7 +3161,11 @@
       "past_tense_reading": "ʌ́ndətʰʉ́k",
       "past_participle_reading": "ʌ́ndətʰɛ́jkən",
       "context": "simple experiments",
-      "translation": "взяти на себе зобов'язання"
+      "translation": "взяти на себе зобов'язання",
+      "similar": null,
+      "infinitive_uuid": "e71210f1-e34b-4615-aa93-10d13b5fa040",
+      "past_tense_uuid": "1eb56e91-ac64-4c4a-acdb-1972c8c6a36e",
+      "past_participle_uuid": "bcf7babe-67a0-47aa-ac1f-3051c9d28a31"
     },
     {
       "infinitive": "undo",
@@ -2471,7 +3180,11 @@
       "translation": [
         "відмінити",
         "скасувати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "b5e88597-69e6-4832-8cda-cef4fee069c4",
+      "past_tense_uuid": "15b1e760-959e-472b-9541-5c09a4335c56",
+      "past_participle_uuid": "246d7850-ce1f-4dd8-8c32-ce7c9686446a"
     },
     {
       "infinitive": "upset",
@@ -2483,7 +3196,11 @@
       "past_tense_reading": "ʌ́psɛ́t",
       "past_participle_reading": "ʌ́psɛ́t",
       "context": "a friend",
-      "translation": "засмутити"
+      "translation": "засмутити",
+      "similar": null,
+      "infinitive_uuid": "c455977e-a098-41e8-88eb-c223816c4333",
+      "past_tense_uuid": "943460e0-7e03-400b-895c-1f8276d4c85b",
+      "past_participle_uuid": "34c0e196-82d8-4bf9-ac4e-f65816fbca7d"
     },
     {
       "infinitive": "wake",
@@ -2507,7 +3224,11 @@
         "wɛ́jkt"
       ],
       "context": "me up out of a bad dream",
-      "translation": "розбудити"
+      "translation": "розбудити",
+      "similar": null,
+      "infinitive_uuid": "0b71a449-daf7-4df5-b8a4-d4c88c717bb3",
+      "past_tense_uuid": "ea683b93-52a3-400a-876d-65184b72d754",
+      "past_participle_uuid": "e156e2c3-7555-4b4e-bee9-d85171568149"
     },
     {
       "infinitive": "wear",
@@ -2519,7 +3240,14 @@
       "past_tense_reading": "wóː",
       "past_participle_reading": "wóːn",
       "context": "a new suit",
-      "translation": "носити (одяг)"
+      "translation": "носити (одяг)",
+      "similar": [
+        "bear",
+        ""
+      ],
+      "infinitive_uuid": "0725a8ed-3319-4aff-a991-d42126e2157d",
+      "past_tense_uuid": "7c108f75-cd5b-44a8-b36d-aacf6c9481cc",
+      "past_participle_uuid": "5786977a-54e6-45c1-a126-34755e0bf16b"
     },
     {
       "infinitive": "weave",
@@ -2531,7 +3259,11 @@
       "past_tense_reading": "wə́wv",
       "past_participle_reading": "wə́wvən",
       "context": "some wool into fabric",
-      "translation": "сплести"
+      "translation": "сплести",
+      "similar": null,
+      "infinitive_uuid": "f0af45bc-454c-47db-a45f-e93da24f69c6",
+      "past_tense_uuid": "0343e9a1-2252-46a1-9b14-9998fa9ad771",
+      "past_participle_uuid": "5a0ff888-bd08-41ea-922e-7b2962787e49"
     },
     {
       "infinitive": "wed",
@@ -2555,7 +3287,11 @@
         "wɛ́dɪd"
       ],
       "context": "my sister",
-      "translation": "одружитися."
+      "translation": "одружитися.",
+      "similar": null,
+      "infinitive_uuid": "22c6cf41-bb7a-456c-a835-83706f090ba2",
+      "past_tense_uuid": "b86edcab-c543-448a-87f6-33d9f8e2d670",
+      "past_participle_uuid": "7a27403a-f83d-4352-a043-78bb099aa7bd"
     },
     {
       "infinitive": "weep",
@@ -2567,7 +3303,11 @@
       "past_tense_reading": "wɛ́pt",
       "past_participle_reading": "wɛ́pt",
       "context": "tears of joy",
-      "translation": "плакати"
+      "translation": "плакати",
+      "similar": null,
+      "infinitive_uuid": "c31e1183-cf5c-4323-8d30-2deb93ad607c",
+      "past_tense_uuid": "37a4fa19-92e6-447c-b8a6-8717c03b6c40",
+      "past_participle_uuid": "d6c8efef-53f4-499c-87d7-b75adfa9d752"
     },
     {
       "infinitive": "wet",
@@ -2591,7 +3331,11 @@
         "wɛ́tɪd"
       ],
       "context": "the powder",
-      "translation": "намочити"
+      "translation": "намочити",
+      "similar": null,
+      "infinitive_uuid": "e93bf94f-1e37-47dd-8a43-fe9b84881d05",
+      "past_tense_uuid": "d0ad8374-50d1-452d-9acf-7961beef9d88",
+      "past_participle_uuid": "292943ad-e0ab-4afc-9cdb-edd40fb453f0"
     },
     {
       "infinitive": "win",
@@ -2606,7 +3350,11 @@
       "translation": [
         "перемогти",
         "виграти"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "e3538079-100d-495b-b692-9d1b60da2dd5",
+      "past_tense_uuid": "cf1747b4-406e-4a89-a3a3-997604f5c259",
+      "past_participle_uuid": "4f3f9919-ea71-40c9-b843-9aa29a5be3f5"
     },
     {
       "infinitive": "wind",
@@ -2622,7 +3370,11 @@
         "намотувати",
         "заводити",
         "накручувати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "ac70b8a9-5b54-43a3-adb0-28e070de80e6",
+      "past_tense_uuid": "0d16b7c3-ce21-44ac-bf4e-f6e49966b70d",
+      "past_participle_uuid": "31eb4d12-9bd2-4653-9a63-761a89288f29"
     },
     {
       "infinitive": "withdraw",
@@ -2634,7 +3386,11 @@
       "past_tense_reading": "wɪðdɹʉ́w",
       "past_participle_reading": "wɪðdɹóːn",
       "context": "some money out of the back account",
-      "translation": "вивести кошти"
+      "translation": "вивести кошти",
+      "similar": null,
+      "infinitive_uuid": "062a2edf-6197-40c4-bbec-f29baafc5917",
+      "past_tense_uuid": "b0d467ef-a6d4-4b07-9838-6398117935f9",
+      "past_participle_uuid": "87ec6c2a-afb6-42f0-bcf5-3271f912ae24"
     },
     {
       "infinitive": "withstand",
@@ -2649,7 +3405,11 @@
       "translation": [
         "витримати",
         "протистояти"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "39f18356-19ad-43bc-bb52-8307f7408eb8",
+      "past_tense_uuid": "d0cd4ffc-825c-4006-b447-4f7a8bd51abf",
+      "past_participle_uuid": "de663d64-bc17-494f-a821-1a50f2d4ae0a"
     },
     {
       "infinitive": "wring",
@@ -2664,7 +3424,11 @@
       "translation": [
         "вичавити",
         "віджати"
-      ]
+      ],
+      "similar": null,
+      "infinitive_uuid": "7b4f8e6e-d097-46f8-ad64-e5dd30d53a34",
+      "past_tense_uuid": "af69dee3-147d-439c-9989-8dc076553f08",
+      "past_participle_uuid": "b47d2576-850f-47ac-bb05-a2f8022cfb7f"
     },
     {
       "infinitive": "write",
@@ -2676,8 +3440,15 @@
       "past_tense_reading": "ɹə́wt",
       "past_participle_reading": "ɹɪ́tən",
       "context": "a letter",
-      "translation": "писати"
+      "translation": "писати",
+      "similar": [
+        "ride",
+        "stride",
+        "write"
+      ],
+      "infinitive_uuid": "12ae8623-a39a-4902-a430-425c1ad712ea",
+      "past_tense_uuid": "1c0dbe4b-2717-485a-b7ec-dc037d5647ef",
+      "past_participle_uuid": "1eecbd30-c7b6-44c4-ae66-ce9cbbe84407"
     }
   ]
-
 }
