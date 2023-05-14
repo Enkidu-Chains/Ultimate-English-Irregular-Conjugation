@@ -9,11 +9,11 @@ from ueic_note import UEICNote
 
 
 class Word:
-    word: str
+    spelling: str
     reading: str
 
-    def __init__(self, word: str, reading: str) -> None:
-        self.word = word
+    def __init__(self, spelling: str, reading: str) -> None:
+        self.spelling = spelling
         self.reading = reading
 
 
@@ -50,17 +50,17 @@ class Verb:
 
     @property
     def is_tobe(self) -> bool:
-        return self.infinitive.word == "be"
+        return self.infinitive.spelling == "be"
 
     @property
     def verb_type(self) -> VerbType:
         if self.is_tobe:
             return VerbType.DIF_DIF_DIF
 
-        if self.infinitive.word == self.past_tense.word and self.infinitive.word == self.past_participle.word:
+        if self.infinitive.spelling == self.past_tense.spelling and self.infinitive.spelling == self.past_participle.spelling:
             return VerbType.SAME_SAME_SAME
 
-        if self.past_tense.word == self.past_participle.word:
+        if self.past_tense.spelling == self.past_participle.spelling:
             return VerbType.DIF_SAME_SAME
 
         return VerbType.DIF_DIF_DIF
@@ -82,35 +82,35 @@ class Verb:
             self.__create_past_participle_tobe_note()
         ]
 
-    def __set_infinitive(self, infinitive: str, reading: str) -> None:
-        self.infinitive = Word(infinitive, reading)
+    def __set_infinitive(self, spelling: str, reading: str) -> None:
+        self.infinitive = Word(spelling, reading)
 
-    def __set_present_tense(self, present_tense: str | list[str], reading: str | list[str]) -> None:
-        if (str(TobePresentTenseForms.AM) in present_tense and
-            str(TobePresentTenseForms.IS) in present_tense and
-            str(TobePresentTenseForms.ARE) in present_tense):
-            self.present_tense = [Word(present_tense[i], reading[i])
-                                  for i in range(len(present_tense))]
+    def __set_present_tense(self, spelling: str | list[str], reading: str | list[str]) -> None:
+        if (str(TobePresentTenseForms.AM) in spelling and
+            str(TobePresentTenseForms.IS) in spelling and
+            str(TobePresentTenseForms.ARE) in spelling):
+            self.present_tense = [Word(spelling[i], reading[i])
+                                  for i in range(len(spelling))]
         else:
-            self.present_tense = Word(present_tense, reading)
+            self.present_tense = Word(spelling, reading)
 
-    def __set_past_tense(self, past_tense: str | list[str], reading: str | list[str]) -> None:
-        if (str(TobePastTemseForms.WAS) in past_tense and
-            str(TobePastTemseForms.WERE) in past_tense):
-            self.past_tense = [Word(past_tense[i], reading[i])
-                               for i in range(len(past_tense))]
-        elif isinstance(past_tense, list):
-            self.past_tense = Word(past_tense[0], reading= reading[0])
-            self.regular_past_tense = Word(past_tense[1], reading[1])
+    def __set_past_tense(self, spelling: str | list[str], reading: str | list[str]) -> None:
+        if (str(TobePastTemseForms.WAS) in spelling and
+            str(TobePastTemseForms.WERE) in spelling):
+            self.past_tense = [Word(spelling[i], reading[i])
+                               for i in range(len(spelling))]
+        elif isinstance(spelling, list):
+            self.past_tense = Word(spelling[0], reading= reading[0])
+            self.regular_past_tense = Word(spelling[1], reading[1])
         else:
-            self.past_tense = Word(past_tense, reading)
+            self.past_tense = Word(spelling, reading)
 
-    def __set_past_participle(self, past_participle: str | list[str], reading: str | list[str]) -> None:
-        if isinstance(past_participle, list):
-            self.past_participle = Word(past_participle[0], reading[0])
-            self.regular_past_participle = Word(past_participle[1], reading[1])
+    def __set_past_participle(self, spelling: str | list[str], reading: str | list[str]) -> None:
+        if isinstance(spelling, list):
+            self.past_participle = Word(spelling[0], reading[0])
+            self.regular_past_participle = Word(spelling[1], reading[1])
         else:
-            self.past_participle = Word(past_participle, reading)
+            self.past_participle = Word(spelling, reading)
 
     def __set_context(self, context: str) -> None:
         self.context = context
@@ -129,58 +129,58 @@ class Verb:
     def __create_infinitive_note(self) -> UEICNote:
         uuid: str = self.infinitive_uuid
         prompt: str = PromptTemplates.infinitive(
-            self.infinitive.word, self.present_tense.word, self.context)
+            self.infinitive.spelling, self.present_tense.spelling, self.context)
         notes: list[str] = [
             NoteTemplates.infinitive_with_reading_and_translation(
-                self.infinitive.word, self.infinitive.reading, self.translation),
+                self.infinitive.spelling, self.infinitive.reading, self.translation),
             NoteTemplates.conjugation_with_reading(
-                self.present_tense.word, self.present_tense.reading),
-            NoteTemplates.ua_dictionary(self.infinitive.word)
+                self.present_tense.spelling, self.present_tense.reading),
+            NoteTemplates.ua_dictionary(self.infinitive.spelling)
         ]
         tags: list[str] = [self.verb_type,
-                           AnkiNoteType.INFINITIVE, self.infinitive.word]
+                           AnkiNoteType.INFINITIVE, self.infinitive.spelling]
 
         return UEICNote.create(uuid, prompt, notes, tags)
 
     def __create_past_tense_note(self) -> UEICNote:
         uuid: str = self.past_tense_uuid
         prompt: str = PromptTemplates.past_tense(
-            self.infinitive.word, self.past_tense.word, self.context)
+            self.infinitive.spelling, self.past_tense.spelling, self.context)
         notes: list[str] = [
             NoteTemplates.infinitive_with_reading_and_translation(
-                self.infinitive.word, self.infinitive.reading, self.translation),
+                self.infinitive.spelling, self.infinitive.reading, self.translation),
             NoteTemplates.conjugation_with_reading(
-                self.past_tense.word, self.past_tense.reading),
-            (NoteTemplates.regular_conjugation_with_reading(self.regular_past_tense.word,
+                self.past_tense.spelling, self.past_tense.reading),
+            (NoteTemplates.regular_conjugation_with_reading(self.regular_past_tense.spelling,
              self.regular_past_tense.reading) if self.regular_past_tense != None else ""),
-            NoteTemplates.ua_dictionary(self.infinitive.word)
+            NoteTemplates.ua_dictionary(self.infinitive.spelling)
         ]
         tags: list[str] = [self.verb_type,
-                           AnkiNoteType.PAST_TENSE, self.infinitive.word]
+                           AnkiNoteType.PAST_TENSE, self.infinitive.spelling]
 
         return UEICNote.create(uuid, prompt, notes, tags)
 
     def __create_past_participle_note(self) -> UEICNote:
         uuid: str = self.past_participle_uuid
         prompt: str = PromptTemplates.past_participle(
-            self.infinitive.word, self.past_participle.word, self.context)
+            self.infinitive.spelling, self.past_participle.spelling, self.context)
         notes: list[str] = [
             NoteTemplates.infinitive_with_reading_and_translation(
-                self.infinitive.word, self.infinitive.reading, self.translation),
+                self.infinitive.spelling, self.infinitive.reading, self.translation),
             NoteTemplates.conjugation_with_reading(
-                self.past_participle.word, self.past_participle.reading),
-            (NoteTemplates.regular_conjugation_with_reading(self.regular_past_participle.word,
+                self.past_participle.spelling, self.past_participle.reading),
+            (NoteTemplates.regular_conjugation_with_reading(self.regular_past_participle.spelling,
              self.regular_past_participle.reading) if self.regular_past_tense != None else ""),
-            NoteTemplates.ua_dictionary(self.infinitive.word)
+            NoteTemplates.ua_dictionary(self.infinitive.spelling)
         ]
         tags: list[str] = [self.verb_type,
-                           AnkiNoteType.PAST_PARTICIPLE, self.infinitive.word]
+                           AnkiNoteType.PAST_PARTICIPLE, self.infinitive.spelling]
 
         return UEICNote.create(uuid, prompt, notes, tags)
 
     def __create_infinitive_tobe_note(self, tobe_form: TobePresentTenseForms) -> UEICNote:
         i: int = [self.present_tense.index(
-            form) for form in self.present_tense if form.word == str(tobe_form)][0]
+            form) for form in self.present_tense if form.spelling == str(tobe_form)][0]
         tobe_prompt: Callable[[str, str, str], str]
 
         if tobe_form == TobePresentTenseForms.AM:
@@ -192,22 +192,22 @@ class Verb:
 
         uuid: str = self.infinitive_uuid[i]
         prompt: str = tobe_prompt(
-            self.infinitive.word, self.present_tense[i].word, self.context)
+            self.infinitive.spelling, self.present_tense[i].spelling, self.context)
         notes: list[str] = [
             NoteTemplates.infinitive_with_reading_and_translation(
-                self.infinitive.word, self.infinitive.reading, self.translation),
+                self.infinitive.spelling, self.infinitive.reading, self.translation),
             NoteTemplates.conjugation_with_reading(
-                self.present_tense[i].word, self.present_tense[i].reading),
-            NoteTemplates.ua_dictionary(self.infinitive.word)
+                self.present_tense[i].spelling, self.present_tense[i].reading),
+            NoteTemplates.ua_dictionary(self.infinitive.spelling)
         ]
         tags: list[str] = [self.verb_type,
-                           AnkiNoteType.INFINITIVE, self.infinitive.word]
+                           AnkiNoteType.INFINITIVE, self.infinitive.spelling]
 
         return UEICNote.create(uuid, prompt, notes, tags)
 
     def __create_past_tense_tobe_note(self,  tobe_form: TobePastTemseForms) -> UEICNote:
         i: int = [self.past_tense.index(
-            form) for form in self.past_tense if form.word == str(tobe_form)][0]
+            form) for form in self.past_tense if form.spelling == str(tobe_form)][0]
         tobe_prompt: Callable[[str, str, str], str]
 
         if tobe_form == TobePastTemseForms.WAS:
@@ -217,31 +217,31 @@ class Verb:
 
         uuid: str = self.past_tense_uuid[i]
         prompt: str = tobe_prompt(
-            self.infinitive.word, self.past_tense[i].word, self.context)
+            self.infinitive.spelling, self.past_tense[i].spelling, self.context)
         notes: list[str] = [
             NoteTemplates.infinitive_with_reading_and_translation(
-                self.infinitive.word, self.infinitive.reading, self.translation),
+                self.infinitive.spelling, self.infinitive.reading, self.translation),
             NoteTemplates.conjugation_with_reading(
-                self.past_tense[i].word, self.past_tense[i].reading),
-            NoteTemplates.ua_dictionary(self.infinitive.word)
+                self.past_tense[i].spelling, self.past_tense[i].reading),
+            NoteTemplates.ua_dictionary(self.infinitive.spelling)
         ]
         tags: list[str] = [self.verb_type,
-                           AnkiNoteType.PAST_TENSE, self.infinitive.word]
+                           AnkiNoteType.PAST_TENSE, self.infinitive.spelling]
 
         return UEICNote.create(uuid, prompt, notes, tags)
 
     def __create_past_participle_tobe_note(self) -> UEICNote:
         uuid: str = self.past_participle_uuid
         prompt: str = TobePromptTemplates.past_participle(
-            self.infinitive.word, self.past_participle.word, self.context)
+            self.infinitive.spelling, self.past_participle.spelling, self.context)
         notes: list[str] = [
             NoteTemplates.infinitive_with_reading_and_translation(
-                self.infinitive.word, self.infinitive.reading, self.translation),
+                self.infinitive.spelling, self.infinitive.reading, self.translation),
             NoteTemplates.conjugation_with_reading(
-                self.past_participle.word, self.past_participle.reading),
-            NoteTemplates.ua_dictionary(self.infinitive.word)
+                self.past_participle.spelling, self.past_participle.reading),
+            NoteTemplates.ua_dictionary(self.infinitive.spelling)
         ]
         tags: list[str] = [self.verb_type,
-                           AnkiNoteType.PAST_PARTICIPLE, self.infinitive.word]
+                           AnkiNoteType.PAST_PARTICIPLE, self.infinitive.spelling]
 
         return UEICNote.create(uuid, prompt, notes, tags)
