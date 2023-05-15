@@ -71,7 +71,7 @@ Each card has such a part at the top of the notes.
 
 ![Infinitive Part of Notes](images/Infinitive%20Part%20of%20Notes.png)
 
-- The infinitive form of the verb — here, *`break`* — is also a link to the Cambrige Dictionary with the definition in English.
+- The infinitive form of the verb — here, *`break`* — is also a link to the Cambridge Dictionary with the definition in English.
 - Second comes the reading — here, *`[bɹɛ́jk]`*  —, the source of the reading for word is [Cube Dictionary](http://cube.elte.hu/)
 - The last part is the translation, by default to Ukrainian — here, розбити, зламати —, I used [DeepL](https://www.deepl.com/translator) and [Google](https://translate.google.com/) Translators, and my own knowledge.
 
@@ -95,7 +95,7 @@ Some irregular verbs have regular past and past participle conjugation forms, so
 
 #### **Notes: UA Dictionary:**
 
-The link to the Cambrige Dictionary with Ukrainan translation.
+The link to the Cambridge Dictionary with Ukrainian  translation.
 
 ![UA Dictionary](images/UA%20Dictionary.png)
 
@@ -147,29 +147,29 @@ The card is prompting for *abode*.
 
 ### How to Pace the Study?
 
-At first, create new deck options for this deck and use these settings there:
+First, create new deck options for this deck and use these settings there:
 
-Anki version > 2.1.46 (the option menu changed then)
+Anki version > 2.1.46 (the options menu changed then)
 
 - New cards per day: 30
-- Maximum reviews per day: 200
+- Maximum reviews per day: 300
 - Learning steps: 2m 15m 1d 4d 10d
 - Graduating interval: 30
 - Easy interval: 4
 - Insertion order: sequential
 - Lapses: 15m 1 9999 Tag only
-- Maximum answer seconds: 40
+- Maximum answer seconds: 60
 - Burying: both unchecked
 - Advanced: 1826 2.50 1.30 1.00 1.20 0.00
 
-Anki version < 2.1.46 (the option menu was different then)
+Anki version < 2.1.46 (the options menu was different then)
 
 - New cards: steps = 2 15 1440 5760 14400, order = new cards in order added, new cards/day = 30, graduating interval = 30, easy interval = 4, starting ease = 250%
-- Reviews: maximum = 200, easy bonus = 130%, interval modifier = 100%, maximum interval = 1826
+- Reviews: maximum = 300, easy bonus = 130%, interval modifier = 100%, maximum interval = 1826
 - Lapses: steps = 15, new interval = 0%, minimum interval = 1 day, leech threshold = 9999, leech action = tag only
-- General: max answer time = 40 seconds, show answer timer
+- General: max answer time = 60 seconds, show answer timer
 
-Anki will make everything automaticaly.
+Anki will make everything automatically.
 
 ### Tags and Filtering
 
@@ -178,3 +178,157 @@ Although this is not how I recommend beginners use the deck, if you're an advanc
 ---
 
 ## Ukrainian Manual
+
+На мою думку ви **маєте** прочитати цей мануал щоб правильно використовувати цю колоду, тому що ви, напевно, проведете в ній десь місяць/місяць з половиною. Тому будь ласка, витратьте декілька хвилин свого часу на читання мануалу щоб розуміти як все працює.
+
+Перд тим як ми почнемо, ви:
+
+- маєте встановити колоду карток з [AnkiWeb](https://ankiweb.net/shared/info/643582787) або [цього файлу](Ultimate$20English$20Irregular$20Conjugation.apkg) тут, на GitHub.
+- щоб використовувати це, маєте встановити одну з цих програм: [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) (Android), [Anki Desktop](https://apps.ankiweb.net/) (Windows | Mac | Linux), чи [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (iOS).
+- Ви також можете покращити цю колоду, або виправти помилки тут, на [GitHub](<https://github.com/Enkidu-Chains/Ultimate-English-Irregular-Conjugation>).
+
+### Індекс
+
+- [Анатомія Флеш-Картки](#анатомія-флеш-картки)
+- [Посібник з Вербальних та Візуальних Підказок](#посібник-з-вербальних-та-візуальних-підказок)
+- [Як Регулювати Темп Навчання?](#як-регулювати-темп-навчання)
+- [Теги та Фільтрація](#теги-та-фільтрація)
+
+### Анатомія Флеш-Картки
+
+Ось як виглядає одна картка
+
+![Front Side](images/Front%20Side.png)
+
+![Back Side](images/Back%20Side.png)
+
+#### **Промпт:**
+
+Промтп - це пердня сторона картки.
+
+![The Prompt](images/The%20Prompt.png)
+
+- Дієслово, яке ви маєте відмінювати, зявляється в `[...душках...]`
+- Фраза `At that time,` й сстрілка, яка дивиться в ліво, `←` повідомляє вас, що ви маєте використати дієслово в формі *минулого часу*
+
+Деколи фрагмент, виділений сірим — тут, `(the arm)` — зявляється щоб дати фразі більше сенсу. *Але фраза не завжди має мати сенс, ціль не в вивченні фаз, а в виченні дієвідмін.*
+
+#### **Відповідь:**
+
+На верхній частині задньої сторони картки показана відповідь.
+
+![The Answer](images/The%20Answer.png)
+
+#### **Дієслова з однієї сімї:**
+
+Ще не ралізовано.
+
+#### **Примітка: Інфінітив:**
+
+Кожна картка має таку частину зверху довідки.
+
+![Infinitive Part of Notes](images/Infinitive%20Part%20of%20Notes.png)
+
+- Інфінітивна форма дієслова — тут, *`break`* — також є посиланням на Кембриджський словник з визначенням англійською мовою.
+- Далі йде читання — тут *`[bɹɛ́jk]`* —, джерелом читання для слова є [Cube Dictionary](http://cube.elte.hu/)
+- Остання частина - це переклад, за замовчуванням на українську мову — тут, *розбити, зламати* —, я використовував перекладачі [DeepL](https://www.deepl.com/translator) та [Google](https://translate.google.com/), а також свої власні знання.
+
+#### **Примітка: Дієвідмінювання:**
+
+Кожна картка має таку частину після наведеної вище.
+
+![Conjugation Part of Notes](images/Conjugation%20Part%20of%20Notes.png)
+
+- Тут показано дієвідмінювану форму дієслова — тут, `broke`.
+- І його читання — тут, *`[bɹə́wk]`*.
+
+#### **Примітка: Регулягне Дієвідмінювання
+
+Деякі неправильні дієслова мають правильні форми минулого часу та дієприкметника, тому вони мають таку частину.
+
+![Regular Conjugation Part of Notes](images/Regular%20Conjugation%20Part%20of%20Notes.png)
+
+- Тут показано правильну дієвідмінювану форму дієслова - тут, `abided`.
+- І його читання - тут, *`[əbɑ́jdɪd]`*.
+
+#### **Примітка: UA Dictionary:**
+
+Посилання на Кембриджський словник з українським перекладом.
+
+![UA Dictionary](images/UA%20Dictionary.png)
+
+#### **Мануал:**
+
+Посилання на цей посібник та списки тегів і слів.
+
+![Manual](images/Manual.png)
+
+#### **Теги:**
+
+Список тегів до цієї замітки.
+
+![Tags](images/Tags.png)
+
+### Посібник з Вербальних та Візуальних Підказок
+
+У цьому розділі ви дізнаєтеся про вербальні та візуальні "ярлики", які допоможуть вам швидше та легше засвоїти матеріал.
+
+#### **Інфінітив:**
+
+Підказки для *інфінітива* мають
+
+- вербальну підказку: `The verb in`
+- візуальну підказку, символ "око яблучко": `⊙`
+
+![Infinitive](images/Infinitive.png)
+
+Картка спонукає до *abide*.
+
+#### **Минулий Час:**
+
+Підказки для *минулого часу* мають
+
+- вербальну підказку: `At that time,`.
+- візуальну підказку, стрілка вліво `←`.
+
+![Past Tense](images/Past%20Tense.png)
+
+Картка спонукає до *abode*.
+
+#### **Дієприкметник Минулого Часу:**
+
+Підказки для *дієприкметника минулого часу* мають словесну підказку: `Jonatan has`.
+
+![Past Participle](images/Past%20Participle.png)
+
+Картка спонукає до *abode*.
+
+### Як регулювати темп навчання?
+
+Спочатку створіть нові опції колоди для цієї колоди і використовуйте ці налаштування там:
+
+Версія Anki > 2.1.46 (тоді меню опцій змінилося)
+
+- Нові карти на день: 30
+- Максимальне число перевірок на день: 300
+- Кроки навчання: 2м 15м 1д 4д 10д
+- Випускний інтервал: 30
+- Легкий інтервал: 4
+- Порядок вставки: послідовний
+- Пропуски: 15м 1 9999 Тільки мітка
+- Максимальна кількість секунд на відповідь: 60
+- Поховання: обидва не позначені
+- Просунуті: 1826 2.50 1.30 1.00 1.20 0.00
+
+Версія Anki < 2.1.46 (тоді меню опцій було іншим)
+
+- Нові картки: кроки = 2 15 1440 5760 14400, порядок = додано нові картки в порядку додавання, нові картки/день = 30, випускний інтервал = 30, легкий інтервал = 4, легкість старту = 250%.
+- Перевірки: максимум = 300, легкий бонус = 130%, модифікатор інтервалу = 100%, максимальний інтервал = 1826
+- Пропуски: кроків = 15, новий інтервал = 0%, мінімальний інтервал = 1 день, поріг п'явок = 9999, дія п'явок = тільки тег
+- Загальні: максимальний час відповіді = 60 секунд, показувати таймер відповіді
+
+Anki зробить все автоматично.
+
+### Теги та Фільтрація
+
+Хоча я не рекомендую використовувати колоду в такий спосіб новачкам, але якщо ви просунутий учень, іноді вам може знадобитися зосередитися на вивченні певної частини колоди. Для цього ви можете створити відфільтровані колоди за допомогою тегів з [цього файлу](List%20of%20Words%20and%20Tags.md).
