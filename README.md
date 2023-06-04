@@ -207,7 +207,7 @@ from [this file](List%20of%20Words%20and%20Tags.md).
 Перд тим як ми почнемо, ви:
 
 - маєте встановити колоду карток з [AnkiWeb](https://ankiweb.net/shared/info/154222898)
-  або [цього файлу]([Shared]$20Ultimate$20English$20Irregular$20Conjugation.apkg) тут, на GitHub.
+  або [цього файлу]((%5BShared%5D%20Ultimate%20English%20Irregular%20Conjugation.apkg)) тут, на GitHub.
 - щоб використовувати це, маєте встановити одну з цих
   програм: [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) (
   Android), [Anki Desktop](https://apps.ankiweb.net/) (Windows | Mac | Linux),
