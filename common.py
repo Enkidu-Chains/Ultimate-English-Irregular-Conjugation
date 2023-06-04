@@ -6,7 +6,7 @@ from stored_verb import StoredVerb
 
 UEICDeck = genanki.Deck(
     1514828717,
-    "[Shared] Ultimate English Irregular Conjugation"
+    "English::[Shared] Ultimate English Irregular Conjugation"
 )
 
 front_card = open("static/front.html", "r")
