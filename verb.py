@@ -1,9 +1,9 @@
 from typing import Callable
 
-from stored_verb import StoredVerb
 from enums import AnkiNoteType, TobePastTemseForms, TobePresentTenseForms, VerbType
-from templates.prompt_templates import PromptTemplates
+from stored_verb import StoredVerb
 from templates.note_templates import NoteTemplates
+from templates.prompt_templates import PromptTemplates
 from templates.tobe_prompt_templates import TobePromptTemplates
 from ueic_note import UEICNote
 
@@ -87,8 +87,8 @@ class Verb:
 
     def __set_present_tense(self, spelling: str | list[str], reading: str | list[str]) -> None:
         if (str(TobePresentTenseForms.AM) in spelling and
-            str(TobePresentTenseForms.IS) in spelling and
-            str(TobePresentTenseForms.ARE) in spelling):
+                str(TobePresentTenseForms.IS) in spelling and
+                str(TobePresentTenseForms.ARE) in spelling):
             self.present_tense = [Word(spelling[i], reading[i])
                                   for i in range(len(spelling))]
         else:
@@ -96,11 +96,11 @@ class Verb:
 
     def __set_past_tense(self, spelling: str | list[str], reading: str | list[str]) -> None:
         if (str(TobePastTemseForms.WAS) in spelling and
-            str(TobePastTemseForms.WERE) in spelling):
+                str(TobePastTemseForms.WERE) in spelling):
             self.past_tense = [Word(spelling[i], reading[i])
                                for i in range(len(spelling))]
         elif isinstance(spelling, list):
-            self.past_tense = Word(spelling[0], reading= reading[0])
+            self.past_tense = Word(spelling[0], reading=reading[0])
             self.regular_past_tense = Word(spelling[1], reading[1])
         else:
             self.past_tense = Word(spelling, reading)
@@ -152,7 +152,7 @@ class Verb:
             NoteTemplates.conjugation_with_reading(
                 self.past_tense.spelling, self.past_tense.reading),
             (NoteTemplates.regular_conjugation_with_reading(self.regular_past_tense.spelling,
-             self.regular_past_tense.reading) if self.regular_past_tense != None else ""),
+                                                            self.regular_past_tense.reading) if self.regular_past_tense != None else ""),
             NoteTemplates.ua_dictionary(self.infinitive.spelling)
         ]
         tags: list[str] = [self.verb_type,
@@ -170,7 +170,7 @@ class Verb:
             NoteTemplates.conjugation_with_reading(
                 self.past_participle.spelling, self.past_participle.reading),
             (NoteTemplates.regular_conjugation_with_reading(self.regular_past_participle.spelling,
-             self.regular_past_participle.reading) if self.regular_past_tense != None else ""),
+                                                            self.regular_past_participle.reading) if self.regular_past_tense != None else ""),
             NoteTemplates.ua_dictionary(self.infinitive.spelling)
         ]
         tags: list[str] = [self.verb_type,
@@ -205,7 +205,7 @@ class Verb:
 
         return UEICNote.create(uuid, prompt, notes, tags)
 
-    def __create_past_tense_tobe_note(self,  tobe_form: TobePastTemseForms) -> UEICNote:
+    def __create_past_tense_tobe_note(self, tobe_form: TobePastTemseForms) -> UEICNote:
         i: int = [self.past_tense.index(
             form) for form in self.past_tense if form.spelling == str(tobe_form)][0]
         tobe_prompt: Callable[[str, str, str], str]

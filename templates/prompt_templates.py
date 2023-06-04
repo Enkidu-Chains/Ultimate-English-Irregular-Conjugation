@@ -6,7 +6,7 @@ class PromptTemplates:
         <span class="cloze_hilite">he/she {present_tense}</span> <span class="orientation_hint">({context})</span><br>
         is <span class="info_cloze">{{{{c1::{infinitive}}}}}</span>
         """
-    
+
     @staticmethod
     def past_tense(infinitive: str, past_tense: str, context: str) -> str:
         return f"""
@@ -14,7 +14,7 @@ class PromptTemplates:
         <br>
         <span class="cloze_pronoun">you</span> <span class="en_verb">{{{{c1::{past_tense}::...{infinitive}...}}}}</span> <span class="en_hint">({context})</span>
         """
-    
+
     @staticmethod
     def past_participle(infinitive: str, past_participle: str, context: str) -> str:
         return f"""

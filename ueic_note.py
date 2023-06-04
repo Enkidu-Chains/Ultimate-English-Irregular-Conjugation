@@ -5,7 +5,8 @@ from common import UEICModel
 
 class UEICNote(genanki.Note):
     @staticmethod
-    def create(uuid: str, prompt: str, notes: list[str], tags: list[str], similar: list[str] | None = None) -> "UEICNote":
+    def create(uuid: str, prompt: str, notes: list[str], tags: list[str],
+               similar: list[str] | None = None) -> "UEICNote":
         similar: str = "" if similar == None else "".join(similar)
         notes: str = "".join(notes)
 

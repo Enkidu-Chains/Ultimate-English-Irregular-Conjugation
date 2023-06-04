@@ -33,7 +33,7 @@ class TobePromptTemplates:
 
     @staticmethod
     def past_tense_were(
-        infinitive: str, past_tense: str, context: str
+            infinitive: str, past_tense: str, context: str
     ) -> str:
         return f"""
         <span class="past_tense">← At that time, ←</span><br>
