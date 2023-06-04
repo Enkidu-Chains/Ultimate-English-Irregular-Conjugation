@@ -33,7 +33,7 @@ month/month and a half. So please, spend some time on reading this to understand
 Before we start, here is where things are:
 
 - Install the deck from [AnkiWeb](https://ankiweb.net/shared/info/154222898)
-  or [this file]([Shared]$20Ultimate$20English$20Irregular$20Conjugation.apkg) here, on GitHub.
+  or [this file](%5BShared%5D%20Ultimate%20English%20Irregular%20Conjugation.apkg) here, on GitHub.
 - To use it, you need to install
   either [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) (
   Android), [Anki Desktop](https://apps.ankiweb.net/) (Windows | Mac | Linux),
